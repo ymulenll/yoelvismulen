@@ -5,7 +5,11 @@ import cx from 'classnames'
 
 export function Navbar() {
   return (
-    <div className={"fixed flex w-full bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10"}>
+    <div
+      className={
+        'fixed flex w-full bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10'
+      }
+    >
       <Icon href="/">
         <RightIcon />
       </Icon>
@@ -40,9 +44,13 @@ const Icon = ({
     <Link href={href}>
       <a
         className={cx(
-          'group transition flex items-center px-6 sm:px-4 sm:py-3 cursor-pointer hover:bg-gray-100',
+          'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover:bg-gray-100',
           className,
-          { 'text-orange-500': isActive, 'text-gray-400': !isActive }
+          { 'text-orange-500': isActive, 'text-gray-400': !isActive },
+          {
+            'relative before:absolute before:block before:h-[2px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-500 before:bg-opacity-80 before:left-0 before:top-0':
+              isActive,
+          }
         )}
       >
         {children}
@@ -55,15 +63,17 @@ const LogoImage = ({ href }: { href: string }) => {
   const router = useRouter()
   const isActive = router.pathname === href
   return (
-    <Image
-      src="/profile.png"
-      alt="Profile image"
-      width={32}
-      height={32}
-      className={cx('rounded-full filter grayscale', {
-        'filter-none': isActive,
-      })}
-    />
+    <div className="flex items-center">
+      <Image
+        src="/profile.png"
+        alt="Profile image"
+        width={32}
+        height={32}
+        className={cx('rounded-full filter grayscale', {
+          'filter-none': isActive,
+        })}
+      />
+    </div>
   )
 }
 
@@ -72,7 +82,7 @@ const iconStylesTW = 'fill-current stroke-current w-8'
 const RightIcon = () => (
   <svg
     width="60"
-    height="49"
+    height="32"
     viewBox="0 0 60 49"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
@@ -90,7 +100,7 @@ const RightIcon = () => (
 const VideosIcon = () => (
   <svg
     width="60"
-    height="61"
+    height="32"
     viewBox="0 0 60 61"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
@@ -104,7 +114,7 @@ const VideosIcon = () => (
 const PlaylistsIcon = () => (
   <svg
     width="60"
-    height="54"
+    height="32"
     viewBox="0 0 60 54"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
@@ -117,7 +127,7 @@ const PlaylistsIcon = () => (
 const InfoIcon = () => (
   <svg
     width="60"
-    height="64"
+    height="32"
     viewBox="0 0 60 64"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
