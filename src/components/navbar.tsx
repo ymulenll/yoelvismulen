@@ -1,21 +1,16 @@
 import { useRouter } from 'next/dist/client/router'
 import Image from 'next/image'
 import Link from 'next/link'
+import cx from 'classnames'
 
 export function Navbar() {
   return (
-    <div className="fixed flex w-full bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10">
+    <div className={"fixed flex w-full bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10"}>
       <Icon href="/">
         <RightIcon />
       </Icon>
       <Icon href="/home">
-        <Image
-          src="/profile.png"
-          alt="Profile image"
-          width={32}
-          height={32}
-          className="rounded-full filter grayscale group-hover:filter-none"
-        />
+        <LogoImage href="/home" />
       </Icon>
       <Icon href="/videos">
         <VideosIcon />
@@ -40,20 +35,39 @@ const Icon = ({
   href: string
 }) => {
   const router = useRouter()
+  const isActive = router.pathname === href
   return (
-    <div
-      className={`group flex items-center px-4 sm:py-3 cursor-pointer hover:bg-gray-100 ${
-        className ?? ''
-      }`}
-    >
-      <Link href={href}>
-        <a>{children}</a>
-      </Link>
-    </div>
+    <Link href={href}>
+      <a
+        className={cx(
+          'group transition flex items-center px-6 sm:px-4 sm:py-3 cursor-pointer hover:bg-gray-100',
+          className,
+          { 'text-orange-500': isActive, 'text-gray-400': !isActive }
+        )}
+      >
+        {children}
+      </a>
+    </Link>
   )
 }
 
-const iconStylesTW = 'fill-current stroke-current text-gray-400 group-hover:text-orange-500 w-8'
+const LogoImage = ({ href }: { href: string }) => {
+  const router = useRouter()
+  const isActive = router.pathname === href
+  return (
+    <Image
+      src="/profile.png"
+      alt="Profile image"
+      width={32}
+      height={32}
+      className={cx('rounded-full filter grayscale', {
+        'filter-none': isActive,
+      })}
+    />
+  )
+}
+
+const iconStylesTW = 'fill-current stroke-current w-8'
 
 const RightIcon = () => (
   <svg
@@ -107,7 +121,7 @@ const InfoIcon = () => (
     viewBox="0 0 60 64"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
-    className={`${iconStylesTW} group-hover:text-blue-500`}
+    className={iconStylesTW}
   >
     <path d="M50.3125 53.75H9.6875L0.3125 63.125V10C0.3125 4.84375 4.53125 0.625 9.6875 0.625H50.3125C55.4687 0.625 59.6875 4.84375 59.6875 10V44.375C59.6875 49.5312 55.4687 53.75 50.3125 53.75Z" />
     <path d="M26.875 22.5H33.125V39.6875H26.875V22.5Z" fill="white" />
