@@ -7,7 +7,7 @@ export function Navbar() {
   return (
     <div
       className={
-        'fixed flex w-full bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10'
+        'fixed border-t sm:border-t-0 sm:border-r flex w-screen bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10'
       }
     >
       <Icon href="/">
