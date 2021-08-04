@@ -44,11 +44,11 @@ const Icon = ({
     <Link href={href}>
       <a
         className={cx(
-          'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover:bg-gray-100',
+          'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover:bg-gray-100 flex-shrink-0',
           className,
           { 'text-orange-500': isActive, 'text-gray-400': !isActive },
           {
-            'relative before:absolute before:block before:h-[2px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-500 before:bg-opacity-80 before:left-0 before:top-0':
+            'relative before:absolute before:block before:h-[1.5px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-400 before:bg-opacity-80 before:left-0 before:top-0':
               isActive,
           }
         )}
