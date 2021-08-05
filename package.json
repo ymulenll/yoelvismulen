@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "debug": "cross-env NODE_OPTIONS='--inspect' next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.1",
     "classnames": "^2.3.1",
     "next": "11.0.1",
     "react": "17.0.2",
@@ -17,6 +19,7 @@
   "devDependencies": {
     "@types/react": "17.0.15",
     "autoprefixer": "^10.3.1",
+    "cross-env": "^7.0.3",
     "eslint": "7.32.0",
     "eslint-config-next": "11.0.1",
     "eslint-config-prettier": "^8.3.0",
