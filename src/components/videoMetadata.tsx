@@ -7,5 +7,9 @@ type Props = {
 }
 
 export default function VideoMetadata({ video }: Props): ReactElement {
-  return <div>{getHumanTimeTo(video.publishedAt)}</div>
+  return (
+    <div className="text-gray-600 font-medium text-right p-2 mt-2">
+      {getHumanTimeTo(video.publishedAt)}
+    </div>
+  )
 }

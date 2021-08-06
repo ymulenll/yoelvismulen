@@ -8,6 +8,7 @@ import {
 import ReactPlayer from 'react-player'
 import cx from 'classnames'
 import VideoDescription from '../../components/videoDescription'
+import VideoMetadata from '../../components/videoMetadata'
 
 type Props = {
   videoData?: YTVideo
@@ -46,6 +47,7 @@ export default function Video({ videoData }: Props) {
               }}
             />
           </div>
+          <VideoMetadata video={videoData} />
           <VideoDescription className="p-5 mt-2 md:p-8 text-xl">
             {videoData.description}
           </VideoDescription>
@@ -54,10 +56,6 @@ export default function Video({ videoData }: Props) {
     </div>
   )
 }
-
-// const Description = ({children}:{children: string}) => {
-
-// }
 
 export const getStaticPaths: GetStaticPaths = () => {
   const videoSlugs = getAllYouTubeVideoSlugs()

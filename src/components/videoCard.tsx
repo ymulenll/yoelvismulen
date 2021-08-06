@@ -15,7 +15,7 @@ export default function VideoCard({ video }: Props) {
     <Link href={`/videos/${video.slug}`}>
       <a
         className={cx(
-          'max-w-[480px] space-y-8 pb-8 border shadow-xl rounded-lg',
+          'max-w-[480px] space-y-4 pb-4 border shadow-xl rounded-lg',
           'hover:-translate-y-0.5 hover:shadow-2xl transition cursor-pointer'
         )}
       >
@@ -34,7 +34,7 @@ export default function VideoCard({ video }: Props) {
             {video.duration}
           </Duration>
         </div>
-        <div className="text-xl sm:text-2xl px-5">{video.title}</div>
+        <div className="text-lg sm:text-xl font-medium px-5">{video.title}</div>
         <div className="flex flex-wrap gap-3 px-5 mt-auto">
           {video.descriptionTags.map((tag) => (
             <Tag key={tag}>{tag}</Tag>

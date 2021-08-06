@@ -18,7 +18,7 @@ export default function Videos({ videosData }: Props) {
         <h1 className="text-4xl text-center sm:text-left p-5 text-gray-700 font-semibold my-4 border-b-2 border-dashed">
           Contenido
         </h1>
-        <div className="grid grid-cols-[90%] md:grid-cols-[repeat(auto-fill,300px)] lg:grid-cols-[repeat(auto-fill,400px)] py-5 sm:py-10 px-5 gap-y-5 gap:5 md:gap-7 lg:gap-10 justify-evenly">
+        <div className="grid grid-cols-1 md:grid-cols-[repeat(auto-fill,300px)] lg:grid-cols-[repeat(auto-fill,400px)] py-5 sm:py-10 px-5 gap-y-5 gap:5 md:gap-7 lg:gap-10 justify-items-center justify-evenly">
           {videosData.map((video) => (
             <VideoCard key={video.id} video={video} />
           ))}
