@@ -1,7 +1,6 @@
 import dayjs from 'dayjs'
-import duration from 'dayjs/plugin/duration'
+import { formatDuration } from '../lib/dates'
 
-dayjs.extend(duration)
 
 type Props = {
   children: string
@@ -11,9 +10,7 @@ type Props = {
 export const Duration = ({ children: duration, className }: Props) => {
   return (
     <div className={className}>
-      {dayjs
-        .duration(duration)
-        .format(`${duration.includes('H') ? 'H:' : ''}m:ss`)}
+      {formatDuration(duration)}
     </div>
   )
 }
