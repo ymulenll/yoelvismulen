@@ -1,14 +1,21 @@
-import React from 'react'
-import { YTVideoSnippet } from '../lib/videos'
+import { YTVideo } from '../lib/videos'
 import Image from 'next/image'
+import React from 'react'
+import Tag from './tag'
+import cx from 'classnames'
 
 type Props = {
-  video: YTVideoSnippet
+  video: YTVideo
 }
 
 export default function VideoCard({ video }: Props) {
   return (
-    <div className="w-[90vw] max-w-[480px] space-y-3 pb-5 border shadow-xl rounded-lg">
+    <div
+      className={cx(
+        'max-w-[480px] space-y-8 pb-8 border shadow-xl rounded-lg',
+        'hover:-translate-y-0.5 hover:shadow-2xl transition cursor-pointer'
+      )}
+    >
       <Image
         src={video.thumbnails.high.url}
         alt={video.title}
@@ -20,6 +27,11 @@ export default function VideoCard({ video }: Props) {
         className="rounded-t-lg"
       />
       <div className="text-xl sm:text-2xl px-5">{video.title}</div>
+      <div className="flex flex-wrap gap-3 px-5 mt-auto">
+        {video.descriptionTags.map((tag) => (
+          <Tag key={tag}>{tag}</Tag>
+        ))}
+      </div>
     </div>
   )
 }

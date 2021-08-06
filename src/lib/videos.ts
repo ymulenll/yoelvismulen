@@ -1,35 +1,60 @@
-import videos from '../data/videos.json'
+import videos from '../data/videoDetails.json'
 
-export interface YTVideoSnippet {
+export interface YTVideo {
   id: string
   title: string
   description: string
   publishedAt: string
   thumbnails: Thumbnails
+  tags?: string[]
+  descriptionTags: string[]
+  duration: string
+  embedHtml: string
 }
 
 export interface Thumbnails {
-  default: Default
-  medium: Default
-  high: Default
-  standard?: Default
-  maxres?: Default
+  default: Thumbnail
+  medium: Thumbnail
+  high: Thumbnail
+  standard?: Thumbnail
+  maxres?: Thumbnail
 }
 
-export interface Default {
+export interface Thumbnail {
   url: string
   width: number
   height: number
 }
 
-export function getYouTubeVideos(): YTVideoSnippet[] {
-  const snippets: YTVideoSnippet[] = videos.items.map(({ snippet }) => ({
-    id: snippet.resourceId.videoId,
-    title: snippet.title,
-    description: snippet.description,
-    publishedAt: snippet.publishedAt,
-    thumbnails: snippet.thumbnails,
-  }))
+export function getYouTubeVideos(): YTVideo[] {
+  const snippets: YTVideo[] = videos.items.map(
+    ({
+      id,
+      snippet: { title, description, publishedAt, thumbnails, tags = [] },
+      contentDetails: { duration },
+      player: { embedHtml },
+    }) => {
+      const descriptionTags = extractDescriptionTags(description)
+      return {
+        id,
+        title,
+        description,
+        publishedAt,
+        thumbnails,
+        tags,
+        duration,
+        embedHtml,
+        descriptionTags,
+      }
+    }
+  )
 
   return snippets
+}
+
+const extractDescriptionTags = (description: string) => {
+  const tags = [...description.matchAll(/#(\w+)/g)].map((value) => value[1])
+  const uniqTags = [...new Set(tags)]
+
+  return uniqTags
 }
