@@ -7,6 +7,7 @@ import {
 } from '../../lib/videos'
 import ReactPlayer from 'react-player'
 import cx from 'classnames'
+import VideoDescription from '../../components/videoDescription'
 
 type Props = {
   videoData?: YTVideo
@@ -45,23 +46,12 @@ export default function Video({ videoData }: Props) {
               }}
             />
           </div>
-          <div
-            className="p-5 mt-2 md:p-8 text-xl whitespace-pre-wrap"
-            dangerouslySetInnerHTML={{ __html: linkify(videoData.description) }}
-          />
+          <VideoDescription className="p-5 mt-2 md:p-8 text-xl">
+            {videoData.description}
+          </VideoDescription>
         </div>
       </article>
     </div>
-  )
-}
-
-function linkify(text: string) {
-  var urlRegex =
-    /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gi
-  return text.replace(
-    urlRegex,
-    (url) =>
-      `<a href="${url}" target="_blank" class="text-blue-900 max-w-full inline-block overflow-hidden whitespace-nowrap overflow-ellipsis">${url}</a>`
   )
 }
 
