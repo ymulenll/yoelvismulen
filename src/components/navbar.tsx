@@ -69,6 +69,7 @@ const LogoImage = ({ href }: { href: string }) => {
         alt="Profile image"
         width={32}
         height={32}
+        layout="fixed"
         className={cx('rounded-full filter grayscale', {
           'filter-none': isActive,
         })}
