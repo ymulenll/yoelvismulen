@@ -25,8 +25,7 @@ export default function Video({ videoData }: Props) {
       <article className="">
         <h1
           className={cx(
-            'text-4xl text-center sm:text-left p-5 text-gray-700 font-semibold my-4 border-b-2 border-dashed'
-            // 'text-center'
+            'text-4xl sm:text-left p-5 text-gray-700 font-semibold my-4 border-b-2 border-dashed'
           )}
         >
           {videoData.title}
