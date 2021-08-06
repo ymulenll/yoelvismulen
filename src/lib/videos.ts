@@ -1,3 +1,4 @@
+import slugify from 'slugify'
 import videos from '../data/videoDetails.json'
 
 export interface YTVideo {
@@ -10,6 +11,7 @@ export interface YTVideo {
   descriptionTags: string[]
   duration: string
   embedHtml: string
+  slug: string
 }
 
 export interface Thumbnails {
@@ -26,7 +28,7 @@ export interface Thumbnail {
   height: number
 }
 
-export function getYouTubeVideos(): YTVideo[] {
+const mapYouTubeVideos = (): YTVideo[] => {
   const snippets: YTVideo[] = videos.items.map(
     ({
       id,
@@ -35,6 +37,8 @@ export function getYouTubeVideos(): YTVideo[] {
       player: { embedHtml },
     }) => {
       const descriptionTags = extractDescriptionTags(description)
+      const slug = slugify(title, { lower: true, locale: 'es' })
+
       return {
         id,
         title,
@@ -45,6 +49,7 @@ export function getYouTubeVideos(): YTVideo[] {
         duration,
         embedHtml,
         descriptionTags,
+        slug,
       }
     }
   )
@@ -57,4 +62,18 @@ const extractDescriptionTags = (description: string) => {
   const uniqTags = [...new Set(tags)]
 
   return uniqTags
+}
+
+const youTubeVideos = mapYouTubeVideos()
+
+export function getYouTubeVideos(): YTVideo[] {
+  return youTubeVideos
+}
+
+export function getAllYouTubeVideoSlugs(): string[] {
+  return youTubeVideos.map((video) => video.slug)
+}
+
+export function getYouTubeVideoData(slug: string) {
+  return youTubeVideos.find((video) => video.slug === slug)
 }
