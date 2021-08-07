@@ -11,14 +11,12 @@ import { BREAKPOINTS } from '../constants'
 export function Navbar() {
   const windowSize = useWindowSize()
   const isSmallOrAbove = (windowSize.width ?? 0) >= BREAKPOINTS.sm
-  console.log(windowSize)
 
   const [displayScrollbar, setDisplayScrollbar] = useState(true)
 
   useScrollPosition(
     ({ prevPos, currPos }) => {
       const shouldDisplayScrollbar = currPos.y > prevPos.y
-      console.log(shouldDisplayScrollbar)
       setDisplayScrollbar(shouldDisplayScrollbar)
     },
     [displayScrollbar],
@@ -35,32 +33,32 @@ export function Navbar() {
     <div style={{ left: 1000 }}>
       <animated.ul
         className={
-          'fixed border-t sm:border-t-0 sm:border-r flex w-screen bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10'
+          'fixed border-t sm:border-t-0 sm:border-r flex w-screen bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-visible z-10'
         }
         style={props}
       >
         <li>
-          <Icon href="/">
+          <Icon href="/" title="menú">
             <RightIcon />
           </Icon>
         </li>
         <li>
-          <Icon href="/home">
+          <Icon href="/home" title="página principal">
             <LogoImage href="/home" />
           </Icon>
         </li>
         <li>
-          <Icon href="/videos">
+          <Icon href="/videos" title="contenidos">
             <VideosIcon />
           </Icon>
         </li>
         <li>
-          <Icon href="/playlists">
+          <Icon href="/playlists" title="series">
             <PlaylistsIcon />
           </Icon>
         </li>
         <li>
-          <Icon href="/about" className="sm:mt-auto">
+          <Icon href="/about" title="acerca de" className="sm:mt-auto">
             <InfoIcon />
           </Icon>
         </li>
@@ -73,29 +71,44 @@ const Icon = ({
   className,
   children,
   href,
+  title,
 }: {
   className?: string
   children: React.ReactNode
   href: string
+  title: string
 }) => {
   const router = useRouter()
   const isActive = router.pathname === href
   return (
-    <Link href={href}>
-      <a
+    <div className="relative">
+      <div className="peer">
+        <Link href={href}>
+          <a
+            title={title}
+            className={cx(
+              'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover:bg-gray-100 flex-shrink-0',
+              className,
+              { 'text-orange-500': isActive, 'text-gray-400': !isActive },
+              {
+                'relative before:absolute before:block before:h-[1.5px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-400 before:bg-opacity-80 before:left-0 before:top-0':
+                  isActive,
+              }
+            )}
+          >
+            {children}
+          </a>
+        </Link>
+      </div>
+      <div
         className={cx(
-          'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover:bg-gray-100 flex-shrink-0',
-          className,
-          { 'text-orange-500': isActive, 'text-gray-400': !isActive },
-          {
-            'relative before:absolute before:block before:h-[1.5px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-400 before:bg-opacity-80 before:left-0 before:top-0':
-              isActive,
-          }
+          'absolute sm:top-[50%] sm:-translate-y-1/2 sm:ml-1 w-max sm:left-full z-20',
+          'text-white bg-gray-500 font-mono text-opacity-80 px-4 py-1 rounded transition duration-300 opacity-0 peer-hover:opacity-100'
         )}
       >
-        {children}
-      </a>
-    </Link>
+        {title}
+      </div>
+    </div>
   )
 }
 
@@ -106,7 +119,8 @@ const LogoImage = ({ href }: { href: string }) => {
     <div className="flex items-center">
       <Image
         src="/profile.png"
-        alt="Profile image"
+        alt="Imagen de perfil"
+        role="button"
         width={32}
         height={32}
         layout="fixed"

@@ -1,13 +1,13 @@
 // https://usehooks.com/useWindowSize/
 import { useState, useEffect } from 'react'
 
-type Size = {
+export type WindowSize = {
   width?: number
   height?: number
 }
 
-export function useWindowSize(): Size {
-  const [windowSize, setWindowSize] = useState<Size>({
+export function useWindowSize(): WindowSize {
+  const [windowSize, setWindowSize] = useState<WindowSize>({
     width: undefined,
     height: undefined,
   })
