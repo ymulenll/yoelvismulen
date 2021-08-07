@@ -15,7 +15,7 @@ export default function VideoCard({ video }: Props) {
     <Link href={`/videos/${video.slug}`}>
       <a
         className={cx(
-          'max-w-[480px] space-y-4 pb-4 border shadow-xl rounded-lg',
+          'max-w-[480px] space-y-4 pb-4 shadow-xl sm:border sm:rounded-lg',
           'hover:-translate-y-0.5 hover:shadow-2xl transition cursor-pointer'
         )}
       >
@@ -28,7 +28,7 @@ export default function VideoCard({ video }: Props) {
             objectFit="cover"
             placeholder="blur"
             blurDataURL={video.thumbnails.default.url}
-            className="rounded-t-lg"
+            className="sm:rounded-t-lg"
           />
           <Duration className="absolute bottom-3 text-lg right-1 bg-gray-900 text-white px-1 opacity-90">
             {video.duration}
