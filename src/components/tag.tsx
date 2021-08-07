@@ -7,7 +7,7 @@ export default function Tag({ children }: Props) {
     tagColors[children.toLowerCase()] ?? tagColors.default
 
   return (
-    <div className="px-2 py-1 italic text-xl" style={{ color, background }}>
+    <div className="px-2 py-1 italic text-lg sm:text-xl" style={{ color, background }}>
       #{children}
     </div>
   )
