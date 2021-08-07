@@ -16,7 +16,7 @@ export default function VideoCard({ video }: Props) {
       <a
         className={cx(
           'max-w-[480px] space-y-4 pb-4 shadow-xl sm:border sm:rounded-lg',
-          'hover:-translate-y-0.5 hover:shadow-2xl transition cursor-pointer'
+          'sm:hover:-translate-y-0.5 hover:shadow-2xl transition cursor-pointer'
         )}
       >
         <div className="relative">

@@ -1,30 +1,70 @@
+import { useEffect, useState } from 'react'
 import { useRouter } from 'next/dist/client/router'
 import Image from 'next/image'
 import Link from 'next/link'
 import cx from 'classnames'
+import { useScrollPosition } from '@n8tb1t/use-scroll-position'
+import { useSpring, animated } from '@react-spring/web'
+import { useWindowSize } from '../hooks/useWindowSize'
+import { BREAKPOINTS } from '../constants'
 
 export function Navbar() {
+  const windowSize = useWindowSize()
+  const isSmallOrAbove = (windowSize.width ?? 0) >= BREAKPOINTS.sm
+  console.log(windowSize)
+
+  const [displayScrollbar, setDisplayScrollbar] = useState(true)
+
+  useScrollPosition(
+    ({ prevPos, currPos }) => {
+      const shouldDisplayScrollbar = currPos.y > prevPos.y
+      console.log(shouldDisplayScrollbar)
+      setDisplayScrollbar(shouldDisplayScrollbar)
+    },
+    [displayScrollbar],
+    undefined,
+    false,
+    100
+  )
+
+  const props = useSpring({
+    translateY: displayScrollbar || isSmallOrAbove ? '0%' : '100%',
+  })
+
   return (
-    <div
-      className={
-        'fixed border-t sm:border-t-0 sm:border-r flex w-screen bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10'
-      }
-    >
-      <Icon href="/">
-        <RightIcon />
-      </Icon>
-      <Icon href="/home">
-        <LogoImage href="/home" />
-      </Icon>
-      <Icon href="/videos">
-        <VideosIcon />
-      </Icon>
-      <Icon href="/playlists">
-        <PlaylistsIcon />
-      </Icon>
-      <Icon href="/about" className="sm:mt-auto">
-        <InfoIcon />
-      </Icon>
+    <div style={{ left: 1000 }}>
+      <animated.ul
+        className={
+          'fixed border-t sm:border-t-0 sm:border-r flex w-screen bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10'
+        }
+        style={props}
+      >
+        <li>
+          <Icon href="/">
+            <RightIcon />
+          </Icon>
+        </li>
+        <li>
+          <Icon href="/home">
+            <LogoImage href="/home" />
+          </Icon>
+        </li>
+        <li>
+          <Icon href="/videos">
+            <VideosIcon />
+          </Icon>
+        </li>
+        <li>
+          <Icon href="/playlists">
+            <PlaylistsIcon />
+          </Icon>
+        </li>
+        <li>
+          <Icon href="/about" className="sm:mt-auto">
+            <InfoIcon />
+          </Icon>
+        </li>
+      </animated.ul>
     </div>
   )
 }
@@ -78,7 +118,7 @@ const LogoImage = ({ href }: { href: string }) => {
   )
 }
 
-const iconStylesTW = 'fill-current stroke-current w-8'
+const iconStylesTW = 'fill-current stroke-current w-6 sm:w-8'
 
 const RightIcon = () => (
   <svg
