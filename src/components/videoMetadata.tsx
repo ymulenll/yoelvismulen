@@ -1,5 +1,5 @@
 import React, { ReactElement } from 'react'
-import { formatDate, getHumanTimeTo } from '../lib/dates'
+import { formatDate } from '../lib/dates'
 import { YTVideo } from '../lib/videos'
 
 type Props = {

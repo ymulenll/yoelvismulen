@@ -58,7 +58,7 @@ export default function Home() {
         </main>
 
         <footer className="flex items-center justify-center w-full h-24 border-t">
-          Yoelvis Mulen - 2021
+          Yoelvis Mulen - {new Date().getFullYear()}
         </footer>
       </div>
     </div>
