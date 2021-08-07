@@ -1,10 +1,16 @@
 import { useRouter } from 'next/dist/client/router'
 import { BREAKPOINTS } from '../constants'
-import { useWindowSize } from '../hooks/useWindowSize'
+import { useWindowSize, WindowSize } from '../hooks/useWindowSize'
 import Tag from './tag'
 
 interface Props {
   tags: Record<string, number>
+}
+
+function getNumberOfTagsToDisplay({ width = 0 }: WindowSize) {
+  if (width > BREAKPOINTS['2xl']) return 10
+
+  return width >= BREAKPOINTS.md ? 7 : 5
 }
 
 export const VideoFilters = ({ tags }: Props) => {
@@ -14,7 +20,7 @@ export const VideoFilters = ({ tags }: Props) => {
 
   const tagEntries = Object.entries(tags)
 
-  const tagDisplayNumber = (windowSize.width ?? 0) >= BREAKPOINTS.md ? 7 : 5
+  const tagDisplayNumber = getNumberOfTagsToDisplay(windowSize)
 
   const filterSelectedEntryIfNotVisible = (
     [tag]: [string, number],

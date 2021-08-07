@@ -20,7 +20,7 @@ export default function Tag({ children: tag, quantity }: Props) {
         e.preventDefault()
         return push(isInQuery ? '/videos' : `/videos?tags=${tag}`)
       }}
-      className={cx('mb-2 mr-2', {
+      className={cx('mb-2 mr-2 hover:filter hover:brightness-125', {
         'ring-2 ring-orange-500 ring-offset-1': isInQuery,
       })}
       role="tab"
@@ -29,7 +29,7 @@ export default function Tag({ children: tag, quantity }: Props) {
       <div
         className={cx(
           'px-2 py-1 italic text-lg sm:text-xl inline-block',
-          'hover:shadow-md hover:filter hover:contrast-130'
+          'hover:shadow-md'
         )}
         style={{ color, background }}
       >
@@ -58,8 +58,8 @@ const tagColors: Record<string, { color: string; background: string }> = {
     background: '#EFD81D',
   },
   reactjs: {
-    color: '#000000',
-    background: '#61DAFB',
+    color: '#61DAFB',
+    background: '#000000',
   },
   css: {
     color: '#FFFFFF',
