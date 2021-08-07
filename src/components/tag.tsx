@@ -15,7 +15,12 @@ export default function Tag({ children: tag, quantity }: Props) {
     tagColors[tag.toLowerCase()] ?? tagColors.default
 
   return (
-    <button onClick={() => push(isInQuery ? '/videos' : `/videos?tags=${tag}`)}>
+    <button
+      onClick={(e) => {
+        e.preventDefault()
+        return push(isInQuery ? '/videos' : `/videos?tags=${tag}`)
+      }}
+    >
       <div
         className={cx(
           'px-2 py-1 italic text-lg sm:text-xl inline-block mb-2 mr-2',
