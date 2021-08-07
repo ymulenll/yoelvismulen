@@ -20,11 +20,16 @@ export default function Tag({ children: tag, quantity }: Props) {
         e.preventDefault()
         return push(isInQuery ? '/videos' : `/videos?tags=${tag}`)
       }}
+      className={cx('mb-2 mr-2', {
+        'ring-2 ring-orange-500 ring-offset-1': isInQuery,
+      })}
+      role="tab"
+      aria-selected={isInQuery}
     >
       <div
         className={cx(
-          'px-2 py-1 italic text-lg sm:text-xl inline-block mb-2 mr-2',
-          { 'ring-2 ring-orange-500 ring-offset-1': isInQuery }
+          'px-2 py-1 italic text-lg sm:text-xl inline-block',
+          'hover:shadow-md hover:filter hover:contrast-130'
         )}
         style={{ color, background }}
       >
@@ -61,8 +66,8 @@ const tagColors: Record<string, { color: string; background: string }> = {
     background: '#2965F1',
   },
   html: {
-    color: '#FFFFFF',
-    background: '#F16529',
+    color: '#000000',
+    background: '#f36c32',
   },
   webpack: {
     color: '#000000',

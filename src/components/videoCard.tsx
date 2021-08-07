@@ -30,12 +30,12 @@ export default function VideoCard({ video }: Props) {
             blurDataURL={video.thumbnails.default.url}
             className="sm:rounded-t-lg"
           />
-          <Duration className="absolute bottom-3 text-lg right-1 bg-gray-900 text-white px-1 opacity-90">
+          <Duration className="absolute bottom-3 text-lg right-1 bg-gray-900 text-white px-1">
             {video.duration}
           </Duration>
         </div>
         <div className="text-lg sm:text-xl font-medium px-5">{video.title}</div>
-        <div className="px-5">
+        <div className="px-5" role="tablist">
           {video.descriptionTags.map((tag) => (
             <Tag key={tag}>{tag}</Tag>
           ))}

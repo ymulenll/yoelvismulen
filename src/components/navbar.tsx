@@ -38,27 +38,27 @@ export function Navbar() {
         style={props}
       >
         <li>
-          <Icon href="/">
+          <Icon href="/" title="menú">
             <RightIcon />
           </Icon>
         </li>
         <li>
-          <Icon href="/home">
+          <Icon href="/home" title="página principal">
             <LogoImage href="/home" />
           </Icon>
         </li>
         <li>
-          <Icon href="/videos">
+          <Icon href="/videos" title="contenidos">
             <VideosIcon />
           </Icon>
         </li>
         <li>
-          <Icon href="/playlists">
+          <Icon href="/playlists" title="series">
             <PlaylistsIcon />
           </Icon>
         </li>
         <li>
-          <Icon href="/about" className="sm:mt-auto">
+          <Icon href="/about" title="acerca de" className="sm:mt-auto">
             <InfoIcon />
           </Icon>
         </li>
@@ -71,16 +71,19 @@ const Icon = ({
   className,
   children,
   href,
+  title,
 }: {
   className?: string
   children: React.ReactNode
   href: string
+  title: string
 }) => {
   const router = useRouter()
   const isActive = router.pathname === href
   return (
     <Link href={href}>
       <a
+        title={title}
         className={cx(
           'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover:bg-gray-100 flex-shrink-0',
           className,
@@ -104,7 +107,8 @@ const LogoImage = ({ href }: { href: string }) => {
     <div className="flex items-center">
       <Image
         src="/profile.png"
-        alt="Profile image"
+        alt="Imagen de perfil"
+        role="button"
         width={32}
         height={32}
         layout="fixed"
