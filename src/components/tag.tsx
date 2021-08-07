@@ -1,15 +1,32 @@
+import { useRouter } from 'next/dist/client/router'
+import cx from 'classnames'
+
 type Props = {
   children: string
+  quantity?: number
 }
 
-export default function Tag({ children }: Props) {
+export default function Tag({ children: tag, quantity }: Props) {
+  const { query, push } = useRouter()
+  const tagFilter = query?.tags as string
+  const isInQuery = tagFilter === tag
+
   const { color, background } =
-    tagColors[children.toLowerCase()] ?? tagColors.default
+    tagColors[tag.toLowerCase()] ?? tagColors.default
 
   return (
-    <div className="px-2 py-1 italic text-lg sm:text-xl" style={{ color, background }}>
-      #{children}
-    </div>
+    <button onClick={() => push(isInQuery ? '/videos' : `/videos?tags=${tag}`)}>
+      <div
+        className={cx(
+          'px-2 py-1 italic text-lg sm:text-xl inline-block mb-2 mr-2',
+          { 'ring-2 ring-orange-500 ring-offset-1': isInQuery }
+        )}
+        style={{ color, background }}
+      >
+        #{tag}
+        {quantity && ` (${quantity})`}
+      </div>
+    </button>
   )
 }
 

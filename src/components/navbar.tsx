@@ -11,14 +11,12 @@ import { BREAKPOINTS } from '../constants'
 export function Navbar() {
   const windowSize = useWindowSize()
   const isSmallOrAbove = (windowSize.width ?? 0) >= BREAKPOINTS.sm
-  console.log(windowSize)
 
   const [displayScrollbar, setDisplayScrollbar] = useState(true)
 
   useScrollPosition(
     ({ prevPos, currPos }) => {
       const shouldDisplayScrollbar = currPos.y > prevPos.y
-      console.log(shouldDisplayScrollbar)
       setDisplayScrollbar(shouldDisplayScrollbar)
     },
     [displayScrollbar],

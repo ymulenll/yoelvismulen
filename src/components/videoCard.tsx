@@ -12,7 +12,7 @@ type Props = {
 
 export default function VideoCard({ video }: Props) {
   return (
-    <Link href={`/videos/${video.slug}`}>
+    <Link href={{ pathname: '/videos/[slug]', query: { slug: video.slug } }}>
       <a
         className={cx(
           'max-w-[480px] space-y-4 pb-4 shadow-xl sm:border sm:rounded-lg',
@@ -35,7 +35,7 @@ export default function VideoCard({ video }: Props) {
           </Duration>
         </div>
         <div className="text-lg sm:text-xl font-medium px-5">{video.title}</div>
-        <div className="flex flex-wrap gap-3 px-5 mt-auto">
+        <div className="px-5">
           {video.descriptionTags.map((tag) => (
             <Tag key={tag}>{tag}</Tag>
           ))}

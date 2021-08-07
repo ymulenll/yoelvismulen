@@ -1,5 +1,6 @@
 import slugify from 'slugify'
 import videos from '../data/videoDetails.json'
+import { groupCount, sortMapByValueDesc, uniq } from './utils'
 
 export interface YTVideo {
   id: string
@@ -7,7 +8,7 @@ export interface YTVideo {
   description: string
   publishedAt: string
   thumbnails: Thumbnails
-  tags?: string[]
+  tags: string[]
   descriptionTags: string[]
   duration: string
   embedHtml: string
@@ -59,7 +60,7 @@ const mapYouTubeVideos = (): YTVideo[] => {
 
 const extractDescriptionTags = (description: string) => {
   const tags = [...description.matchAll(/#(\w+)/g)].map((value) => value[1])
-  const uniqTags = [...new Set(tags)]
+  const uniqTags = uniq(tags)
 
   return uniqTags
 }
@@ -68,6 +69,16 @@ const youTubeVideos = mapYouTubeVideos()
 
 export function getYouTubeVideos(): YTVideo[] {
   return youTubeVideos
+}
+
+export function getAllDescriptionTagsMap(): Record<string, number> {
+  const allTags = youTubeVideos.map((video) => video.descriptionTags).flat()
+
+  const allTagsMap = groupCount(allTags)
+
+  const allTagsMapSorted = sortMapByValueDesc(allTagsMap)
+
+  return Object.fromEntries(allTagsMapSorted)
 }
 
 export function getAllYouTubeVideoSlugs(): string[] {
