@@ -33,7 +33,7 @@ export function Navbar() {
     <div style={{ left: 1000 }}>
       <animated.ul
         className={
-          'fixed border-t sm:border-t-0 sm:border-r flex w-screen bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-auto z-10'
+          'fixed border-t sm:border-t-0 sm:border-r flex w-screen bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-visible z-10'
         }
         style={props}
       >
@@ -81,22 +81,34 @@ const Icon = ({
   const router = useRouter()
   const isActive = router.pathname === href
   return (
-    <Link href={href}>
-      <a
-        title={title}
+    <div className="relative">
+      <div className="peer">
+        <Link href={href}>
+          <a
+            title={title}
+            className={cx(
+              'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover:bg-gray-100 flex-shrink-0',
+              className,
+              { 'text-orange-500': isActive, 'text-gray-400': !isActive },
+              {
+                'relative before:absolute before:block before:h-[1.5px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-400 before:bg-opacity-80 before:left-0 before:top-0':
+                  isActive,
+              }
+            )}
+          >
+            {children}
+          </a>
+        </Link>
+      </div>
+      <div
         className={cx(
-          'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover:bg-gray-100 flex-shrink-0',
-          className,
-          { 'text-orange-500': isActive, 'text-gray-400': !isActive },
-          {
-            'relative before:absolute before:block before:h-[1.5px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-400 before:bg-opacity-80 before:left-0 before:top-0':
-              isActive,
-          }
+          'absolute sm:top-[50%] sm:-translate-y-1/2 sm:ml-1 w-max sm:left-full z-20',
+          'text-white bg-gray-500 font-mono text-opacity-80 px-4 py-1 rounded transition duration-300 opacity-0 peer-hover:opacity-100'
         )}
       >
-        {children}
-      </a>
-    </Link>
+        {title}
+      </div>
+    </div>
   )
 }
 
