@@ -37,14 +37,14 @@ export function Navbar() {
         }
         style={props}
       >
-        <li>
+        {/* <li>
           <Icon href="/" title="menú">
             <RightIcon />
           </Icon>
-        </li>
+        </li> */}
         <li>
-          <Icon href="/home" title="página principal">
-            <LogoImage href="/home" />
+          <Icon href="/" title="página principal">
+            <LogoImage href="/" />
           </Icon>
         </li>
         <li>
@@ -57,8 +57,8 @@ export function Navbar() {
             <PlaylistsIcon />
           </Icon>
         </li>
-        <li>
-          <Icon href="/about" title="acerca de" className="sm:mt-auto">
+        <li className="sm:mt-auto">
+          <Icon href="/about" title="acerca de">
             <InfoIcon />
           </Icon>
         </li>
@@ -68,12 +68,10 @@ export function Navbar() {
 }
 
 const Icon = ({
-  className,
   children,
   href,
   title,
 }: {
-  className?: string
   children: React.ReactNode
   href: string
   title: string
@@ -88,7 +86,6 @@ const Icon = ({
             aria-label={title}
             className={cx(
               'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover-hover:hover:bg-gray-100 flex-shrink-0',
-              className,
               { 'text-orange-500': isActive, 'text-gray-400': !isActive },
               {
                 'relative before:absolute before:block before:h-[1.5px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-400 before:bg-opacity-80 before:left-0 before:top-0':
