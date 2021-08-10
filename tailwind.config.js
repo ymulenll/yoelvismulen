@@ -17,6 +17,9 @@ module.exports = {
       colors: {
         orange: colors.orange,
       },
+      screens: {
+        'hover-hover': { raw: '(hover: hover)' }, // media query to apply hover just in devices that can hover
+      },
     },
   },
   variants: {

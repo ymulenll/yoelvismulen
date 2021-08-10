@@ -1,0 +1,240 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "u1rY4np_y7RMpD50PgP30j7uOTk",
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "8AD1hiOinGvxpaGhtMw1Rqj1qGo",
+      "id": "PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF",
+      "snippet": {
+        "publishedAt": "2021-03-25T01:56:53Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "React.js desde CERO",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hdgUDN1sgtA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hdgUDN1sgtA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hdgUDN1sgtA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hdgUDN1sgtA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hdgUDN1sgtA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "localized": {
+          "title": "React.js desde CERO",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 4
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "fHOP4js2-yKQwymPOFRLHG-0j-I",
+      "id": "PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b",
+      "snippet": {
+        "publishedAt": "2021-01-31T22:32:12Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "Amazon Web Services desde cero",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IciVhWQ8npw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IciVhWQ8npw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IciVhWQ8npw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IciVhWQ8npw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IciVhWQ8npw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "localized": {
+          "title": "Amazon Web Services desde cero",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 9
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Hp4j_l5AUa7ZziN6H3nBW6PmBgs",
+      "id": "PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW",
+      "snippet": {
+        "publishedAt": "2020-05-24T17:13:52Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "Diseño adaptativo",
+        "description": "Guías y tutoriales prácticos de HTML y CSS con enfoque en lograr diseños que se adapten a cualquier dispositivo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f3902x_dqqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f3902x_dqqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f3902x_dqqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f3902x_dqqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f3902x_dqqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "localized": {
+          "title": "Diseño adaptativo",
+          "description": "Guías y tutoriales prácticos de HTML y CSS con enfoque en lograr diseños que se adapten a cualquier dispositivo"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "UURDM0DRB4sEYu1awmusz2TvVV4",
+      "id": "PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C",
+      "snippet": {
+        "publishedAt": "2020-04-20T20:14:20Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "Webpack",
+        "description": "Aprende a usar y configurar Webpack desde cero.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2UBKjshUwM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2UBKjshUwM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UBKjshUwM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2UBKjshUwM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2UBKjshUwM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "localized": {
+          "title": "Webpack",
+          "description": "Aprende a usar y configurar Webpack desde cero."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LXDXtD83GSIczvR_L1UwKmsmUCQ",
+      "id": "PL9T-KKyKXNCnOLlh4oiDtwijQstBY3kP2",
+      "snippet": {
+        "publishedAt": "2017-06-16T14:33:37Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "Principios SOLID Training",
+        "description": "Training sobre principios SOLID.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DLYcLuAELPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DLYcLuAELPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DLYcLuAELPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DLYcLuAELPY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DLYcLuAELPY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "localized": {
+          "title": "Principios SOLID Training",
+          "description": "Training sobre principios SOLID."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    }
+  ]
+}

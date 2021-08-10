@@ -1,16 +1,16 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "6MhH_s9FUP0KHRWnNY-LuRLpJ1o",
+  "etag": "vFIamb-1MHgNI4uc98G1iDEKda8",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "fX_PsrQbzjyJazyjbC9Tlj_txM8",
+      "etag": "61lXG9j7NskS5Dqgx-qDglH2F_A",
       "id": "HPXdwErNahk",
       "snippet": {
         "publishedAt": "2021-07-27T01:32:06Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7",
-        "description": "Elastic Load Balancer y Auto Scaling Group en la práctica. \nCómo crear servidores Node.js en AWS y replicarlos según la demanda, así como distribuir y balancear el tráfico entrante entre ellos.\n\n✅ Contenido:\n0:00 Creación de servidor Node.js\n6:47 Vertical Scaling vs Horizontal Scaling\n9:32 Balanceadores de carga\n15:55 Auto Scaling\n30:37 Preguntas de examen \n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del servidor Node.js: https://github.com/ymulenll/hello-nodejs\nDistribuciones Node.js: https://github.com/nodesource/distributions\nDocumentación: https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-dg.pdf\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloudcomputing",
+        "description": "Elastic Load Balancer y Auto Scaling Group en la práctica. \nCómo crear servidores Node.js en AWS y replicarlos según la demanda, así como distribuir y balancear el tráfico entrante entre ellos.\n\n✅ Contenido:\n0:00 Creación de servidor Node.js\n6:47 Vertical Scaling vs Horizontal Scaling\n9:32 Balanceadores de carga\n15:55 Auto Scaling\n30:37 Preguntas de examen \n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del servidor Node.js: https://github.com/ymulenll/hello-nodejs\nDistribuciones Node.js: https://github.com/nodesource/distributions\nDocumentación: https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-dg.pdf\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/HPXdwErNahk/default.jpg",
@@ -75,7 +75,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7",
-          "description": "Elastic Load Balancer y Auto Scaling Group en la práctica. \nCómo crear servidores Node.js en AWS y replicarlos según la demanda, así como distribuir y balancear el tráfico entrante entre ellos.\n\n✅ Contenido:\n0:00 Creación de servidor Node.js\n6:47 Vertical Scaling vs Horizontal Scaling\n9:32 Balanceadores de carga\n15:55 Auto Scaling\n30:37 Preguntas de examen \n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del servidor Node.js: https://github.com/ymulenll/hello-nodejs\nDistribuciones Node.js: https://github.com/nodesource/distributions\nDocumentación: https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-dg.pdf\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloudcomputing"
+          "description": "Elastic Load Balancer y Auto Scaling Group en la práctica. \nCómo crear servidores Node.js en AWS y replicarlos según la demanda, así como distribuir y balancear el tráfico entrante entre ellos.\n\n✅ Contenido:\n0:00 Creación de servidor Node.js\n6:47 Vertical Scaling vs Horizontal Scaling\n9:32 Balanceadores de carga\n15:55 Auto Scaling\n30:37 Preguntas de examen \n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del servidor Node.js: https://github.com/ymulenll/hello-nodejs\nDistribuciones Node.js: https://github.com/nodesource/distributions\nDocumentación: https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-dg.pdf\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -94,13 +94,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "j2PgxpX07zy4_zAbqhb26jGDrKw",
+      "etag": "f3AqnPfuvVAwPJ4ZVTNv2Du2NhA",
       "id": "HIcCKT-eTKM",
       "snippet": {
         "publishedAt": "2021-07-20T20:00:14Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Cómo manejar redes virtuales en la nube 🌐 - Servicio VPC | AWS desde cero - Parte 6",
-        "description": "Aprende a crear redes virtuales privadas en AWS usando el servicio VPC.\n\n✅ Contenido:\n0:00 Regiones y Zonas de Disponibilidad\n1:46 VPC\n3:06 CIDR Blocks\n6:56 Creación de VPC y Subredes\n11:12 Seguridad: Security Groups vs NACL\n15:04 Conectividad: IP Públicas, Internet Gateway y Route Tables\n23:29 NAT Gateway para subredes privadas\n26:53 Conexión VPN, AWS Direct Connect y Peering Connection\n29:56 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/vpc/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloudcomputing",
+        "description": "Aprende a crear redes virtuales privadas en AWS usando el servicio VPC.\n\n✅ Contenido:\n0:00 Regiones y Zonas de Disponibilidad\n1:46 VPC\n3:06 CIDR Blocks\n6:56 Creación de VPC y Subredes\n11:12 Seguridad: Security Groups vs NACL\n15:04 Conectividad: IP Públicas, Internet Gateway y Route Tables\n23:29 NAT Gateway para subredes privadas\n26:53 Conexión VPN, AWS Direct Connect y Peering Connection\n29:56 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/vpc/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/HIcCKT-eTKM/default.jpg",
@@ -169,7 +169,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Cómo manejar redes virtuales en la nube 🌐 - Servicio VPC | AWS desde cero - Parte 6",
-          "description": "Aprende a crear redes virtuales privadas en AWS usando el servicio VPC.\n\n✅ Contenido:\n0:00 Regiones y Zonas de Disponibilidad\n1:46 VPC\n3:06 CIDR Blocks\n6:56 Creación de VPC y Subredes\n11:12 Seguridad: Security Groups vs NACL\n15:04 Conectividad: IP Públicas, Internet Gateway y Route Tables\n23:29 NAT Gateway para subredes privadas\n26:53 Conexión VPN, AWS Direct Connect y Peering Connection\n29:56 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/vpc/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloudcomputing"
+          "description": "Aprende a crear redes virtuales privadas en AWS usando el servicio VPC.\n\n✅ Contenido:\n0:00 Regiones y Zonas de Disponibilidad\n1:46 VPC\n3:06 CIDR Blocks\n6:56 Creación de VPC y Subredes\n11:12 Seguridad: Security Groups vs NACL\n15:04 Conectividad: IP Públicas, Internet Gateway y Route Tables\n23:29 NAT Gateway para subredes privadas\n26:53 Conexión VPN, AWS Direct Connect y Peering Connection\n29:56 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/vpc/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -188,13 +188,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Cb4octP3izzpAJtrgSujmb5kKe8",
+      "etag": "u6IiMUiC0eNT0s93DT5i1f8SErI",
       "id": "df7soTJ9vW0",
       "snippet": {
         "publishedAt": "2021-06-28T21:00:14Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Servicio EC2 de AWS desde CERO | Hostear un servidor Node.js en AWS | AWS desde cero - Parte 5",
-        "description": "Les muestro paso a paso cómo alojar un servidor web en Amazon Web Services, así como los conceptos fundamentales y opciones de compra para reducir gastos en proyectos reales. Todo con un enfoque práctico y con lo necesario para aprobar las certificaciones.\n\n✅ Contenido:\n0:00 Introducción\n2:42 Lanzar instancias EC2\n3:56 Amazon Machine Images (AMI)\n5:25 Tipos de instancias\n8:44 Almacenamiento\n11:02 Security Groups y Clave privada\n15:16 Elastic IP\n18:10 Conexión a la instancia\n20:12 Configuración de servidor web Node.js\n25:50 Creación de custom AMI\n27:41 Terminar servicios\n29:36 Opciones de compra\n37:41 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/ec2/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloudcomputing",
+        "description": "Les muestro paso a paso cómo alojar un servidor web en Amazon Web Services, así como los conceptos fundamentales y opciones de compra para reducir gastos en proyectos reales. Todo con un enfoque práctico y con lo necesario para aprobar las certificaciones.\n\n✅ Contenido:\n0:00 Introducción\n2:42 Lanzar instancias EC2\n3:56 Amazon Machine Images (AMI)\n5:25 Tipos de instancias\n8:44 Almacenamiento\n11:02 Security Groups y Clave privada\n15:16 Elastic IP\n18:10 Conexión a la instancia\n20:12 Configuración de servidor web Node.js\n25:50 Creación de custom AMI\n27:41 Terminar servicios\n29:36 Opciones de compra\n37:41 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/ec2/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/df7soTJ9vW0/default.jpg",
@@ -261,7 +261,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Servicio EC2 de AWS desde CERO | Hostear un servidor Node.js en AWS | AWS desde cero - Parte 5",
-          "description": "Les muestro paso a paso cómo alojar un servidor web en Amazon Web Services, así como los conceptos fundamentales y opciones de compra para reducir gastos en proyectos reales. Todo con un enfoque práctico y con lo necesario para aprobar las certificaciones.\n\n✅ Contenido:\n0:00 Introducción\n2:42 Lanzar instancias EC2\n3:56 Amazon Machine Images (AMI)\n5:25 Tipos de instancias\n8:44 Almacenamiento\n11:02 Security Groups y Clave privada\n15:16 Elastic IP\n18:10 Conexión a la instancia\n20:12 Configuración de servidor web Node.js\n25:50 Creación de custom AMI\n27:41 Terminar servicios\n29:36 Opciones de compra\n37:41 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/ec2/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloudcomputing"
+          "description": "Les muestro paso a paso cómo alojar un servidor web en Amazon Web Services, así como los conceptos fundamentales y opciones de compra para reducir gastos en proyectos reales. Todo con un enfoque práctico y con lo necesario para aprobar las certificaciones.\n\n✅ Contenido:\n0:00 Introducción\n2:42 Lanzar instancias EC2\n3:56 Amazon Machine Images (AMI)\n5:25 Tipos de instancias\n8:44 Almacenamiento\n11:02 Security Groups y Clave privada\n15:16 Elastic IP\n18:10 Conexión a la instancia\n20:12 Configuración de servidor web Node.js\n25:50 Creación de custom AMI\n27:41 Terminar servicios\n29:36 Opciones de compra\n37:41 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/ec2/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -758,13 +758,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "68ISdTAuNiH-9oK2Yay7prrak-Y",
+      "etag": "hibeiec4BPc7OlZVFAmTA095kqw",
       "id": "3z-Y4kbLrTM",
       "snippet": {
         "publishedAt": "2021-03-30T11:02:26Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "React.js desde CERO | Creando web de películas | Parte 3: Formularios y custom hooks",
-        "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directa pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#react #reactjs",
+        "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directa pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/3z-Y4kbLrTM/default.jpg",
@@ -810,7 +810,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "React.js desde CERO | Creando web de películas | Parte 3: Formularios y custom hooks",
-          "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directa pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#react #reactjs"
+          "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directa pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -900,13 +900,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tezetR8mdO3-jhX8PKms-QVrNOk",
+      "etag": "1HmuIm6ap-KVC2r5QSnLxgAXUAs",
       "id": "C_okl27ybcg",
       "snippet": {
         "publishedAt": "2021-03-21T23:00:15Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "AWS IAM | Primeros pasos con AWS - Manejo de identidad | AWS desde cero Parte 4",
-        "description": "Les muestro cómo usar el servicio para la gestión de acceso e identidad en AWS (IAM), cómo crear y manejar usuarios, grupos, roles, policies, configurar MFA, BUENAS PRÁCTICAS y mucho más.\n\n✅ Contenido:\n0:00 Introducción\n2:12 Iniciar sesión con usuario root\n3:47 Polies\n5:28 Usuarios IAM\n8:30 Grupos de usuarios\n11:54 Password policy\n13:25 Roles\n16:25 Proveedores de Identidad\n17:51 Buenas prácticas y Multi Factor Authentication\n21:06 Iniciar sesión con el usuario IAM\n23:30 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloud",
+        "description": "Les muestro cómo usar el servicio para la gestión de acceso e identidad en AWS (IAM), cómo crear y manejar usuarios, grupos, roles, policies, configurar MFA, BUENAS PRÁCTICAS y mucho más.\n\n✅ Contenido:\n0:00 Introducción\n2:12 Iniciar sesión con usuario root\n3:47 Polies\n5:28 Usuarios IAM\n8:30 Grupos de usuarios\n11:54 Password policy\n13:25 Roles\n16:25 Proveedores de Identidad\n17:51 Buenas prácticas y Multi Factor Authentication\n21:06 Iniciar sesión con el usuario IAM\n23:30 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/C_okl27ybcg/default.jpg",
@@ -959,7 +959,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "AWS IAM | Primeros pasos con AWS - Manejo de identidad | AWS desde cero Parte 4",
-          "description": "Les muestro cómo usar el servicio para la gestión de acceso e identidad en AWS (IAM), cómo crear y manejar usuarios, grupos, roles, policies, configurar MFA, BUENAS PRÁCTICAS y mucho más.\n\n✅ Contenido:\n0:00 Introducción\n2:12 Iniciar sesión con usuario root\n3:47 Polies\n5:28 Usuarios IAM\n8:30 Grupos de usuarios\n11:54 Password policy\n13:25 Roles\n16:25 Proveedores de Identidad\n17:51 Buenas prácticas y Multi Factor Authentication\n21:06 Iniciar sesión con el usuario IAM\n23:30 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloud"
+          "description": "Les muestro cómo usar el servicio para la gestión de acceso e identidad en AWS (IAM), cómo crear y manejar usuarios, grupos, roles, policies, configurar MFA, BUENAS PRÁCTICAS y mucho más.\n\n✅ Contenido:\n0:00 Introducción\n2:12 Iniciar sesión con usuario root\n3:47 Polies\n5:28 Usuarios IAM\n8:30 Grupos de usuarios\n11:54 Password policy\n13:25 Roles\n16:25 Proveedores de Identidad\n17:51 Buenas prácticas y Multi Factor Authentication\n21:06 Iniciar sesión con el usuario IAM\n23:30 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -978,13 +978,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "s_LkQzXpT15cn75URnzIAWsk3iU",
+      "etag": "DY8td6Y1xGQX9phw4UKs7B66Zb8",
       "id": "hdgUDN1sgtA",
       "snippet": {
         "publishedAt": "2021-03-21T11:00:42Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Aprende React.js desde CERO | Creando web de películas",
-        "description": "React es una tecnología con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte1\n\nGist con el json de las películas:\nhttps://gist.github.com/ymulenll/e9bcdee18151d17ba745b0d93d447359\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#react #reactjs",
+        "description": "React es una tecnología con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte1\n\nGist con el json de las películas:\nhttps://gist.github.com/ymulenll/e9bcdee18151d17ba745b0d93d447359\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/hdgUDN1sgtA/default.jpg",
@@ -1025,7 +1025,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Aprende React.js desde CERO | Creando web de películas",
-          "description": "React es una tecnología con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte1\n\nGist con el json de las películas:\nhttps://gist.github.com/ymulenll/e9bcdee18151d17ba745b0d93d447359\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#react #reactjs"
+          "description": "React es una tecnología con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte1\n\nGist con el json de las películas:\nhttps://gist.github.com/ymulenll/e9bcdee18151d17ba745b0d93d447359\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1044,13 +1044,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "g1DLwfewiQVfGbOQJPabqFq7UUU",
+      "etag": "5GCf-1xDOz8Et-gAJXCwrjDwWD4",
       "id": "xQstBIPeOdU",
       "snippet": {
         "publishedAt": "2021-02-25T19:00:17Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Barra de navegación responsive y accesible con HTML, CSS y JS | Diseño adaptativo - flexbox",
-        "description": "Les comparto cómo crear una navbar responsive y 100% accesible usando flexbox. Además de muchos tips y buenas prácticas.\n\n✔ Contenido:\n0:00 Introducción\n0:44 Estructura HTML\n5:08 CSS para escritorio\n16:12 CSS para móviles\n34:10 Mejoras de accesibilidad\n \n📺 Videos relacionados\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/responsive-navbar-yt/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #responsive",
+        "description": "Les comparto cómo crear una navbar responsive y 100% accesible usando flexbox. Además de muchos tips y buenas prácticas.\n\n✔ Contenido:\n0:00 Introducción\n0:44 Estructura HTML\n5:08 CSS para escritorio\n16:12 CSS para móviles\n34:10 Mejoras de accesibilidad\n \n📺 Videos relacionados\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/responsive-navbar-yt/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/xQstBIPeOdU/default.jpg",
@@ -1097,7 +1097,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Barra de navegación responsive y accesible con HTML, CSS y JS | Diseño adaptativo - flexbox",
-          "description": "Les comparto cómo crear una navbar responsive y 100% accesible usando flexbox. Además de muchos tips y buenas prácticas.\n\n✔ Contenido:\n0:00 Introducción\n0:44 Estructura HTML\n5:08 CSS para escritorio\n16:12 CSS para móviles\n34:10 Mejoras de accesibilidad\n \n📺 Videos relacionados\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/responsive-navbar-yt/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #responsive"
+          "description": "Les comparto cómo crear una navbar responsive y 100% accesible usando flexbox. Además de muchos tips y buenas prácticas.\n\n✔ Contenido:\n0:00 Introducción\n0:44 Estructura HTML\n5:08 CSS para escritorio\n16:12 CSS para móviles\n34:10 Mejoras de accesibilidad\n \n📺 Videos relacionados\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/responsive-navbar-yt/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1116,13 +1116,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "HADIN74Bik2Im6BfPGcHgcEIPPA",
+      "etag": "q_Lvutm4F-1XCHAFvnhoplJwPW4",
       "id": "ZSfzjavepzM",
       "snippet": {
         "publishedAt": "2021-02-24T14:51:08Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack 5 | Code Splitting y optimizaciones para producción",
-        "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #react #code-splitting",
+        "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/ZSfzjavepzM/default.jpg",
@@ -1151,12 +1151,15 @@
           }
         },
         "channelTitle": "Yoelvis Mulen { code }",
-        "tags": ["programación", "tutorial"],
+        "tags": [
+          "programación",
+          "tutorial"
+        ],
         "categoryId": "27",
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Webpack 5 | Code Splitting y optimizaciones para producción",
-          "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #react #code-splitting"
+          "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs"
         }
       },
       "contentDetails": {
@@ -1918,7 +1921,11 @@
           }
         },
         "channelTitle": "Yoelvis Mulen { code }",
-        "tags": ["JavaScript", "programación", "tutorial"],
+        "tags": [
+          "JavaScript",
+          "programación",
+          "tutorial"
+        ],
         "categoryId": "27",
         "liveBroadcastContent": "none",
         "localized": {
@@ -2985,7 +2992,12 @@
           }
         },
         "channelTitle": "Yoelvis Mulen { code }",
-        "tags": ["GraphQL", "JavaScript", "Apollo", "Nodejs"],
+        "tags": [
+          "GraphQL",
+          "JavaScript",
+          "Apollo",
+          "Nodejs"
+        ],
         "categoryId": "28",
         "liveBroadcastContent": "none",
         "localized": {
