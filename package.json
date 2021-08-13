@@ -12,17 +12,17 @@
   "dependencies": {
     "@n8tb1t/use-scroll-position": "^2.0.3",
     "@react-spring/web": "^9.2.4",
-    "@tailwindcss/aspect-ratio": "^0.2.1",
-    "@tailwindcss/line-clamp": "^0.2.1",
     "classnames": "^2.3.1",
     "dayjs": "^1.10.6",
-    "next": "11.0.1",
+    "next": "^11.1.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-player": "^2.9.0",
     "slugify": "^1.6.0"
   },
   "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/line-clamp": "^0.2.1",
     "@types/react": "17.0.15",
     "autoprefixer": "^10.3.1",
     "cross-env": "^7.0.3",
