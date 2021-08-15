@@ -1,6 +1,6 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "bIWFEMyhbOyR9UYy4ElpBCnM6Kc",
+  "etag": "o9RGy3I3i7elBraphmqbBfgGhw0",
   "items": [
     {
       "kind": "youtube#video",
@@ -1116,13 +1116,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "eBe1U1sHmcq8wFPaVgt2CQQKkf8",
+      "etag": "dEoyKpNHXz2bqsbovidwdgzdkuc",
       "id": "ZSfzjavepzM",
       "snippet": {
         "publishedAt": "2021-02-24T14:51:08Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack 5 | Code Splitting y optimizaciones para producción",
-        "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs",
+        "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/ZSfzjavepzM/default.jpg",
@@ -1159,7 +1159,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Webpack 5 | Code Splitting y optimizaciones para producción",
-          "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs"
+          "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
         }
       },
       "contentDetails": {
@@ -1244,13 +1244,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iSKf7wJu_v0T3FqSsHDl8t-G0qw",
+      "etag": "YZ-WnlkeOUDroPoMMsREoNgV6hQ",
       "id": "N6ZR4M1z6Yc",
       "snippet": {
         "publishedAt": "2021-02-24T14:50:51Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack 5 | Configuración de Sass, CSS e Imágenes",
-        "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs",
+        "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/N6ZR4M1z6Yc/default.jpg",
@@ -1293,7 +1293,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Webpack 5 | Configuración de Sass, CSS e Imágenes",
-          "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs"
+          "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
         }
       },
       "contentDetails": {
@@ -1311,13 +1311,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "MADKOX1Elhb31BGIZMCzsp7OO80",
+      "etag": "0kdRdd3n5RhntGs113qRvIe3GLg",
       "id": "l9xx8sv4Y7Y",
       "snippet": {
         "publishedAt": "2021-02-24T14:50:46Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack 5 | Configuración y Polyfill con Babel.js",
-        "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs",
+        "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/l9xx8sv4Y7Y/default.jpg",
@@ -1365,7 +1365,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Webpack 5 | Configuración y Polyfill con Babel.js",
-          "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs"
+          "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
         }
       },
       "contentDetails": {
