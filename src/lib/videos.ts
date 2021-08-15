@@ -59,7 +59,7 @@ const mapYouTubeVideos = (): YTVideo[] => {
 }
 
 const extractDescriptionTags = (description: string) => {
-  const tags = [...description.matchAll(/#(\w+)/g)].map((value) => value[1])
+  const tags = [...description.matchAll(/[ \n]#(\w+)/g)].map((value) => value[1])
   const uniqTags = uniq(tags)
 
   return uniqTags

@@ -1,6 +1,6 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "vFIamb-1MHgNI4uc98G1iDEKda8",
+  "etag": "o9RGy3I3i7elBraphmqbBfgGhw0",
   "items": [
     {
       "kind": "youtube#video",
@@ -1116,13 +1116,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "q_Lvutm4F-1XCHAFvnhoplJwPW4",
+      "etag": "dEoyKpNHXz2bqsbovidwdgzdkuc",
       "id": "ZSfzjavepzM",
       "snippet": {
         "publishedAt": "2021-02-24T14:51:08Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack 5 | Code Splitting y optimizaciones para producción",
-        "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs",
+        "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/ZSfzjavepzM/default.jpg",
@@ -1159,7 +1159,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Webpack 5 | Code Splitting y optimizaciones para producción",
-          "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #reactjs"
+          "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
         }
       },
       "contentDetails": {
@@ -1244,13 +1244,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "GJygyC4lkZywSTcUkVnQMXHON4A",
+      "etag": "YZ-WnlkeOUDroPoMMsREoNgV6hQ",
       "id": "N6ZR4M1z6Yc",
       "snippet": {
         "publishedAt": "2021-02-24T14:50:51Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack 5 | Configuración de Sass, CSS e Imágenes",
-        "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #react #sass",
+        "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/N6ZR4M1z6Yc/default.jpg",
@@ -1293,7 +1293,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Webpack 5 | Configuración de Sass, CSS e Imágenes",
-          "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #react #sass"
+          "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
         }
       },
       "contentDetails": {
@@ -1311,13 +1311,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "AbXV-kzCYq4jSIWlL26HzjEqTVI",
+      "etag": "0kdRdd3n5RhntGs113qRvIe3GLg",
       "id": "l9xx8sv4Y7Y",
       "snippet": {
         "publishedAt": "2021-02-24T14:50:46Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack 5 | Configuración y Polyfill con Babel.js",
-        "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #react #polyfill",
+        "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/l9xx8sv4Y7Y/default.jpg",
@@ -1365,7 +1365,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Webpack 5 | Configuración y Polyfill con Babel.js",
-          "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Éste video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack #react #polyfill"
+          "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
         }
       },
       "contentDetails": {
@@ -1383,13 +1383,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "qXiZeyY7elLNMR6u0hvWJL7oe3w",
+      "etag": "s4SjJS-CGQW_3kh4qLyVzKk8PWk",
       "id": "97Ajv8-NRVY",
       "snippet": {
         "publishedAt": "2021-02-22T05:00:15Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "React.js | Configuración con Webpack 5 y Babel 7 - 2021 Tutorial",
-        "description": "Aprende a usar la última versión de Webpack configurando un proyecto de React desde cero. \nMuestro cómo crear un empaquetado óptimo para producción y las herramientas que podemos usar en tiempo de desarrollo como webpack-dev-server y fast refresh.\n\n✔ Contenido:\n0:00 Configuración inicial\n1:51 Iniciar proyecto npm e instalar webpack\n5:06 Configuración básica de webpack\n9:56 Configuración de babel y core-js\n20:31 html-clean-plugin y html-webpack-plugin\n23:33  Configuración de css, sass e imágenes\n29:24 webpack-dev-server\n37:35 react fast refresh\n41:02 source maps\n44:50  Code splitting y optimizaciones\n \n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n👨‍💻 Código fuente:\nhttps://github.com/ymulenll/react-webpack5-boilerplate\n\n📌Enlaces:\nhttps://nodejs.org/en/\nhttps://webpack.js.org/concepts/\nhttps://babeljs.io/\nhttps://webpack.js.org/configuration/resolve/#resolveextensions\nhttps://www.npmjs.com/package/sass-loader\nhttps://webpack.js.org/configuration/dev-server/\nhttps://github.com/pmmmwh/react-refresh-webpack-plugin\nhttps://webpack.js.org/configuration/devtool/\nhttps://webpack.js.org/guides/code-splitting/#entry-points\nhttps://webpack.js.org/plugins/mini-css-extract-plugin/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#webpack #babel #reactjs",
+        "description": "Aprende a usar la última versión de Webpack configurando un proyecto de React desde cero. \nMuestro cómo crear un empaquetado óptimo para producción y las herramientas que podemos usar en tiempo de desarrollo como webpack-dev-server y fast refresh.\n\n✔ Contenido:\n0:00 Configuración inicial\n1:51 Iniciar proyecto npm e instalar webpack\n5:06 Configuración básica de webpack\n9:56 Configuración de babel y core-js\n20:31 html-clean-plugin y html-webpack-plugin\n23:33 Configuración de css, sass e imágenes\n29:24 webpack-dev-server\n37:35 react fast refresh\n41:02 source maps\n44:50 Code splitting y optimizaciones\n \n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n👨‍💻 Código fuente:\nhttps://github.com/ymulenll/react-webpack5-boilerplate\n\n📌Enlaces:\nhttps://nodejs.org/en/\nhttps://webpack.js.org/concepts/\nhttps://babeljs.io/\nhttps://webpack.js.org/configuration/resolve/#resolveextensions\nhttps://www.npmjs.com/package/sass-loader\nhttps://webpack.js.org/configuration/dev-server/\nhttps://github.com/pmmmwh/react-refresh-webpack-plugin\nhttps://webpack.js.org/configuration/devtool/\nhttps://webpack.js.org/guides/code-splitting/#entry-points\nhttps://webpack.js.org/plugins/mini-css-extract-plugin/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#webpack #babel #reactjs",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/97Ajv8-NRVY/default.jpg",
@@ -1436,7 +1436,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "React.js | Configuración con Webpack 5 y Babel 7 - 2021 Tutorial",
-          "description": "Aprende a usar la última versión de Webpack configurando un proyecto de React desde cero. \nMuestro cómo crear un empaquetado óptimo para producción y las herramientas que podemos usar en tiempo de desarrollo como webpack-dev-server y fast refresh.\n\n✔ Contenido:\n0:00 Configuración inicial\n1:51 Iniciar proyecto npm e instalar webpack\n5:06 Configuración básica de webpack\n9:56 Configuración de babel y core-js\n20:31 html-clean-plugin y html-webpack-plugin\n23:33  Configuración de css, sass e imágenes\n29:24 webpack-dev-server\n37:35 react fast refresh\n41:02 source maps\n44:50  Code splitting y optimizaciones\n \n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n👨‍💻 Código fuente:\nhttps://github.com/ymulenll/react-webpack5-boilerplate\n\n📌Enlaces:\nhttps://nodejs.org/en/\nhttps://webpack.js.org/concepts/\nhttps://babeljs.io/\nhttps://webpack.js.org/configuration/resolve/#resolveextensions\nhttps://www.npmjs.com/package/sass-loader\nhttps://webpack.js.org/configuration/dev-server/\nhttps://github.com/pmmmwh/react-refresh-webpack-plugin\nhttps://webpack.js.org/configuration/devtool/\nhttps://webpack.js.org/guides/code-splitting/#entry-points\nhttps://webpack.js.org/plugins/mini-css-extract-plugin/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#webpack #babel #reactjs"
+          "description": "Aprende a usar la última versión de Webpack configurando un proyecto de React desde cero. \nMuestro cómo crear un empaquetado óptimo para producción y las herramientas que podemos usar en tiempo de desarrollo como webpack-dev-server y fast refresh.\n\n✔ Contenido:\n0:00 Configuración inicial\n1:51 Iniciar proyecto npm e instalar webpack\n5:06 Configuración básica de webpack\n9:56 Configuración de babel y core-js\n20:31 html-clean-plugin y html-webpack-plugin\n23:33 Configuración de css, sass e imágenes\n29:24 webpack-dev-server\n37:35 react fast refresh\n41:02 source maps\n44:50 Code splitting y optimizaciones\n \n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n👨‍💻 Código fuente:\nhttps://github.com/ymulenll/react-webpack5-boilerplate\n\n📌Enlaces:\nhttps://nodejs.org/en/\nhttps://webpack.js.org/concepts/\nhttps://babeljs.io/\nhttps://webpack.js.org/configuration/resolve/#resolveextensions\nhttps://www.npmjs.com/package/sass-loader\nhttps://webpack.js.org/configuration/dev-server/\nhttps://github.com/pmmmwh/react-refresh-webpack-plugin\nhttps://webpack.js.org/configuration/devtool/\nhttps://webpack.js.org/guides/code-splitting/#entry-points\nhttps://webpack.js.org/plugins/mini-css-extract-plugin/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#webpack #babel #reactjs"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1455,13 +1455,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mUGvUGIBKh8j2X1yjZs4EBgMNFY",
+      "etag": "jjHqixnEPnU6snlgPyh-8jW9KVE",
       "id": "BIXgEpITld4",
       "snippet": {
         "publishedAt": "2021-02-15T15:00:15Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "CSS Flexbox | Guía completa DESDE CERO",
-        "description": "Guía completa de CSS Flexbox desde cero. CSS Flexbox es uno de los pilares del desarrollo web moderno y es importante que sepamos usarlo. \n\n** Éste video es la versión completa de la guía sobre CSS Flexbox que subí hace un tiempo al canal dividido en 2 partes, acá decidí dejarlo todo en un solo video para los que deseen verlo de esta forma. **\n\n✅ Contenido:\n0:00 Introducción\n0:25 Estructura inicial\n1:45 display flex vs inline-flex\n3:31 flex-direction\n5:26 flex-wrap\n6:35 justify-content\n8:12 align-items\n10:35 align-content\n13:15 flex-flow\n13:40 order\n14:35 align-self\n15:26 margin auto\n16:21 flex-basis\n19:27 flex-grow\n21:40 flex-shrink\n22:37 la propiedad flex\n9:22 la propiedad flex\n27:04 Despedida\n\n📺 Serie sobre diseño adaptativo:\nhttps://www.youtube.com/playlist?list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/flexbox-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #flexbox",
+        "description": "Guía completa de CSS Flexbox desde cero. CSS Flexbox es uno de los pilares del desarrollo web moderno y es importante que sepamos usarlo. \n\n✅ Contenido:\n0:00 Introducción\n0:25 Estructura inicial\n1:45 display flex vs inline-flex\n3:31 flex-direction\n5:26 flex-wrap\n6:35 justify-content\n8:12 align-items\n10:35 align-content\n13:15 flex-flow\n13:40 order\n14:35 align-self\n15:26 margin auto\n16:21 flex-basis\n19:27 flex-grow\n21:40 flex-shrink\n22:37 la propiedad flex\n9:22 la propiedad flex\n27:04 Despedida\n\n📺 Serie sobre diseño adaptativo:\nhttps://www.youtube.com/playlist?list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/flexbox-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #flexbox",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/BIXgEpITld4/default.jpg",
@@ -1515,7 +1515,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "CSS Flexbox | Guía completa DESDE CERO",
-          "description": "Guía completa de CSS Flexbox desde cero. CSS Flexbox es uno de los pilares del desarrollo web moderno y es importante que sepamos usarlo. \n\n** Éste video es la versión completa de la guía sobre CSS Flexbox que subí hace un tiempo al canal dividido en 2 partes, acá decidí dejarlo todo en un solo video para los que deseen verlo de esta forma. **\n\n✅ Contenido:\n0:00 Introducción\n0:25 Estructura inicial\n1:45 display flex vs inline-flex\n3:31 flex-direction\n5:26 flex-wrap\n6:35 justify-content\n8:12 align-items\n10:35 align-content\n13:15 flex-flow\n13:40 order\n14:35 align-self\n15:26 margin auto\n16:21 flex-basis\n19:27 flex-grow\n21:40 flex-shrink\n22:37 la propiedad flex\n9:22 la propiedad flex\n27:04 Despedida\n\n📺 Serie sobre diseño adaptativo:\nhttps://www.youtube.com/playlist?list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/flexbox-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #flexbox"
+          "description": "Guía completa de CSS Flexbox desde cero. CSS Flexbox es uno de los pilares del desarrollo web moderno y es importante que sepamos usarlo. \n\n✅ Contenido:\n0:00 Introducción\n0:25 Estructura inicial\n1:45 display flex vs inline-flex\n3:31 flex-direction\n5:26 flex-wrap\n6:35 justify-content\n8:12 align-items\n10:35 align-content\n13:15 flex-flow\n13:40 order\n14:35 align-self\n15:26 margin auto\n16:21 flex-basis\n19:27 flex-grow\n21:40 flex-shrink\n22:37 la propiedad flex\n9:22 la propiedad flex\n27:04 Despedida\n\n📺 Serie sobre diseño adaptativo:\nhttps://www.youtube.com/playlist?list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/flexbox-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #flexbox"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1534,13 +1534,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9tm9D7MJyw3Pf7TpxOezZbnvD-E",
+      "etag": "5KL_uuxpclg-J6XsMqdsnEOdh-U",
       "id": "5AQb1AQ4mz8",
       "snippet": {
         "publishedAt": "2021-02-13T13:41:23Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Cómo crear una cuenta 💲GRATIS💲 en AWS 🚀 y alerta de facturación 🔔 | AWS desde cero  - Parte 3",
-        "description": "Hoy vamos a crear una cuenta gratuita (free-tier) en Amazon Web Services y configurar una alarma de facturación para evitar sorpresas y que tengamos que pagar por algún servicio. La idea es que no paguemos nada mientras estemos aprendiendo. \n\nContenido:\n0:00 Introducción\n0:48 Entendiendo el free tier\n2:22 Creación de cuenta\n5:36 Inicio de sesión y manejo de la consola\n8:19 Crear alarma de facturación\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloud",
+        "description": "Hoy vamos a crear una cuenta gratuita (free-tier) en Amazon Web Services y configurar una alarma de facturación para evitar sorpresas y que tengamos que pagar por algún servicio. La idea es que no paguemos nada mientras estemos aprendiendo. \n\nContenido:\n0:00 Introducción\n0:48 Entendiendo el free tier\n2:22 Creación de cuenta\n5:36 Inicio de sesión y manejo de la consola\n8:19 Crear alarma de facturación\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/5AQb1AQ4mz8/default.jpg",
@@ -1589,7 +1589,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Cómo crear una cuenta 💲GRATIS💲 en AWS 🚀 y alerta de facturación 🔔 | AWS desde cero  - Parte 3",
-          "description": "Hoy vamos a crear una cuenta gratuita (free-tier) en Amazon Web Services y configurar una alarma de facturación para evitar sorpresas y que tengamos que pagar por algún servicio. La idea es que no paguemos nada mientras estemos aprendiendo. \n\nContenido:\n0:00 Introducción\n0:48 Entendiendo el free tier\n2:22 Creación de cuenta\n5:36 Inicio de sesión y manejo de la consola\n8:19 Crear alarma de facturación\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloud"
+          "description": "Hoy vamos a crear una cuenta gratuita (free-tier) en Amazon Web Services y configurar una alarma de facturación para evitar sorpresas y que tengamos que pagar por algún servicio. La idea es que no paguemos nada mientras estemos aprendiendo. \n\nContenido:\n0:00 Introducción\n0:48 Entendiendo el free tier\n2:22 Creación de cuenta\n5:36 Inicio de sesión y manejo de la consola\n8:19 Crear alarma de facturación\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1608,13 +1608,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "pLFhf0iE1iCiba0YVuuEN_5WYBs",
+      "etag": "u-wxEQss-CmIHfuyeQ9k1o5nbsk",
       "id": "IbdwohdPRe8",
       "snippet": {
         "publishedAt": "2021-02-07T19:11:40Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Conoce la infraestructura global de AWS | AWS desde cero - Parte 2: Infraestructura",
-        "description": "Conoce la manera que AWS distribuye sus centros de datos a través del mundo mediante Regiones, Zonas de Disponibilidad y Edge Locations y cómo podemos sacarle el máximo provecho. \n\nContenido:\n0:00 Introducción\n0:53 Regiones\n1:47 Zonas de Disponibilidad (Availability Zones)\n5:03 Edge Locations\n7:54 Preguntas de examen\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloud",
+        "description": "Conoce la manera que AWS distribuye sus centros de datos a través del mundo mediante Regiones, Zonas de Disponibilidad y Edge Locations y cómo podemos sacarle el máximo provecho. \n\nContenido:\n0:00 Introducción\n0:53 Regiones\n1:47 Zonas de Disponibilidad (Availability Zones)\n5:03 Edge Locations\n7:54 Preguntas de examen\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/IbdwohdPRe8/default.jpg",
@@ -1661,7 +1661,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Conoce la infraestructura global de AWS | AWS desde cero - Parte 2: Infraestructura",
-          "description": "Conoce la manera que AWS distribuye sus centros de datos a través del mundo mediante Regiones, Zonas de Disponibilidad y Edge Locations y cómo podemos sacarle el máximo provecho. \n\nContenido:\n0:00 Introducción\n0:53 Regiones\n1:47 Zonas de Disponibilidad (Availability Zones)\n5:03 Edge Locations\n7:54 Preguntas de examen\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloud"
+          "description": "Conoce la manera que AWS distribuye sus centros de datos a través del mundo mediante Regiones, Zonas de Disponibilidad y Edge Locations y cómo podemos sacarle el máximo provecho. \n\nContenido:\n0:00 Introducción\n0:53 Regiones\n1:47 Zonas de Disponibilidad (Availability Zones)\n5:03 Edge Locations\n7:54 Preguntas de examen\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1680,13 +1680,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "etsImI1oJRH0heUizIEJli7ZCPg",
+      "etag": "iiOmhrBYOIhiNlC0LGgLSOOie3Y",
       "id": "IciVhWQ8npw",
       "snippet": {
         "publishedAt": "2021-01-31T22:33:15Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "¿Qué es la Computación en la Nube? | AWS desde cero  - Parte 1: Introducción",
-        "description": "Curso de computación en la nube usando Amazon Web Services desde cero. \n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube, La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación se puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloud",
+        "description": "Curso de computación en la nube usando Amazon Web Services desde cero. \n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube, La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación se puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/IciVhWQ8npw/default.jpg",
@@ -1731,7 +1731,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "¿Qué es la Computación en la Nube? | AWS desde cero  - Parte 1: Introducción",
-          "description": "Curso de computación en la nube usando Amazon Web Services desde cero. \n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube, La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación se puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #cloud"
+          "description": "Curso de computación en la nube usando Amazon Web Services desde cero. \n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube, La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación se puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1750,13 +1750,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "ns17J7-y2Itt5jXRj2d8KQ0TmYk",
+      "etag": "tEyxonUhjNcDZr8q4os7I6rrK_4",
       "id": "usRIvdhRTS8",
       "snippet": {
         "publishedAt": "2020-11-30T16:00:45Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Instalar Ubuntu junto a Windows 10 (Tutorial) | Dual Boot",
-        "description": "Les muestro cómo instalar Linux (Ubuntu) cuando ya tienen instalado Windows 10, lo que se le conoce como Dual Boot. \n\nHace unos días instalé Ubuntu (no lo usaba hacía años) por temas de trabajo que me facilita mucho el desarrollo en varios proyectos en los que estoy inmerso últimamente. Les muestro el proceso por si les interesa hacer lo mismo.\n\n✅ Contenido:\n0:00 Introducción y requisito\n0:26 Descargar ISO de Ubuntu\n0:58 Descargar y usar Universal USB installer\n2:01 Crear partición para Linux\n2:32 Desactivar inicio rápido de Windows\n2:59 Desactivar Secure Boot en UEFI Firmware\n3:45 Reiniciar seleccionando el dispositivo USB\n4:25 Configurar instalación\n5:09 Crear particiones root, swap y home\n7:12 Finalizar instalación\n8:35 Menú de Dual Boot\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nUbuntu: https://ubuntu.com/download/desktop\nUniversal USB Installer: https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#ubuntu #linux #dualboot",
+        "description": "Les muestro cómo instalar Linux (Ubuntu) cuando ya tienen instalado Windows 10, lo que se le conoce como Dual Boot. \n\nHace unos días instalé Ubuntu (no lo usaba hacía años) por temas de trabajo que me facilita mucho el desarrollo en varios proyectos en los que estoy inmerso últimamente. Les muestro el proceso por si les interesa hacer lo mismo.\n\n✅ Contenido:\n0:00 Introducción y requisito\n0:26 Descargar ISO de Ubuntu\n0:58 Descargar y usar Universal USB installer\n2:01 Crear partición para Linux\n2:32 Desactivar inicio rápido de Windows\n2:59 Desactivar Secure Boot en UEFI Firmware\n3:45 Reiniciar seleccionando el dispositivo USB\n4:25 Configurar instalación\n5:09 Crear particiones root, swap y home\n7:12 Finalizar instalación\n8:35 Menú de Dual Boot\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nUbuntu: https://ubuntu.com/download/desktop\nUniversal USB Installer: https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#linux",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/usRIvdhRTS8/default.jpg",
@@ -1797,7 +1797,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Instalar Ubuntu junto a Windows 10 (Tutorial) | Dual Boot",
-          "description": "Les muestro cómo instalar Linux (Ubuntu) cuando ya tienen instalado Windows 10, lo que se le conoce como Dual Boot. \n\nHace unos días instalé Ubuntu (no lo usaba hacía años) por temas de trabajo que me facilita mucho el desarrollo en varios proyectos en los que estoy inmerso últimamente. Les muestro el proceso por si les interesa hacer lo mismo.\n\n✅ Contenido:\n0:00 Introducción y requisito\n0:26 Descargar ISO de Ubuntu\n0:58 Descargar y usar Universal USB installer\n2:01 Crear partición para Linux\n2:32 Desactivar inicio rápido de Windows\n2:59 Desactivar Secure Boot en UEFI Firmware\n3:45 Reiniciar seleccionando el dispositivo USB\n4:25 Configurar instalación\n5:09 Crear particiones root, swap y home\n7:12 Finalizar instalación\n8:35 Menú de Dual Boot\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nUbuntu: https://ubuntu.com/download/desktop\nUniversal USB Installer: https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#ubuntu #linux #dualboot"
+          "description": "Les muestro cómo instalar Linux (Ubuntu) cuando ya tienen instalado Windows 10, lo que se le conoce como Dual Boot. \n\nHace unos días instalé Ubuntu (no lo usaba hacía años) por temas de trabajo que me facilita mucho el desarrollo en varios proyectos en los que estoy inmerso últimamente. Les muestro el proceso por si les interesa hacer lo mismo.\n\n✅ Contenido:\n0:00 Introducción y requisito\n0:26 Descargar ISO de Ubuntu\n0:58 Descargar y usar Universal USB installer\n2:01 Crear partición para Linux\n2:32 Desactivar inicio rápido de Windows\n2:59 Desactivar Secure Boot en UEFI Firmware\n3:45 Reiniciar seleccionando el dispositivo USB\n4:25 Configurar instalación\n5:09 Crear particiones root, swap y home\n7:12 Finalizar instalación\n8:35 Menú de Dual Boot\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nUbuntu: https://ubuntu.com/download/desktop\nUniversal USB Installer: https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#linux"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1816,13 +1816,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "H5lJnHSTRPgHl0wGArBFIiQA4BM",
+      "etag": "fAGyaI-pO7F9eeQ5cEyyDWUjp1s",
       "id": "LnEimHQRfFQ",
       "snippet": {
         "publishedAt": "2020-11-29T15:21:55Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Galería de imágenes tipo Pinterest con HTML, CSS y JS | Masonry Layout - Tutorial",
-        "description": "Cómo hacer una galería de imágenes tipo Pinterest (Masonry) donde tenemos imágenes de diferentes dimensiones. Les muestro cómo hacerlo con CSS Grid y las limitaciones que éste tiene de momento. Luego lo resolvemos usando una librería de JavaScript. \n\n✅ Contenido:\n0:00 Introducción y primeros pasos\n2:09 CSS Grid\n5:53 CSS Grid Masonry Layout\n8:02 Masonry JS\n13:48 Retoques finales\n\n📺 Videos relacionados:\n\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/masonry-layout\nBorrador CSS Grid v3: https://drafts.csswg.org/css-grid-3/\nDocumentación Masonry Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout\nLibrería masonry: https://masonry.desandro.com/\nLibrería imagesLoaded: https://imagesloaded.desandro.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#masonry #css #grid",
+        "description": "Cómo hacer una galería de imágenes tipo Pinterest (Masonry) donde tenemos imágenes de diferentes dimensiones. Les muestro cómo hacerlo con CSS Grid y las limitaciones que éste tiene de momento. Luego lo resolvemos usando una librería de JavaScript. \n\n✅ Contenido:\n0:00 Introducción y primeros pasos\n2:09 CSS Grid\n5:53 CSS Grid Masonry Layout\n8:02 Masonry JS\n13:48 Retoques finales\n\n📺 Videos relacionados:\n\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/masonry-layout\nBorrador CSS Grid v3: https://drafts.csswg.org/css-grid-3/\nDocumentación Masonry Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout\nLibrería masonry: https://masonry.desandro.com/\nLibrería imagesLoaded: https://imagesloaded.desandro.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/LnEimHQRfFQ/default.jpg",
@@ -1867,7 +1867,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Galería de imágenes tipo Pinterest con HTML, CSS y JS | Masonry Layout - Tutorial",
-          "description": "Cómo hacer una galería de imágenes tipo Pinterest (Masonry) donde tenemos imágenes de diferentes dimensiones. Les muestro cómo hacerlo con CSS Grid y las limitaciones que éste tiene de momento. Luego lo resolvemos usando una librería de JavaScript. \n\n✅ Contenido:\n0:00 Introducción y primeros pasos\n2:09 CSS Grid\n5:53 CSS Grid Masonry Layout\n8:02 Masonry JS\n13:48 Retoques finales\n\n📺 Videos relacionados:\n\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/masonry-layout\nBorrador CSS Grid v3: https://drafts.csswg.org/css-grid-3/\nDocumentación Masonry Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout\nLibrería masonry: https://masonry.desandro.com/\nLibrería imagesLoaded: https://imagesloaded.desandro.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#masonry #css #grid"
+          "description": "Cómo hacer una galería de imágenes tipo Pinterest (Masonry) donde tenemos imágenes de diferentes dimensiones. Les muestro cómo hacerlo con CSS Grid y las limitaciones que éste tiene de momento. Luego lo resolvemos usando una librería de JavaScript. \n\n✅ Contenido:\n0:00 Introducción y primeros pasos\n2:09 CSS Grid\n5:53 CSS Grid Masonry Layout\n8:02 Masonry JS\n13:48 Retoques finales\n\n📺 Videos relacionados:\n\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/masonry-layout\nBorrador CSS Grid v3: https://drafts.csswg.org/css-grid-3/\nDocumentación Masonry Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout\nLibrería masonry: https://masonry.desandro.com/\nLibrería imagesLoaded: https://imagesloaded.desandro.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1886,13 +1886,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_2InUsTfYDQ-3XiygSgbJ9qb2uY",
+      "etag": "Y4mwezImCmIxOrbdb88r1YpFyT8",
       "id": "MoWcVSWgsdc",
       "snippet": {
         "publishedAt": "2020-11-16T14:44:53Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Especial mil suscriptores 🎉 + 10 cosas sobre mí",
-        "description": "Hola amigos, estoy muy feliz de alcanzar los mil suscriptores en YouTube, y sobre todo de poder aportar un poco en el desarrollo profesional de miles de personas lo cual me hace aún más feliz. \n\nEs increíble la buena recepción que han tenido los videos por todos ustedes, todos los videos tienen buenos comentarios y likes, y casi ningun dislike o comentario negativo. Les agradezco una vez más a todos ustedes que me siguen, que ven mis videos y dejan comentarios que me animan a seguir adelante.\n\nMuchísimas gracias.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video y por seguir el canal.\n\n#1000suscriptores #YouTube #10CosasSobreMi",
+        "description": "Hola amigos, estoy muy feliz de alcanzar los mil suscriptores en YouTube, y sobre todo de poder aportar un poco en el desarrollo profesional de miles de personas lo cual me hace aún más feliz. \n\nEs increíble la buena recepción que han tenido los videos por todos ustedes, todos los videos tienen buenos comentarios y likes, y casi ningun dislike o comentario negativo. Les agradezco una vez más a todos ustedes que me siguen, que ven mis videos y dejan comentarios que me animan a seguir adelante.\n\nMuchísimas gracias.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video y por seguir el canal.\n\n#10CosasSobreMi",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/MoWcVSWgsdc/default.jpg",
@@ -1930,7 +1930,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Especial mil suscriptores 🎉 + 10 cosas sobre mí",
-          "description": "Hola amigos, estoy muy feliz de alcanzar los mil suscriptores en YouTube, y sobre todo de poder aportar un poco en el desarrollo profesional de miles de personas lo cual me hace aún más feliz. \n\nEs increíble la buena recepción que han tenido los videos por todos ustedes, todos los videos tienen buenos comentarios y likes, y casi ningun dislike o comentario negativo. Les agradezco una vez más a todos ustedes que me siguen, que ven mis videos y dejan comentarios que me animan a seguir adelante.\n\nMuchísimas gracias.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video y por seguir el canal.\n\n#1000suscriptores #YouTube #10CosasSobreMi"
+          "description": "Hola amigos, estoy muy feliz de alcanzar los mil suscriptores en YouTube, y sobre todo de poder aportar un poco en el desarrollo profesional de miles de personas lo cual me hace aún más feliz. \n\nEs increíble la buena recepción que han tenido los videos por todos ustedes, todos los videos tienen buenos comentarios y likes, y casi ningun dislike o comentario negativo. Les agradezco una vez más a todos ustedes que me siguen, que ven mis videos y dejan comentarios que me animan a seguir adelante.\n\nMuchísimas gracias.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video y por seguir el canal.\n\n#10CosasSobreMi"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1949,13 +1949,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_Hdg137IEvlk3dO6nrL2h0MRj8U",
+      "etag": "W90_0XEKRzu04KH-8ISwAYkHuhM",
       "id": "RRs8edPoZzU",
       "snippet": {
         "publishedAt": "2020-11-14T22:22:37Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "AWS Cloud Practitioner | Respondo sus preguntas frecuentes + anuncio",
-        "description": "Hace un tiempo hice un video contando mi experiencia al hacer la certificación AWS Certified Cloud Practitioner, pero vi que dejaron varias preguntas y por eso seleccioné las 10 que me resultaron más interesantes y les doy respuesta en este video. Espero les sea útil.\n\n📺 Videos relacionados:\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia): https://youtu.be/frsw1WDCxXQ\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #CloudPractitioner #certificación",
+        "description": "Hace un tiempo hice un video contando mi experiencia al hacer la certificación AWS Certified Cloud Practitioner, pero vi que dejaron varias preguntas y por eso seleccioné las 10 que me resultaron más interesantes y les doy respuesta en este video. Espero les sea útil.\n\n📺 Videos relacionados:\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia): https://youtu.be/frsw1WDCxXQ\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/RRs8edPoZzU/default.jpg",
@@ -1998,7 +1998,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "AWS Cloud Practitioner | Respondo sus preguntas frecuentes + anuncio",
-          "description": "Hace un tiempo hice un video contando mi experiencia al hacer la certificación AWS Certified Cloud Practitioner, pero vi que dejaron varias preguntas y por eso seleccioné las 10 que me resultaron más interesantes y les doy respuesta en este video. Espero les sea útil.\n\n📺 Videos relacionados:\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia): https://youtu.be/frsw1WDCxXQ\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws #CloudPractitioner #certificación"
+          "description": "Hace un tiempo hice un video contando mi experiencia al hacer la certificación AWS Certified Cloud Practitioner, pero vi que dejaron varias preguntas y por eso seleccioné las 10 que me resultaron más interesantes y les doy respuesta en este video. Espero les sea útil.\n\n📺 Videos relacionados:\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia): https://youtu.be/frsw1WDCxXQ\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -2017,13 +2017,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tg2SFiviXXkumDSaS--OYCDT2j0",
+      "etag": "mClldgdftGKDPVV_OZut_RT25tY",
       "id": "iKdwZ91Q4L8",
       "snippet": {
         "publishedAt": "2020-10-05T18:00:13Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "CSS GRID | Guía completa DESDE CERO",
-        "description": "Curso práctico de CSS Grid desde cero.\n\nEl CSS Grid es una herramienta súper útil que si logramos dominar podemos conseguir resultados increíbles con pocas líneas de css. En este video les traigo una guía con todo (o una gran parte) de lo que tiene el CSS Grid. Todo explicado con ejemplos prácticos.\n\n✅ Contenido:\n00:00 Introducción y configuración\n01:25 display grid vs inline-grid\n02:43 grid-template-columns con length y %\n03:42 min-content vs max-content vs fit-content\n06:21 auto vs fr\n07:45 minmax\n08:52 repeat\n10:04 auto-fit vs auto-fill\n14:01 grid-template-rows\n14:38 grid-auto-rows\n15:32 grid-auto-flow\n16:44 grid-auto-columns\n18:07 row-gap vs column-gap vs gap\n19:29 align-items vs justify-items vs place-items\n21:54 align-content vs justify-content vs place-content\n26:21 align-self vs justify-self vs place-self\n29:18 grid-column-start vs grid-column-end vs grid-column\n31:11 grid-row-start vs grid-row-end vs grid-row\n31:50 líneas con números negativos\n32:39 span\n33:55 grid-auto-rows: row dense\n34:35 nombrar las líneas\n37:08 solapar elementos y z-index\n38:10 grid-area\n39:27 layout con grid-template-areas\n43:06 el atajo grid-template\n45:10 el atajo grid\n\n📺 Videos relacionados\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://drafts.csswg.org/css-grid/\n\nproyecto en su estado inicial: https://github.com/ymulenll/css-grid-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid #responsiveDesign",
+        "description": "Curso práctico de CSS Grid desde cero.\n\nEl CSS Grid es una herramienta súper útil que si logramos dominar podemos conseguir resultados increíbles con pocas líneas de css. En este video les traigo una guía con todo (o una gran parte) de lo que tiene el CSS Grid. Todo explicado con ejemplos prácticos.\n\n✅ Contenido:\n00:00 Introducción y configuración\n01:25 display grid vs inline-grid\n02:43 grid-template-columns con length y %\n03:42 min-content vs max-content vs fit-content\n06:21 auto vs fr\n07:45 minmax\n08:52 repeat\n10:04 auto-fit vs auto-fill\n14:01 grid-template-rows\n14:38 grid-auto-rows\n15:32 grid-auto-flow\n16:44 grid-auto-columns\n18:07 row-gap vs column-gap vs gap\n19:29 align-items vs justify-items vs place-items\n21:54 align-content vs justify-content vs place-content\n26:21 align-self vs justify-self vs place-self\n29:18 grid-column-start vs grid-column-end vs grid-column\n31:11 grid-row-start vs grid-row-end vs grid-row\n31:50 líneas con números negativos\n32:39 span\n33:55 grid-auto-rows: row dense\n34:35 nombrar las líneas\n37:08 solapar elementos y z-index\n38:10 grid-area\n39:27 layout con grid-template-areas\n43:06 el atajo grid-template\n45:10 el atajo grid\n\n📺 Videos relacionados\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://drafts.csswg.org/css-grid/\n\nproyecto en su estado inicial: https://github.com/ymulenll/css-grid-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/iKdwZ91Q4L8/default.jpg",
@@ -2091,7 +2091,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "CSS GRID | Guía completa DESDE CERO",
-          "description": "Curso práctico de CSS Grid desde cero.\n\nEl CSS Grid es una herramienta súper útil que si logramos dominar podemos conseguir resultados increíbles con pocas líneas de css. En este video les traigo una guía con todo (o una gran parte) de lo que tiene el CSS Grid. Todo explicado con ejemplos prácticos.\n\n✅ Contenido:\n00:00 Introducción y configuración\n01:25 display grid vs inline-grid\n02:43 grid-template-columns con length y %\n03:42 min-content vs max-content vs fit-content\n06:21 auto vs fr\n07:45 minmax\n08:52 repeat\n10:04 auto-fit vs auto-fill\n14:01 grid-template-rows\n14:38 grid-auto-rows\n15:32 grid-auto-flow\n16:44 grid-auto-columns\n18:07 row-gap vs column-gap vs gap\n19:29 align-items vs justify-items vs place-items\n21:54 align-content vs justify-content vs place-content\n26:21 align-self vs justify-self vs place-self\n29:18 grid-column-start vs grid-column-end vs grid-column\n31:11 grid-row-start vs grid-row-end vs grid-row\n31:50 líneas con números negativos\n32:39 span\n33:55 grid-auto-rows: row dense\n34:35 nombrar las líneas\n37:08 solapar elementos y z-index\n38:10 grid-area\n39:27 layout con grid-template-areas\n43:06 el atajo grid-template\n45:10 el atajo grid\n\n📺 Videos relacionados\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://drafts.csswg.org/css-grid/\n\nproyecto en su estado inicial: https://github.com/ymulenll/css-grid-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid #responsiveDesign"
+          "description": "Curso práctico de CSS Grid desde cero.\n\nEl CSS Grid es una herramienta súper útil que si logramos dominar podemos conseguir resultados increíbles con pocas líneas de css. En este video les traigo una guía con todo (o una gran parte) de lo que tiene el CSS Grid. Todo explicado con ejemplos prácticos.\n\n✅ Contenido:\n00:00 Introducción y configuración\n01:25 display grid vs inline-grid\n02:43 grid-template-columns con length y %\n03:42 min-content vs max-content vs fit-content\n06:21 auto vs fr\n07:45 minmax\n08:52 repeat\n10:04 auto-fit vs auto-fill\n14:01 grid-template-rows\n14:38 grid-auto-rows\n15:32 grid-auto-flow\n16:44 grid-auto-columns\n18:07 row-gap vs column-gap vs gap\n19:29 align-items vs justify-items vs place-items\n21:54 align-content vs justify-content vs place-content\n26:21 align-self vs justify-self vs place-self\n29:18 grid-column-start vs grid-column-end vs grid-column\n31:11 grid-row-start vs grid-row-end vs grid-row\n31:50 líneas con números negativos\n32:39 span\n33:55 grid-auto-rows: row dense\n34:35 nombrar las líneas\n37:08 solapar elementos y z-index\n38:10 grid-area\n39:27 layout con grid-template-areas\n43:06 el atajo grid-template\n45:10 el atajo grid\n\n📺 Videos relacionados\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://drafts.csswg.org/css-grid/\n\nproyecto en su estado inicial: https://github.com/ymulenll/css-grid-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -2256,13 +2256,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "9GTYR2mNKi4Ump0dK6tuN2HodHw",
+      "etag": "6ma2cDtf9TuPj8uMhVow_kYmyjw",
       "id": "AmDw_8U9TF8",
       "snippet": {
         "publishedAt": "2020-08-19T21:06:16Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "NPM tutorial | Comandos, versionado, cómo publicar paquetes, npm vs npx, tips",
-        "description": "Les muestro qué es npm, los principales comandos, manejo de versiones, cómo publicar paquetes al registro público, ejecutar binarios en scripts vs usando npx. Todo mediante ejemplos.\n\n✅ Contenido:\n00:00 Introducción\n00:23 Qué es npm\n04:32 Instalar npm\n05:30 Inicializar proyecto npm\n06:27 Instalar paquetes locales y globales\n10:16 Desinstalar paquetes locales y globales\n 11:50 Versionado con semantic versioning (SemVer)\n13:11 Actualizar paquetes\n15:56 Recrear node_modules\n16:40 Utilizar paquetes\n17:30 Publicar, actualizar y retirar paquetes\n20:39 Ejecutar binarios, scripts vs npx\n22:49 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://www.npmjs.com/\nhttps://docs.npmjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.",
+        "description": "Les muestro qué es npm, los principales comandos, manejo de versiones, cómo publicar paquetes al registro público, ejecutar binarios en scripts vs usando npx. Todo mediante ejemplos.\n\n✅ Contenido:\n00:00 Introducción\n00:23 Qué es npm\n04:32 Instalar npm\n05:30 Inicializar proyecto npm\n06:27 Instalar paquetes locales y globales\n10:16 Desinstalar paquetes locales y globales\n 11:50 Versionado con semantic versioning (SemVer)\n13:11 Actualizar paquetes\n15:56 Recrear node_modules\n16:40 Utilizar paquetes\n17:30 Publicar, actualizar y retirar paquetes\n20:39 Ejecutar binarios, scripts vs npx\n22:49 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://www.npmjs.com/\nhttps://docs.npmjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#nodejs #npm",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/AmDw_8U9TF8/default.jpg",
@@ -2317,7 +2317,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "NPM tutorial | Comandos, versionado, cómo publicar paquetes, npm vs npx, tips",
-          "description": "Les muestro qué es npm, los principales comandos, manejo de versiones, cómo publicar paquetes al registro público, ejecutar binarios en scripts vs usando npx. Todo mediante ejemplos.\n\n✅ Contenido:\n00:00 Introducción\n00:23 Qué es npm\n04:32 Instalar npm\n05:30 Inicializar proyecto npm\n06:27 Instalar paquetes locales y globales\n10:16 Desinstalar paquetes locales y globales\n 11:50 Versionado con semantic versioning (SemVer)\n13:11 Actualizar paquetes\n15:56 Recrear node_modules\n16:40 Utilizar paquetes\n17:30 Publicar, actualizar y retirar paquetes\n20:39 Ejecutar binarios, scripts vs npx\n22:49 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://www.npmjs.com/\nhttps://docs.npmjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil."
+          "description": "Les muestro qué es npm, los principales comandos, manejo de versiones, cómo publicar paquetes al registro público, ejecutar binarios en scripts vs usando npx. Todo mediante ejemplos.\n\n✅ Contenido:\n00:00 Introducción\n00:23 Qué es npm\n04:32 Instalar npm\n05:30 Inicializar proyecto npm\n06:27 Instalar paquetes locales y globales\n10:16 Desinstalar paquetes locales y globales\n 11:50 Versionado con semantic versioning (SemVer)\n13:11 Actualizar paquetes\n15:56 Recrear node_modules\n16:40 Utilizar paquetes\n17:30 Publicar, actualizar y retirar paquetes\n20:39 Ejecutar binarios, scripts vs npx\n22:49 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://www.npmjs.com/\nhttps://docs.npmjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#nodejs #npm"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -2336,13 +2336,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "wmoccUCfEgAHo6YJLn0zeJ7CDlU",
+      "etag": "8ILNXRAiCEobZtgO_rjXWNF7gQ8",
       "id": "R7AMcD96mqY",
       "snippet": {
         "publishedAt": "2020-08-10T19:24:10Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "React.js | Configuración con Webpack y Babel | desde Cero sin usar create-react-app",
-        "description": "Muestro cómo configurar un proyecto React.js desde cero usando Webpack y Babel, sin usar generadores como create-react-app. \n\n✅ Contenido:\n00:00 Introducción\n00:29 Iniciar el proyecto React.js con npm\n04:39 Instalar y configurar Webpack\n09:13 Instalar y configurar Babel\n14:18 Instalar y configurar los plugins CleanWebpackPlugin y HtmlWebpackPlugin\n17:08 Instalar y configurar los polyfill usando core-js\n18:40 Configurar browserslist\n19:37 Instalar y configurar webpack-dev-server y los source-map\n21:25 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/react-boilerplate\n\nNotas:\nCreo que es útil saber hacer la configuración por nosotros mismos por si estamos en un proyecto donde necesitamos hacerlo desde cero y además para saber cómo funciona React.js internamente y las herramientas que hacen posible y facilitan su uso. No obstante no recomiendo esta configuración para un proyecto real ya que existen todavía varias optimizaciones que se pueden hacer, las cuales pienso compartir en otro video.\n\nMuchas gracias por ver este video, espero le haya sido útil.",
+        "description": "Muestro cómo configurar un proyecto React.js desde cero usando Webpack y Babel, sin usar generadores como create-react-app. \n\n✅ Contenido:\n00:00 Introducción\n00:29 Iniciar el proyecto React.js con npm\n04:39 Instalar y configurar Webpack\n09:13 Instalar y configurar Babel\n14:18 Instalar y configurar los plugins CleanWebpackPlugin y HtmlWebpackPlugin\n17:08 Instalar y configurar los polyfill usando core-js\n18:40 Configurar browserslist\n19:37 Instalar y configurar webpack-dev-server y los source-map\n21:25 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/react-boilerplate\n\nNotas:\nCreo que es útil saber hacer la configuración por nosotros mismos por si estamos en un proyecto donde necesitamos hacerlo desde cero y además para saber cómo funciona React.js internamente y las herramientas que hacen posible y facilitan su uso. No obstante, no recomiendo esta configuración para un proyecto real ya que existen todavía varias optimizaciones que se pueden hacer, las cuales pienso compartir en otro video.\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#webpack #reactjs",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/R7AMcD96mqY/default.jpg",
@@ -2395,7 +2395,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "React.js | Configuración con Webpack y Babel | desde Cero sin usar create-react-app",
-          "description": "Muestro cómo configurar un proyecto React.js desde cero usando Webpack y Babel, sin usar generadores como create-react-app. \n\n✅ Contenido:\n00:00 Introducción\n00:29 Iniciar el proyecto React.js con npm\n04:39 Instalar y configurar Webpack\n09:13 Instalar y configurar Babel\n14:18 Instalar y configurar los plugins CleanWebpackPlugin y HtmlWebpackPlugin\n17:08 Instalar y configurar los polyfill usando core-js\n18:40 Configurar browserslist\n19:37 Instalar y configurar webpack-dev-server y los source-map\n21:25 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/react-boilerplate\n\nNotas:\nCreo que es útil saber hacer la configuración por nosotros mismos por si estamos en un proyecto donde necesitamos hacerlo desde cero y además para saber cómo funciona React.js internamente y las herramientas que hacen posible y facilitan su uso. No obstante no recomiendo esta configuración para un proyecto real ya que existen todavía varias optimizaciones que se pueden hacer, las cuales pienso compartir en otro video.\n\nMuchas gracias por ver este video, espero le haya sido útil."
+          "description": "Muestro cómo configurar un proyecto React.js desde cero usando Webpack y Babel, sin usar generadores como create-react-app. \n\n✅ Contenido:\n00:00 Introducción\n00:29 Iniciar el proyecto React.js con npm\n04:39 Instalar y configurar Webpack\n09:13 Instalar y configurar Babel\n14:18 Instalar y configurar los plugins CleanWebpackPlugin y HtmlWebpackPlugin\n17:08 Instalar y configurar los polyfill usando core-js\n18:40 Configurar browserslist\n19:37 Instalar y configurar webpack-dev-server y los source-map\n21:25 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/react-boilerplate\n\nNotas:\nCreo que es útil saber hacer la configuración por nosotros mismos por si estamos en un proyecto donde necesitamos hacerlo desde cero y además para saber cómo funciona React.js internamente y las herramientas que hacen posible y facilitan su uso. No obstante, no recomiendo esta configuración para un proyecto real ya que existen todavía varias optimizaciones que se pueden hacer, las cuales pienso compartir en otro video.\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#webpack #reactjs"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2414,13 +2414,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "-a5kla6pMrRNfdjtw645ST4tEjY",
+      "etag": "i5qMExusWZ71WjZniReUHOakqPY",
       "id": "Sgf4HEAW-gQ",
       "snippet": {
         "publishedAt": "2020-06-07T16:51:20Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Deja de usar píxeles y usa REM y EM | Ejemplos prácticos #css3 #responsive",
-        "description": "✔ Diferencias entre px vs rem vs em y cuándo usarlos.\n✔ Cómo puedes sacarle provecho en la práctica a rem y em para hacer diseños escalables y adapativos. \n✔ Análisis de págians web como YouTube y LinkedIn para ver cómo utilizan los rem.\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/px-vs-rem-vs-em\n\nMuchas gracias por ver este video, espero le haya sido útil.",
+        "description": "✔ Diferencias entre px vs rem vs em y cuándo usarlos.\n✔ Cómo puedes sacarle provecho en la práctica a rem y em para hacer diseños escalables y adapativos. \n✔ Análisis de págians web como YouTube y LinkedIn para ver cómo utilizan los rem.\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/px-vs-rem-vs-em\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/Sgf4HEAW-gQ/default.jpg",
@@ -2464,7 +2464,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Deja de usar píxeles y usa REM y EM | Ejemplos prácticos #css3 #responsive",
-          "description": "✔ Diferencias entre px vs rem vs em y cuándo usarlos.\n✔ Cómo puedes sacarle provecho en la práctica a rem y em para hacer diseños escalables y adapativos. \n✔ Análisis de págians web como YouTube y LinkedIn para ver cómo utilizan los rem.\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/px-vs-rem-vs-em\n\nMuchas gracias por ver este video, espero le haya sido útil."
+          "description": "✔ Diferencias entre px vs rem vs em y cuándo usarlos.\n✔ Cómo puedes sacarle provecho en la práctica a rem y em para hacer diseños escalables y adapativos. \n✔ Análisis de págians web como YouTube y LinkedIn para ver cómo utilizan los rem.\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/px-vs-rem-vs-em\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2483,13 +2483,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PlG2tIxL25UGn9fYQxEs8SXUKOs",
+      "etag": "a73gGP5J7tkPK9xF0IsEmBdYbMI",
       "id": "T4t00Hd3qZc",
       "snippet": {
         "publishedAt": "2020-05-24T17:21:47Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Maquetado responsive con CSS Grid | Diseño adaptativo #css3 #responsive #tutorial",
-        "description": "✅ Contenido:\n  ✔ Maquetación de una página web responsive usando CSS Grid.\n  ✔ Uso de grid-template-columns, grid-template-rows y grid-template-areas.\n  ✔ Uso de la propiedad grid-template y media queries para crear maquetados específicos para cada dispositivo.\n\nA diferencia del CSS flexbox que está diseñado manejar una sola dimensión ya sea horizontal como vertical, CSS Grid nos posibilita diseñar grillas donde podemos manejar tanto las filas como las columnas (2 dimensiones).\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nCSS GRID | Guía completa DESDE CERO: https://youtu.be/iKdwZ91Q4L8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente:\nhttps://github.com/ymulenll/css-grid-template\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid #responsiveDesign",
+        "description": "✅ Contenido:\n  ✔ Maquetación de una página web responsive usando CSS Grid.\n  ✔ Uso de grid-template-columns, grid-template-rows y grid-template-areas.\n  ✔ Uso de la propiedad grid-template y media queries para crear maquetados específicos para cada dispositivo.\n\nA diferencia del CSS flexbox que está diseñado manejar una sola dimensión ya sea horizontal como vertical, CSS Grid nos posibilita diseñar grillas donde podemos manejar tanto las filas como las columnas (2 dimensiones).\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nCSS GRID | Guía completa DESDE CERO: https://youtu.be/iKdwZ91Q4L8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente:\nhttps://github.com/ymulenll/css-grid-template\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/T4t00Hd3qZc/default.jpg",
@@ -2535,7 +2535,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Maquetado responsive con CSS Grid | Diseño adaptativo #css3 #responsive #tutorial",
-          "description": "✅ Contenido:\n  ✔ Maquetación de una página web responsive usando CSS Grid.\n  ✔ Uso de grid-template-columns, grid-template-rows y grid-template-areas.\n  ✔ Uso de la propiedad grid-template y media queries para crear maquetados específicos para cada dispositivo.\n\nA diferencia del CSS flexbox que está diseñado manejar una sola dimensión ya sea horizontal como vertical, CSS Grid nos posibilita diseñar grillas donde podemos manejar tanto las filas como las columnas (2 dimensiones).\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nCSS GRID | Guía completa DESDE CERO: https://youtu.be/iKdwZ91Q4L8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente:\nhttps://github.com/ymulenll/css-grid-template\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid #responsiveDesign"
+          "description": "✅ Contenido:\n  ✔ Maquetación de una página web responsive usando CSS Grid.\n  ✔ Uso de grid-template-columns, grid-template-rows y grid-template-areas.\n  ✔ Uso de la propiedad grid-template y media queries para crear maquetados específicos para cada dispositivo.\n\nA diferencia del CSS flexbox que está diseñado manejar una sola dimensión ya sea horizontal como vertical, CSS Grid nos posibilita diseñar grillas donde podemos manejar tanto las filas como las columnas (2 dimensiones).\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nCSS GRID | Guía completa DESDE CERO: https://youtu.be/iKdwZ91Q4L8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente:\nhttps://github.com/ymulenll/css-grid-template\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2554,13 +2554,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z4_c46am9AWWbDfxjRG_6a_djZs",
+      "etag": "gKOQtmVa-wb7Dg4N18xWd9wgMAI",
       "id": "f3902x_dqqQ",
       "snippet": {
         "publishedAt": "2020-05-18T00:59:44Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Galería de imágenes responsive usando CSS GRID | Diseño adaptativo #css #grid #tutorial",
-        "description": "Les muestro cómo usar CSS Grid desde cero con un ejemplo práctico de una galería de imágenes que se adapta a todos los dispositivos.\n\n📌 Videos relacionados:\n  Maquetado responsive con CSS Grid:  https://youtu.be/T4t00Hd3qZc\n\n📌Código del ejemplo: \nhttps://github.com/ymulenll/css-grid-gallery\n\nCodepen para interactuar con el ejemplo: \nhttps://codepen.io/ymulenll/pen/poyYyzE\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.",
+        "description": "Les muestro cómo usar CSS Grid desde cero con un ejemplo práctico de una galería de imágenes que se adapta a todos los dispositivos.\n\n📌 Videos relacionados:\n  Maquetado responsive con CSS Grid:  https://youtu.be/T4t00Hd3qZc\n\n📌Código del ejemplo: \nhttps://github.com/ymulenll/css-grid-gallery\n\nCodepen para interactuar con el ejemplo: \nhttps://codepen.io/ymulenll/pen/poyYyzE\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/f3902x_dqqQ/default.jpg",
@@ -2604,7 +2604,7 @@
         "defaultLanguage": "es",
         "localized": {
           "title": "Galería de imágenes responsive usando CSS GRID | Diseño adaptativo #css #grid #tutorial",
-          "description": "Les muestro cómo usar CSS Grid desde cero con un ejemplo práctico de una galería de imágenes que se adapta a todos los dispositivos.\n\n📌 Videos relacionados:\n  Maquetado responsive con CSS Grid:  https://youtu.be/T4t00Hd3qZc\n\n📌Código del ejemplo: \nhttps://github.com/ymulenll/css-grid-gallery\n\nCodepen para interactuar con el ejemplo: \nhttps://codepen.io/ymulenll/pen/poyYyzE\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil."
+          "description": "Les muestro cómo usar CSS Grid desde cero con un ejemplo práctico de una galería de imágenes que se adapta a todos los dispositivos.\n\n📌 Videos relacionados:\n  Maquetado responsive con CSS Grid:  https://youtu.be/T4t00Hd3qZc\n\n📌Código del ejemplo: \nhttps://github.com/ymulenll/css-grid-gallery\n\nCodepen para interactuar con el ejemplo: \nhttps://codepen.io/ymulenll/pen/poyYyzE\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2623,13 +2623,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "R4MfPor9GMIZ8wpOvelx9iqzjQw",
+      "etag": "kV1J0szTqhO_AYBt96rpAOEyi-4",
       "id": "EU53Lg-DSVM",
       "snippet": {
         "publishedAt": "2020-05-02T14:00:15Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Babel desde cero + Webpack | tutorial práctico",
-        "description": "¿Quieres hacer tu JavaScript compatible con todos los navegadores?\n\n✅ Contenido:\n00:00 Introducción\n00:17 ECMAScript 2015+ y necesidad de un compilador\n03:16 Babel 7 y su configuración con ejemplos\n06:32 Transformar sintaxis a ES5 con @babel/preset-env\n08:26 Configurar los polyfill con core-js\n13:26 Configurar navegadores a soportar (target)\n15:45 Configuración de Webpack usando babel-loader.\n18:10 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nRepositorio con el ejemplo:\nhttps://github.com/ymulenll/babel-demo\n\nDocumentación sobre babel:\nhttps://babeljs.io/\n\nProposals completados de ECMAScript (stage 4):\nhttps://github.com/tc39/proposals/blob/master/finished-proposals.md\n\nMuchas gracias por ver, espero el video le haya sido útil, hasta el próximo 🙂👍.",
+        "description": "¿Quieres hacer tu JavaScript compatible con todos los navegadores?\n\n✅ Contenido:\n00:00 Introducción\n00:17 ECMAScript 2015+ y necesidad de un compilador\n03:16 Babel 7 y su configuración con ejemplos\n06:32 Transformar sintaxis a ES5 con @babel/preset-env\n08:26 Configurar los polyfill con core-js\n13:26 Configurar navegadores a soportar (target)\n15:45 Configuración de Webpack usando babel-loader.\n18:10 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nRepositorio con el ejemplo:\nhttps://github.com/ymulenll/babel-demo\n\nDocumentación sobre babel:\nhttps://babeljs.io/\n\nProposals completados de ECMAScript (stage 4):\nhttps://github.com/tc39/proposals/blob/master/finished-proposals.md\n\nMuchas gracias por ver, espero el video le haya sido útil, hasta el próximo 🙂👍.\n#webpack #babel",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/EU53Lg-DSVM/default.jpg",
@@ -2675,7 +2675,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Babel desde cero + Webpack | tutorial práctico",
-          "description": "¿Quieres hacer tu JavaScript compatible con todos los navegadores?\n\n✅ Contenido:\n00:00 Introducción\n00:17 ECMAScript 2015+ y necesidad de un compilador\n03:16 Babel 7 y su configuración con ejemplos\n06:32 Transformar sintaxis a ES5 con @babel/preset-env\n08:26 Configurar los polyfill con core-js\n13:26 Configurar navegadores a soportar (target)\n15:45 Configuración de Webpack usando babel-loader.\n18:10 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nRepositorio con el ejemplo:\nhttps://github.com/ymulenll/babel-demo\n\nDocumentación sobre babel:\nhttps://babeljs.io/\n\nProposals completados de ECMAScript (stage 4):\nhttps://github.com/tc39/proposals/blob/master/finished-proposals.md\n\nMuchas gracias por ver, espero el video le haya sido útil, hasta el próximo 🙂👍."
+          "description": "¿Quieres hacer tu JavaScript compatible con todos los navegadores?\n\n✅ Contenido:\n00:00 Introducción\n00:17 ECMAScript 2015+ y necesidad de un compilador\n03:16 Babel 7 y su configuración con ejemplos\n06:32 Transformar sintaxis a ES5 con @babel/preset-env\n08:26 Configurar los polyfill con core-js\n13:26 Configurar navegadores a soportar (target)\n15:45 Configuración de Webpack usando babel-loader.\n18:10 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nRepositorio con el ejemplo:\nhttps://github.com/ymulenll/babel-demo\n\nDocumentación sobre babel:\nhttps://babeljs.io/\n\nProposals completados de ECMAScript (stage 4):\nhttps://github.com/tc39/proposals/blob/master/finished-proposals.md\n\nMuchas gracias por ver, espero el video le haya sido útil, hasta el próximo 🙂👍.\n#webpack #babel"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2694,13 +2694,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "y5zoteDrQG_noAYOjNAQ5naEUIw",
+      "etag": "zNSoDzp5aGRxDCU8RbFwvVhTU6g",
       "id": "Aiz4k7YVwvQ",
       "snippet": {
         "publishedAt": "2020-04-23T21:04:50Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Usa tu navegador como un entorno de desarrollo - #devTips 💡",
-        "description": "💡 En este video les muestro cómo modificar los archivos de nuestros proyectos directamente desde las herramientas de desarrollador.\n\nMuchas gracias espero te sea de utilidad este tip.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll",
+        "description": "💡 En este video les muestro cómo modificar los archivos de nuestros proyectos directamente desde las herramientas de desarrollador.\n\nMuchas gracias espero te sea de utilidad este tip.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n#devTips",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/Aiz4k7YVwvQ/default.jpg",
@@ -2741,7 +2741,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Usa tu navegador como un entorno de desarrollo - #devTips 💡",
-          "description": "💡 En este video les muestro cómo modificar los archivos de nuestros proyectos directamente desde las herramientas de desarrollador.\n\nMuchas gracias espero te sea de utilidad este tip.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll"
+          "description": "💡 En este video les muestro cómo modificar los archivos de nuestros proyectos directamente desde las herramientas de desarrollador.\n\nMuchas gracias espero te sea de utilidad este tip.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n#devTips"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2760,13 +2760,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "2jMiKt_rKqEP1918Vli0bFW2x2Y",
+      "etag": "yjEWh_7pSWpXUtbeaKcvWjYrKVM",
       "id": "bZD8qcJIEIE",
       "snippet": {
         "publishedAt": "2020-04-22T14:06:31Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack dev server y source maps | tutorial práctico",
-        "description": "✅ En este video les muestro:\n  ✔ Cómo instalar ejecutar webpack-dev-server\n  ✔ Ventajas y uso en desarrollo\n  ✔ Los source maps y sus configuraciones tanto en modo de desarrollo como en producción\n\n📺Les recomiendo vean el video anterior donde hago una introducción a webpack y hablo de sus 5 configuraciones principales: https://youtu.be/2UBKjshUwM8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente del ejemplo:\nhttps://github.com/ymulenll/webpack-basics\n\nDocumentación sobre webpack-dev-server:\nhttps://github.com/webpack/webpack-dev-server\n\nConfiguración de los source maps mediante devtool:\nhttps://webpack.js.org/configuration/devtool/\n\nPlugin para configuración detallada de los source maps:\nhttps://webpack.js.org/plugins/source-map-dev-tool-plugin/",
+        "description": "✅ En este video les muestro:\n  ✔ Cómo instalar ejecutar webpack-dev-server\n  ✔ Ventajas y uso en desarrollo\n  ✔ Los source maps y sus configuraciones tanto en modo de desarrollo como en producción\n\n📺Les recomiendo vean el video anterior donde hago una introducción a webpack y hablo de sus 5 configuraciones principales: https://youtu.be/2UBKjshUwM8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente del ejemplo:\nhttps://github.com/ymulenll/webpack-basics\n\nDocumentación sobre webpack-dev-server:\nhttps://github.com/webpack/webpack-dev-server\n\nConfiguración de los source maps mediante devtool:\nhttps://webpack.js.org/configuration/devtool/\n\nPlugin para configuración detallada de los source maps:\nhttps://webpack.js.org/plugins/source-map-dev-tool-plugin/\n\n#webpack",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/bZD8qcJIEIE/default.jpg",
@@ -2800,7 +2800,7 @@
         "defaultLanguage": "es",
         "localized": {
           "title": "Webpack dev server y source maps | tutorial práctico",
-          "description": "✅ En este video les muestro:\n  ✔ Cómo instalar ejecutar webpack-dev-server\n  ✔ Ventajas y uso en desarrollo\n  ✔ Los source maps y sus configuraciones tanto en modo de desarrollo como en producción\n\n📺Les recomiendo vean el video anterior donde hago una introducción a webpack y hablo de sus 5 configuraciones principales: https://youtu.be/2UBKjshUwM8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente del ejemplo:\nhttps://github.com/ymulenll/webpack-basics\n\nDocumentación sobre webpack-dev-server:\nhttps://github.com/webpack/webpack-dev-server\n\nConfiguración de los source maps mediante devtool:\nhttps://webpack.js.org/configuration/devtool/\n\nPlugin para configuración detallada de los source maps:\nhttps://webpack.js.org/plugins/source-map-dev-tool-plugin/"
+          "description": "✅ En este video les muestro:\n  ✔ Cómo instalar ejecutar webpack-dev-server\n  ✔ Ventajas y uso en desarrollo\n  ✔ Los source maps y sus configuraciones tanto en modo de desarrollo como en producción\n\n📺Les recomiendo vean el video anterior donde hago una introducción a webpack y hablo de sus 5 configuraciones principales: https://youtu.be/2UBKjshUwM8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente del ejemplo:\nhttps://github.com/ymulenll/webpack-basics\n\nDocumentación sobre webpack-dev-server:\nhttps://github.com/webpack/webpack-dev-server\n\nConfiguración de los source maps mediante devtool:\nhttps://webpack.js.org/configuration/devtool/\n\nPlugin para configuración detallada de los source maps:\nhttps://webpack.js.org/plugins/source-map-dev-tool-plugin/\n\n#webpack"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2819,13 +2819,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "klZtbL8QmHW0YfRNpTZeh6_8lhg",
+      "etag": "lZv4DcAFAmwwxfGmX3kUfMi6oI8",
       "id": "2UBKjshUwM8",
       "snippet": {
         "publishedAt": "2020-04-19T02:12:14Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Webpack | Introducción y configuración básica | tutorial práctico",
-        "description": "En este video muestro qué es Webpack, los problemas que viene a resolver así como las 5 configuraciones básicas que usamos comúnmente al utilizar este empaquetador (entry, output, loaders, plugins y mode).\n\n👨‍💻 Todo esto mediante un ejemplo escrito en JavaScript que vamos a empaquetar con el uso de Webpack y el gestor de paquetes npm.\n\n✅ Contenido:\n00:00 Qué es Webpack, los problemas que viene a resolver\n01:08 Deficiencias al usar JavaScript sin un empaquetador\n03:30 Instalación de Nodejs, npm y webpack\n05:30 Refactorizar a módulos\n07:00 Configurar y ejecutar scripts\n09:08 Configurar entry\n10:54 Configurar output\n12:44 Configurar loaders (style-loader, css-loader)\n16:51 Configurar plugins (HtmlWebpackPlugin)\n19:33 Configurar mode\n21:00 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nPueden encontrar el proyecto de ejemplo en su estado inicial y final (diferentes branches) en el siguiente enlace:\nhttps://github.com/ymulenll/webpack-basics\n\nPara usar Webpack debemos tener instalado Nodejs que lo pueden encontrar en:\nhttps://nodejs.org/\n\nEspero que les sea de utilidad este tutorial, cualquier consulta déjenla en los comentarios, dentro de poco estaré subiendo otros videos relacionados con el tema.",
+        "description": "En este video muestro qué es Webpack, los problemas que viene a resolver así como las 5 configuraciones básicas que usamos comúnmente al utilizar este empaquetador (entry, output, loaders, plugins y mode).\n\n👨‍💻 Todo esto mediante un ejemplo escrito en JavaScript que vamos a empaquetar con el uso de Webpack y el gestor de paquetes npm.\n\n✅ Contenido:\n00:00 Qué es Webpack, los problemas que viene a resolver\n01:08 Deficiencias al usar JavaScript sin un empaquetador\n03:30 Instalación de Nodejs, npm y webpack\n05:30 Refactorizar a módulos\n07:00 Configurar y ejecutar scripts\n09:08 Configurar entry\n10:54 Configurar output\n12:44 Configurar loaders (style-loader, css-loader)\n16:51 Configurar plugins (HtmlWebpackPlugin)\n19:33 Configurar mode\n21:00 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nPueden encontrar el proyecto de ejemplo en su estado inicial y final (diferentes branches) en el siguiente enlace:\nhttps://github.com/ymulenll/webpack-basics\n\nPara usar Webpack debemos tener instalado Nodejs que lo pueden encontrar en:\nhttps://nodejs.org/\n\nEspero que les sea de utilidad este tutorial, cualquier consulta déjenla en los comentarios, dentro de poco estaré subiendo otros videos relacionados con el tema.\n\n#webpack",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/2UBKjshUwM8/default.jpg",
@@ -2875,7 +2875,7 @@
         "defaultLanguage": "es-419",
         "localized": {
           "title": "Webpack | Introducción y configuración básica | tutorial práctico",
-          "description": "En este video muestro qué es Webpack, los problemas que viene a resolver así como las 5 configuraciones básicas que usamos comúnmente al utilizar este empaquetador (entry, output, loaders, plugins y mode).\n\n👨‍💻 Todo esto mediante un ejemplo escrito en JavaScript que vamos a empaquetar con el uso de Webpack y el gestor de paquetes npm.\n\n✅ Contenido:\n00:00 Qué es Webpack, los problemas que viene a resolver\n01:08 Deficiencias al usar JavaScript sin un empaquetador\n03:30 Instalación de Nodejs, npm y webpack\n05:30 Refactorizar a módulos\n07:00 Configurar y ejecutar scripts\n09:08 Configurar entry\n10:54 Configurar output\n12:44 Configurar loaders (style-loader, css-loader)\n16:51 Configurar plugins (HtmlWebpackPlugin)\n19:33 Configurar mode\n21:00 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nPueden encontrar el proyecto de ejemplo en su estado inicial y final (diferentes branches) en el siguiente enlace:\nhttps://github.com/ymulenll/webpack-basics\n\nPara usar Webpack debemos tener instalado Nodejs que lo pueden encontrar en:\nhttps://nodejs.org/\n\nEspero que les sea de utilidad este tutorial, cualquier consulta déjenla en los comentarios, dentro de poco estaré subiendo otros videos relacionados con el tema."
+          "description": "En este video muestro qué es Webpack, los problemas que viene a resolver así como las 5 configuraciones básicas que usamos comúnmente al utilizar este empaquetador (entry, output, loaders, plugins y mode).\n\n👨‍💻 Todo esto mediante un ejemplo escrito en JavaScript que vamos a empaquetar con el uso de Webpack y el gestor de paquetes npm.\n\n✅ Contenido:\n00:00 Qué es Webpack, los problemas que viene a resolver\n01:08 Deficiencias al usar JavaScript sin un empaquetador\n03:30 Instalación de Nodejs, npm y webpack\n05:30 Refactorizar a módulos\n07:00 Configurar y ejecutar scripts\n09:08 Configurar entry\n10:54 Configurar output\n12:44 Configurar loaders (style-loader, css-loader)\n16:51 Configurar plugins (HtmlWebpackPlugin)\n19:33 Configurar mode\n21:00 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nPueden encontrar el proyecto de ejemplo en su estado inicial y final (diferentes branches) en el siguiente enlace:\nhttps://github.com/ymulenll/webpack-basics\n\nPara usar Webpack debemos tener instalado Nodejs que lo pueden encontrar en:\nhttps://nodejs.org/\n\nEspero que les sea de utilidad este tutorial, cualquier consulta déjenla en los comentarios, dentro de poco estaré subiendo otros videos relacionados con el tema.\n\n#webpack"
         },
         "defaultAudioLanguage": "es"
       },
@@ -2894,13 +2894,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "R8kwoGC52-sia3_Aqfse1Mqn55Y",
+      "etag": "dCxZxxLLfmcxFzITDg1MF8ls06k",
       "id": "frsw1WDCxXQ",
       "snippet": {
         "publishedAt": "2020-02-29T05:18:29Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Cómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)",
-        "description": "Hace unos meses pasé con éxito mi primera certificación en la nube de Amazon (AWS Certified Cloud Practitioner) y en este video les voy a compartir mi experiencia y los materiales gratuitos que les van a servir para estudiar para esa certificación. Espero tengan éxito al hacer el examen y les sea de utilidad este video.\n\n📺 Videos relacionados:\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nAWS Cloud Practitioner Essentials (Inglés):\nhttps://www.aws.training/Details/eLearning?id=60697\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\n#aws #CloudPractitioner #certification",
+        "description": "Hace unos meses pasé con éxito mi primera certificación en la nube de Amazon (AWS Certified Cloud Practitioner) y en este video les voy a compartir mi experiencia y los materiales gratuitos que les van a servir para estudiar para esa certificación. Espero tengan éxito al hacer el examen y les sea de utilidad este video.\n\n📺 Videos relacionados:\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nAWS Cloud Practitioner Essentials (Inglés):\nhttps://www.aws.training/Details/eLearning?id=60697\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/frsw1WDCxXQ/default.jpg",
@@ -2938,7 +2938,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Cómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)",
-          "description": "Hace unos meses pasé con éxito mi primera certificación en la nube de Amazon (AWS Certified Cloud Practitioner) y en este video les voy a compartir mi experiencia y los materiales gratuitos que les van a servir para estudiar para esa certificación. Espero tengan éxito al hacer el examen y les sea de utilidad este video.\n\n📺 Videos relacionados:\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nAWS Cloud Practitioner Essentials (Inglés):\nhttps://www.aws.training/Details/eLearning?id=60697\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\n#aws #CloudPractitioner #certification"
+          "description": "Hace unos meses pasé con éxito mi primera certificación en la nube de Amazon (AWS Certified Cloud Practitioner) y en este video les voy a compartir mi experiencia y los materiales gratuitos que les van a servir para estudiar para esa certificación. Espero tengan éxito al hacer el examen y les sea de utilidad este video.\n\n📺 Videos relacionados:\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nAWS Cloud Practitioner Essentials (Inglés):\nhttps://www.aws.training/Details/eLearning?id=60697\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -3021,13 +3021,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "I35Fzu5-I9e8AC76UJjZt572ZAI",
+      "etag": "1vyxWeW-pl2w1qiWeCo9EuNYv9Y",
       "id": "LxSijnCrlz0",
       "snippet": {
         "publishedAt": "2019-03-22T17:15:20Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Conoce GraphQL, es tiempo de jubilar las API REST",
-        "description": "En este video veremos las deficiencias de API REST y cómo GraphQL viene a resolverlas, además entraremos en detalles sobre qué es GraphQL, de donde surge, características y beneficios. Todo esto con ejemplos y una demo de código.\n\nEjemplo de código de la demo:\nhttps://github.com/ymulenll/graphql-example",
+        "description": "En este video veremos las deficiencias de API REST y cómo GraphQL viene a resolverlas, además entraremos en detalles sobre qué es GraphQL, de donde surge, características y beneficios. Todo esto con ejemplos y una demo de código.\n\nEjemplo de código de la demo:\nhttps://github.com/ymulenll/graphql-example\n\n#graphQL",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/LxSijnCrlz0/default.jpg",
@@ -3057,7 +3057,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Conoce GraphQL, es tiempo de jubilar las API REST",
-          "description": "En este video veremos las deficiencias de API REST y cómo GraphQL viene a resolverlas, además entraremos en detalles sobre qué es GraphQL, de donde surge, características y beneficios. Todo esto con ejemplos y una demo de código.\n\nEjemplo de código de la demo:\nhttps://github.com/ymulenll/graphql-example"
+          "description": "En este video veremos las deficiencias de API REST y cómo GraphQL viene a resolverlas, además entraremos en detalles sobre qué es GraphQL, de donde surge, características y beneficios. Todo esto con ejemplos y una demo de código.\n\nEjemplo de código de la demo:\nhttps://github.com/ymulenll/graphql-example\n\n#graphQL"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -3356,13 +3356,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kxY6KFHeY6H3Z5p75TnW8sKNYlo",
+      "etag": "DeSLcEneZkeM4Gk6uGKAOtLzD1I",
       "id": "Mn4TFBXa_2g",
       "snippet": {
         "publishedAt": "2018-07-01T21:14:15Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
         "title": "Domain Driven Design (DDD) - Diseño guiado por el dominio - Evento de Endava",
-        "description": "Charla sobre Diseño guiado por el dominio impartida en Montevideo.\n\n¿Qué es Diseño guiado por el dominio?\n¿Cómo crear un modelo aislado y reutilizable que realmente represente el negocio?\n¿Cómo manejar la complejidad y los cambios en los requerimientos?\n\nEstas y otras preguntas estuvimos intentando resolver mediante el enfoque que nos brinda DDD.\n\nPuedes encontrar los ejemplos de código utilizados en esta charla accediendo al siguiente enlace:\nhttps://github.com/ymulenll/OnlineStore",
+        "description": "Charla sobre Diseño guiado por el dominio impartida en Montevideo.\n\n¿Qué es Diseño guiado por el dominio?\n¿Cómo crear un modelo aislado y reutilizable que realmente represente el negocio?\n¿Cómo manejar la complejidad y los cambios en los requerimientos?\n\nEstas y otras preguntas estuvimos intentando resolver mediante el enfoque que nos brinda DDD.\n\nPuedes encontrar los ejemplos de código utilizados en esta charla accediendo al siguiente enlace:\nhttps://github.com/ymulenll/OnlineStore\n\n#ddd",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/Mn4TFBXa_2g/default.jpg",
@@ -3402,7 +3402,7 @@
         "liveBroadcastContent": "none",
         "localized": {
           "title": "Domain Driven Design (DDD) - Diseño guiado por el dominio - Evento de Endava",
-          "description": "Charla sobre Diseño guiado por el dominio impartida en Montevideo.\n\n¿Qué es Diseño guiado por el dominio?\n¿Cómo crear un modelo aislado y reutilizable que realmente represente el negocio?\n¿Cómo manejar la complejidad y los cambios en los requerimientos?\n\nEstas y otras preguntas estuvimos intentando resolver mediante el enfoque que nos brinda DDD.\n\nPuedes encontrar los ejemplos de código utilizados en esta charla accediendo al siguiente enlace:\nhttps://github.com/ymulenll/OnlineStore"
+          "description": "Charla sobre Diseño guiado por el dominio impartida en Montevideo.\n\n¿Qué es Diseño guiado por el dominio?\n¿Cómo crear un modelo aislado y reutilizable que realmente represente el negocio?\n¿Cómo manejar la complejidad y los cambios en los requerimientos?\n\nEstas y otras preguntas estuvimos intentando resolver mediante el enfoque que nos brinda DDD.\n\nPuedes encontrar los ejemplos de código utilizados en esta charla accediendo al siguiente enlace:\nhttps://github.com/ymulenll/OnlineStore\n\n#ddd"
         },
         "defaultAudioLanguage": "es-419"
       },
