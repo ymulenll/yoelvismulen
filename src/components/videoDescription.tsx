@@ -24,6 +24,6 @@ function linkify(text: string) {
   return text.replace(
     urlRegex,
     (url) =>
-      `<a href="${url}" target="_blank" class="text-blue-900 max-w-full inline-block overflow-hidden whitespace-nowrap overflow-ellipsis">${url}</a>`
+      `<a href="${url}" target="_blank" rel="noopener" class="text-blue-900 max-w-full inline-block overflow-hidden whitespace-nowrap overflow-ellipsis">${url}</a>`
   )
 }
