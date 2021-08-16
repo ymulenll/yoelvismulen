@@ -35,13 +35,7 @@ export default function Video({ videoData }: Props) {
               url={`https://www.youtube.com/watch?v=${videoData.id}`}
               width="100%"
               height="100%"
-              config={{
-                youtube: {
-                  playerVars: {
-                    controls: 1,
-                  },
-                },
-              }}
+              controls
             />
           </div>
           <VideoMetadata video={videoData} />
