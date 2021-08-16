@@ -38,7 +38,11 @@ const mapYouTubeVideos = (): YTVideo[] => {
       player: { embedHtml },
     }) => {
       const descriptionTags = extractDescriptionTags(description)
-      const slug = slugify(title, { lower: true, locale: 'es' })
+      const slug = slugify(title, {
+        lower: true,
+        locale: 'es',
+        remove: /[*+~.,()'"!:@]/g,
+      })
 
       return {
         id,
@@ -59,7 +63,9 @@ const mapYouTubeVideos = (): YTVideo[] => {
 }
 
 const extractDescriptionTags = (description: string) => {
-  const tags = [...description.matchAll(/[ \n]#(\w+)/g)].map((value) => value[1])
+  const tags = [...description.matchAll(/[ \n]#(\w+)/g)].map(
+    (value) => value[1]
+  )
   const uniqTags = uniq(tags)
 
   return uniqTags
