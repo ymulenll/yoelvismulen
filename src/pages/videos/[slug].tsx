@@ -23,6 +23,10 @@ export default function Video({ videoData }: Props) {
     <div>
       <Head>
         <title>{videoData.title}</title>
+        <meta
+          name="description"
+          content={videoData.description.substring(0, 159)}
+        />
       </Head>
       <article className="">
         <div className="mx-auto md:max-w-5xl bg-gray-100 sm:p-2 shadow-2xl">

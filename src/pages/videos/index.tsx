@@ -28,6 +28,10 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
     <div className="">
       <Head>
         <title>Videos</title>
+        <meta
+          name="description"
+          content="Videos sobre programación web, AWS y mucho más."
+        />
       </Head>
       <div>
         <h1 className="text-2xl md:text-4xl text-center sm:text-left p-3 md:p-5 my-2 md:my-4 text-gray-700 font-semibold border-b-2 border-dashed">
