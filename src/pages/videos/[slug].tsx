@@ -5,7 +5,7 @@ import {
   getYouTubeVideoData,
   YTVideo,
 } from '../../lib/videos'
-import ReactPlayer from 'react-player'
+import ReactPlayer from 'react-player/lazy'
 import cx from 'classnames'
 import VideoDescription from '../../components/videoDescription'
 import VideoMetadata from '../../components/videoMetadata'
