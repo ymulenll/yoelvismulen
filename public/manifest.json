@@ -1,7 +1,7 @@
 {
   "theme_color": "#F97316",
   "background_color": "#ffffff",
-  "display": "standalone",
+  "display": "minimal-ui",
   "scope": "/",
   "start_url": "/",
   "name": "Yoelvis Mulen { code }",
