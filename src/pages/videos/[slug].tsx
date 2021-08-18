@@ -5,7 +5,7 @@ import {
   getYouTubeVideoData,
   YTVideo,
 } from '../../lib/videos'
-import ReactPlayer from 'react-player'
+import ReactPlayer from 'react-player/lazy'
 import cx from 'classnames'
 import VideoDescription from '../../components/videoDescription'
 import VideoMetadata from '../../components/videoMetadata'
@@ -23,6 +23,10 @@ export default function Video({ videoData }: Props) {
     <div>
       <Head>
         <title>{videoData.title}</title>
+        <meta
+          name="description"
+          content={videoData.description.substring(0, 159)}
+        />
       </Head>
       <article className="">
         <div className="mx-auto md:max-w-5xl bg-gray-100 sm:p-2 shadow-2xl">
@@ -31,13 +35,7 @@ export default function Video({ videoData }: Props) {
               url={`https://www.youtube.com/watch?v=${videoData.id}`}
               width="100%"
               height="100%"
-              config={{
-                youtube: {
-                  playerVars: {
-                    controls: 1,
-                  },
-                },
-              }}
+              controls
             />
           </div>
           <VideoMetadata video={videoData} />
