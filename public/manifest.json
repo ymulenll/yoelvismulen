@@ -1,11 +1,11 @@
 {
-  "theme_color": "#F97316",
+  "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
   "name": "Yoelvis Mulen { code }",
-  "short_name": "{code}",
+  "short_name": "{ code }",
   "icons": [
     {
       "src": "icons/icon-192x192.png",
