@@ -1,10 +1,331 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "o9RGy3I3i7elBraphmqbBfgGhw0",
+  "etag": "m09d8aOf4Q31gEZu5txYhhtOAj4",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "61lXG9j7NskS5Dqgx-qDglH2F_A",
+      "etag": "3oJ441x67ChAl4yRKfcc8Hmsv4c",
+      "id": "bhDwXdRcahY",
+      "snippet": {
+        "publishedAt": "2021-12-06T04:51:21Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial",
+        "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo migrar a la última versión de la libraría react-router-dom. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/react-router-v6-update\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bhDwXdRcahY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bhDwXdRcahY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bhDwXdRcahY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bhDwXdRcahY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bhDwXdRcahY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "tags": [
+          "programación",
+          "tutorial",
+          "react",
+          "React.js",
+          "create-react-app",
+          "curso",
+          "react-router-dom",
+          "formularios",
+          "hooks",
+          "useEffect",
+          "useState",
+          "migración",
+          "Navigate",
+          "Router",
+          "Routes",
+          "Route",
+          "useHistory",
+          "useNavigate"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial",
+          "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo migrar a la última versión de la libraría react-router-dom. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/react-router-v6-update\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT13M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/bhDwXdRcahY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ssyv_VwkIr8-DuANzM804MFyRFQ",
+      "id": "1gUzP9vrRP0",
+      "snippet": {
+        "publishedAt": "2021-12-01T23:00:12Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9",
+        "description": "Cómo usar el CDN de Amazon para distribuir archivos y páginas web estáticas a nivel global. Aprende a manejar una caché compartida del lado del servidor para acelerar x 10+ la entrega de contenidos 🚀\n\n✅ Contenido:\n0:00 Resumen del video sobre S3\n1:25 Funcionamiento de CloudFront\n4:14 Precios\n6:30 Crear Distribución\n13:11 Problemas de caché\n16:21 Invalidations\n19:13 Configurar Cache-Control\n24:39 Invalidar caché vs versionar archivos\n27:14 Páginas de errores\n28:55 Restringir acceso desde S3\n31:23 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/cloudfront\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1gUzP9vrRP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1gUzP9vrRP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1gUzP9vrRP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1gUzP9vrRP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1gUzP9vrRP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "tags": [
+          "aws",
+          "amazon web services",
+          "cloud computing",
+          "computación en la nube",
+          "AWS Console",
+          "Certificación",
+          "S3",
+          "simple storage service",
+          "bucket",
+          "objeto",
+          "web hosting",
+          "preguntas de examen",
+          "precios",
+          "demo",
+          "cloudfront",
+          "cdn",
+          "content delivery network",
+          "edge locations",
+          "infraestructura",
+          "cache",
+          "cache-control",
+          "max-age",
+          "s-maxage",
+          "403",
+          "error",
+          "invalidation",
+          "price class"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9",
+          "description": "Cómo usar el CDN de Amazon para distribuir archivos y páginas web estáticas a nivel global. Aprende a manejar una caché compartida del lado del servidor para acelerar x 10+ la entrega de contenidos 🚀\n\n✅ Contenido:\n0:00 Resumen del video sobre S3\n1:25 Funcionamiento de CloudFront\n4:14 Precios\n6:30 Crear Distribución\n13:11 Problemas de caché\n16:21 Invalidations\n19:13 Configurar Cache-Control\n24:39 Invalidar caché vs versionar archivos\n27:14 Páginas de errores\n28:55 Restringir acceso desde S3\n31:23 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/cloudfront\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT32M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/1gUzP9vrRP0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PH3aqruv9NBryvAZ2tKOS1vpvGE",
+      "id": "VbXAwjAxfU0",
+      "snippet": {
+        "publishedAt": "2021-09-19T07:25:35Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "Scroll Infinito, debounce y tips | React.js desde CERO | Creando web de películas - Parte 4",
+        "description": "Cómo implementar scroll infinito en React.js. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\nReact es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\n👨‍💻 Código fuente del ejemplo:\ninitial: https://github.com/ymulenll/movies-curso-react/tree/parte3\nfinal: https://github.com/ymulenll/movies-curso-react/tree/parte4\n\n✅ Contenido:\n0:00 Código inicial\n9:22 Scroll Infinito\n33:33 Búsqueda con debounce\n43:15 Otras mejoras\n\n🧾Docs:\nAPI de películas: https://developers.themoviedb.org/3\nObtener token para usar la API: https://www.themoviedb.org/settings/api\nReact Infinite Scroll: https://www.npmjs.com/package/react-infinite-scroll-component\nuseDebounce Hook: https://usehooks.com/useDebounce/\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VbXAwjAxfU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VbXAwjAxfU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VbXAwjAxfU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VbXAwjAxfU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VbXAwjAxfU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "tags": [
+          "programación",
+          "tutorial",
+          "react",
+          "React.js",
+          "create-react-app",
+          "curso",
+          "react-router-dom",
+          "formularios",
+          "hooks",
+          "useEffect",
+          "useState",
+          "infinite-scroll",
+          "scroll infinito",
+          "debounce"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Scroll Infinito, debounce y tips | React.js desde CERO | Creando web de películas - Parte 4",
+          "description": "Cómo implementar scroll infinito en React.js. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\nReact es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\n👨‍💻 Código fuente del ejemplo:\ninitial: https://github.com/ymulenll/movies-curso-react/tree/parte3\nfinal: https://github.com/ymulenll/movies-curso-react/tree/parte4\n\n✅ Contenido:\n0:00 Código inicial\n9:22 Scroll Infinito\n33:33 Búsqueda con debounce\n43:15 Otras mejoras\n\n🧾Docs:\nAPI de películas: https://developers.themoviedb.org/3\nObtener token para usar la API: https://www.themoviedb.org/settings/api\nReact Infinite Scroll: https://www.npmjs.com/package/react-infinite-scroll-component\nuseDebounce Hook: https://usehooks.com/useDebounce/\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT1H1M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/VbXAwjAxfU0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tiCPk1Ct_gU6AHZiHhuYh1587_s",
+      "id": "P7lYk-mHJtQ",
+      "snippet": {
+        "publishedAt": "2021-09-16T23:00:12Z",
+        "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+        "title": "Cómo Alojar Archivos y Páginas Web Estáticas en Amazon S3 | AWS desde cero - Parte 8",
+        "description": "Cómo guardar archivos en AWS usando AWS S3, además de hostear una página web estática. Precios y clases de almacenamiento.\n\n✅ Contenido:\n0:00 Qué es S3\n1:51 Crear Buckets y Objetos\n6:49 Listas de Control de Acceso\n8:29 Precios y Free-Tier\n10:53 AWS Pricing Calculator\n12:15 Clases de almacenamiento\n19:58 Configuración del ciclo de vida\n22:26 Alojar sitio web estático\n25:44 Políticas de bucket\n28:25 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/s3/pricing/\nhttps://calculator.aws/#/createCalculator/S3\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P7lYk-mHJtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P7lYk-mHJtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P7lYk-mHJtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P7lYk-mHJtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P7lYk-mHJtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoelvis Mulen { code }",
+        "tags": [
+          "aws",
+          "amazon web services",
+          "cloud computing",
+          "computación en la nube",
+          "AWS Console",
+          "Certificación",
+          "S3",
+          "simple storage service",
+          "bucket",
+          "objeto",
+          "acl",
+          "bucket policy",
+          "storage class",
+          "web hosting",
+          "preguntas de examen",
+          "precios",
+          "demo",
+          "lifecycle rules",
+          "ciclo de vida",
+          "transición",
+          "clases de almacenmiento",
+          "calculator.aws"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cómo Alojar Archivos y Páginas Web Estáticas en Amazon S3 | AWS desde cero - Parte 8",
+          "description": "Cómo guardar archivos en AWS usando AWS S3, además de hostear una página web estática. Precios y clases de almacenamiento.\n\n✅ Contenido:\n0:00 Qué es S3\n1:51 Crear Buckets y Objetos\n6:49 Listas de Control de Acceso\n8:29 Precios y Free-Tier\n10:53 AWS Pricing Calculator\n12:15 Clases de almacenamiento\n19:58 Configuración del ciclo de vida\n22:26 Alojar sitio web estático\n25:44 Políticas de bucket\n28:25 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/s3/pricing/\nhttps://calculator.aws/#/createCalculator/S3\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
+        },
+        "defaultAudioLanguage": "es-419"
+      },
+      "contentDetails": {
+        "duration": "PT29M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/P7lYk-mHJtQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9hZGrOhhpgsuM7DCzkJ5wCy1qz8",
       "id": "HPXdwErNahk",
       "snippet": {
         "publishedAt": "2021-07-27T01:32:06Z",
@@ -94,7 +415,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "f3AqnPfuvVAwPJ4ZVTNv2Du2NhA",
+      "etag": "MAgwRz1XX2_ZjJzMFUEil36x4Q0",
       "id": "HIcCKT-eTKM",
       "snippet": {
         "publishedAt": "2021-07-20T20:00:14Z",
@@ -188,7 +509,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "u6IiMUiC0eNT0s93DT5i1f8SErI",
+      "etag": "S7Vj0Hg506C9-PrJAh87x7Ou7Y0",
       "id": "df7soTJ9vW0",
       "snippet": {
         "publishedAt": "2021-06-28T21:00:14Z",
@@ -280,7 +601,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "SbGsssTYnySQlhJ9KAA5XC9Aie4",
+      "etag": "EpfI-dHk1l3yhv9-hqwfKlSaLC0",
       "id": "bZsMWorjtFI",
       "snippet": {
         "publishedAt": "2021-05-27T22:00:20Z",
@@ -354,7 +675,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "z8B22DpxVwN1PxmUfYVNLGrF9sQ",
+      "etag": "tuqRUgMTcFYR8si_q8pmrtX1WNE",
       "id": "e14LvRFfjTg",
       "snippet": {
         "publishedAt": "2021-05-26T15:00:27Z",
@@ -513,7 +834,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "mPSrYf04qMd9xECkFS1q4QMQ0Uk",
+      "etag": "_1LIV5jMVyK32RnZP0mKqGDGrAM",
       "id": "ZOC7BjMDfq0",
       "snippet": {
         "publishedAt": "2021-05-04T01:00:15Z",
@@ -758,13 +1079,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "hibeiec4BPc7OlZVFAmTA095kqw",
+      "etag": "WYRAS9vEvwK-P7Y6w1PMTKAFolk",
       "id": "3z-Y4kbLrTM",
       "snippet": {
         "publishedAt": "2021-03-30T11:02:26Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
-        "title": "React.js desde CERO | Creando web de películas | Parte 3: Formularios y custom hooks",
-        "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directa pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs",
+        "title": "Formularios y custom hooks | React.js desde CERO | Creando web de películas - Parte 3",
+        "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte3\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/3z-Y4kbLrTM/default.jpg",
@@ -809,8 +1130,8 @@
         "categoryId": "27",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "React.js desde CERO | Creando web de películas | Parte 3: Formularios y custom hooks",
-          "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directa pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
+          "title": "Formularios y custom hooks | React.js desde CERO | Creando web de películas - Parte 3",
+          "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte3\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -829,12 +1150,12 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "sNmma5q3OCQlilnh_crQSVnw7_8",
+      "etag": "jQPWFUENM75HnwbPR2UKyLG0RzM",
       "id": "afxLq1UFEfQ",
       "snippet": {
         "publishedAt": "2021-03-28T10:56:49Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
-        "title": "Aprende React.js desde CERO | Creando web de películas | Parte 2: Routing y Hooks",
+        "title": "Routing y Hooks - Aprende React.js desde CERO | Creando web de películas - Parte 2",
         "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo usar el Routing, Hooks y manejo de formularios en React. Seguiremos a partir del ejemplo de la directa pasada que pueden encontrar acá:\nhttps://youtu.be/hdgUDN1sgtA\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte2\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#react #reactjs",
         "thumbnails": {
           "default": {
@@ -880,7 +1201,7 @@
         "categoryId": "27",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "Aprende React.js desde CERO | Creando web de películas | Parte 2: Routing y Hooks",
+          "title": "Routing y Hooks - Aprende React.js desde CERO | Creando web de películas - Parte 2",
           "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo usar el Routing, Hooks y manejo de formularios en React. Seguiremos a partir del ejemplo de la directa pasada que pueden encontrar acá:\nhttps://youtu.be/hdgUDN1sgtA\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte2\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#react #reactjs"
         },
         "defaultAudioLanguage": "es-419"
@@ -900,7 +1221,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1HmuIm6ap-KVC2r5QSnLxgAXUAs",
+      "etag": "wrAjfcdTiohSeyJrMe5pl8C8y6k",
       "id": "C_okl27ybcg",
       "snippet": {
         "publishedAt": "2021-03-21T23:00:15Z",
@@ -978,7 +1299,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DY8td6Y1xGQX9phw4UKs7B66Zb8",
+      "etag": "Ah3mENwMtOabHdRjIwJcnV5JylU",
       "id": "hdgUDN1sgtA",
       "snippet": {
         "publishedAt": "2021-03-21T11:00:42Z",
@@ -1116,7 +1437,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dEoyKpNHXz2bqsbovidwdgzdkuc",
+      "etag": "AUDz8WJw3PJ4doWmZ_fYObVy7sA",
       "id": "ZSfzjavepzM",
       "snippet": {
         "publishedAt": "2021-02-24T14:51:08Z",
@@ -1151,10 +1472,7 @@
           }
         },
         "channelTitle": "Yoelvis Mulen { code }",
-        "tags": [
-          "programación",
-          "tutorial"
-        ],
+        "tags": ["programación", "tutorial"],
         "categoryId": "27",
         "liveBroadcastContent": "none",
         "localized": {
@@ -1177,7 +1495,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "tgrdELy43MZi-CpnxAfPf_l-vFo",
+      "etag": "snBbENL0pXTAnS9CvOjLVyGDpzM",
       "id": "DqjuUA_SDQg",
       "snippet": {
         "publishedAt": "2021-02-24T14:51:02Z",
@@ -1383,7 +1701,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "s4SjJS-CGQW_3kh4qLyVzKk8PWk",
+      "etag": "dd7Ynzus5iwqRyvVU2XYaUULWPw",
       "id": "97Ajv8-NRVY",
       "snippet": {
         "publishedAt": "2021-02-22T05:00:15Z",
@@ -1534,7 +1852,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "5KL_uuxpclg-J6XsMqdsnEOdh-U",
+      "etag": "1s4GIP2EPSdCEN8xM9WSUF8-5Bg",
       "id": "5AQb1AQ4mz8",
       "snippet": {
         "publishedAt": "2021-02-13T13:41:23Z",
@@ -1608,7 +1926,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "u-wxEQss-CmIHfuyeQ9k1o5nbsk",
+      "etag": "Nv9YrbLS06cyjiQ6we9T7zOyXbk",
       "id": "IbdwohdPRe8",
       "snippet": {
         "publishedAt": "2021-02-07T19:11:40Z",
@@ -1680,13 +1998,13 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "iiOmhrBYOIhiNlC0LGgLSOOie3Y",
+      "etag": "ZpRpkHG2hQhKDt_3BVNQ_ul_7RM",
       "id": "IciVhWQ8npw",
       "snippet": {
         "publishedAt": "2021-01-31T22:33:15Z",
         "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
-        "title": "¿Qué es la Computación en la Nube? | AWS desde cero  - Parte 1: Introducción",
-        "description": "Curso de computación en la nube usando Amazon Web Services desde cero. \n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube, La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación se puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
+        "title": "¿Qué es la Computación en la Nube? | AWS desde cero - Parte 1: Introducción",
+        "description": "Introducción a AWS. Qué es AWS, ventajas y modelos de ejecución.\n\nCurso de computación en la nube usando Amazon Web Services desde cero.\n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube. La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/IciVhWQ8npw/default.jpg",
@@ -1730,8 +2048,8 @@
         "categoryId": "27",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "¿Qué es la Computación en la Nube? | AWS desde cero  - Parte 1: Introducción",
-          "description": "Curso de computación en la nube usando Amazon Web Services desde cero. \n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube, La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación se puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
+          "title": "¿Qué es la Computación en la Nube? | AWS desde cero - Parte 1: Introducción",
+          "description": "Introducción a AWS. Qué es AWS, ventajas y modelos de ejecución.\n\nCurso de computación en la nube usando Amazon Web Services desde cero.\n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube. La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
         },
         "defaultAudioLanguage": "es-419"
       },
@@ -1816,7 +2134,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "fAGyaI-pO7F9eeQ5cEyyDWUjp1s",
+      "etag": "AW3WPFCCbpkyDsfTb3N3uyiGCC0",
       "id": "LnEimHQRfFQ",
       "snippet": {
         "publishedAt": "2020-11-29T15:21:55Z",
@@ -1886,7 +2204,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Y4mwezImCmIxOrbdb88r1YpFyT8",
+      "etag": "SUtd8C0JpyiKY7Kl2XSjD6gCL20",
       "id": "MoWcVSWgsdc",
       "snippet": {
         "publishedAt": "2020-11-16T14:44:53Z",
@@ -1921,11 +2239,7 @@
           }
         },
         "channelTitle": "Yoelvis Mulen { code }",
-        "tags": [
-          "JavaScript",
-          "programación",
-          "tutorial"
-        ],
+        "tags": ["JavaScript", "programación", "tutorial"],
         "categoryId": "27",
         "liveBroadcastContent": "none",
         "localized": {
@@ -1949,7 +2263,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "W90_0XEKRzu04KH-8ISwAYkHuhM",
+      "etag": "l8GzfiNpum874ne0ahDpDJiUbPk",
       "id": "RRs8edPoZzU",
       "snippet": {
         "publishedAt": "2020-11-14T22:22:37Z",
@@ -2110,7 +2424,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "W0Smif_EMTlcEllC5_c0oLuIdTI",
+      "etag": "4cfLS0pYHdTSdSrrsk8lplARE00",
       "id": "PU1T9DSnxmc",
       "snippet": {
         "publishedAt": "2020-09-23T14:58:19Z",
@@ -2483,7 +2797,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "a73gGP5J7tkPK9xF0IsEmBdYbMI",
+      "etag": "gkS7b10hp_mgN1ZNGunpGo2cTjc",
       "id": "T4t00Hd3qZc",
       "snippet": {
         "publishedAt": "2020-05-24T17:21:47Z",
@@ -2623,7 +2937,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "kV1J0szTqhO_AYBt96rpAOEyi-4",
+      "etag": "Cp0gKyPZLD4QBDChw0hq29grCnY",
       "id": "EU53Lg-DSVM",
       "snippet": {
         "publishedAt": "2020-05-02T14:00:15Z",
@@ -2819,7 +3133,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lZv4DcAFAmwwxfGmX3kUfMi6oI8",
+      "etag": "cBqNJ7TguhFMaUe07IdvyzCh_8o",
       "id": "2UBKjshUwM8",
       "snippet": {
         "publishedAt": "2020-04-19T02:12:14Z",
@@ -2894,7 +3208,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "dCxZxxLLfmcxFzITDg1MF8ls06k",
+      "etag": "G-wTFM8d4cTp-vFOxxAWspE3ces",
       "id": "frsw1WDCxXQ",
       "snippet": {
         "publishedAt": "2020-02-29T05:18:29Z",
@@ -2957,7 +3271,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "_Io__i_wYoNGZnNKQb4sXX0IfnQ",
+      "etag": "ex5rGv_7lbMkyPGv3MrkrSNVj-Q",
       "id": "4IIqbJ3NUXU",
       "snippet": {
         "publishedAt": "2020-02-07T21:38:03Z",
@@ -2992,12 +3306,7 @@
           }
         },
         "channelTitle": "Yoelvis Mulen { code }",
-        "tags": [
-          "GraphQL",
-          "JavaScript",
-          "Apollo",
-          "Nodejs"
-        ],
+        "tags": ["GraphQL", "JavaScript", "Apollo", "Nodejs"],
         "categoryId": "28",
         "liveBroadcastContent": "none",
         "localized": {
@@ -3021,7 +3330,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "1vyxWeW-pl2w1qiWeCo9EuNYv9Y",
+      "etag": "DJPIhpOvgl22iNB-g1UlOhbKsws",
       "id": "LxSijnCrlz0",
       "snippet": {
         "publishedAt": "2019-03-22T17:15:20Z",
@@ -3076,7 +3385,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "aaVXPqpoi2A_IW7sDgrle-byYUk",
+      "etag": "0C-XI6ZuKM1-8UmaqxBvYZal1VI",
       "id": "Uu0X6sM3s7Q",
       "snippet": {
         "publishedAt": "2018-07-06T01:10:49Z",
@@ -3134,7 +3443,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "n9sIHXvi2_gBicz9eAM9HcRfojM",
+      "etag": "eN-aha_7IE_kbct9ndkAdIyb5ec",
       "id": "fKfgj8V7J6U",
       "snippet": {
         "publishedAt": "2018-07-06T01:10:38Z",
@@ -3192,7 +3501,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "lGlcVTEmUI4rJYtDf2vdNRgYjV0",
+      "etag": "kOrZNaueUfaHgwWCImJ3otwEG2Y",
       "id": "0eSdS5sJ7Ss",
       "snippet": {
         "publishedAt": "2018-07-06T01:10:25Z",
@@ -3250,7 +3559,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "PownLRL-a2G39hkm7JYzjUHnVPg",
+      "etag": "wZ8_FK_xCnQQu6ggGWY5WMw9Y4U",
       "id": "kRGQZ1bZH2A",
       "snippet": {
         "publishedAt": "2018-07-06T01:10:12Z",
@@ -3298,7 +3607,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "Y5GYPk_g0OJfjTXXw5FgvI7iKa4",
+      "etag": "Lr5PUlcVNa2aGx6GAqrwnm60Vp0",
       "id": "DLYcLuAELPY",
       "snippet": {
         "publishedAt": "2018-07-06T01:09:55Z",
@@ -3356,7 +3665,7 @@
     },
     {
       "kind": "youtube#video",
-      "etag": "DeSLcEneZkeM4Gk6uGKAOtLzD1I",
+      "etag": "aOQVNVQGk5WQwNECP0hspwMpjHM",
       "id": "Mn4TFBXa_2g",
       "snippet": {
         "publishedAt": "2018-07-01T21:14:15Z",
@@ -3421,7 +3730,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 48,
-    "resultsPerPage": 48
+    "totalResults": 52,
+    "resultsPerPage": 52
   }
 }
