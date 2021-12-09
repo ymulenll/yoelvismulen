@@ -30,7 +30,7 @@ export interface Thumbnail {
 }
 
 const mapYouTubeVideos = (): YTVideo[] => {
-  const snippets: YTVideo[] = videos.items.map(
+  const snippets: YTVideo[] = videos.map(
     ({
       id,
       snippet: { title, description, publishedAt, thumbnails, tags = [] },
@@ -59,7 +59,9 @@ const mapYouTubeVideos = (): YTVideo[] => {
 }
 
 const extractDescriptionTags = (description: string) => {
-  const tags = [...description.matchAll(/[ \n]#(\w+)/g)].map((value) => value[1])
+  const tags = [...description.matchAll(/[ \n]#(\w+)/g)].map(
+    (value) => value[1]
+  )
   const uniqTags = uniq(tags)
 
   return uniqTags
