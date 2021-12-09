@@ -1,6 +1,6 @@
 [
   {
-    "kind": "youtube#video - Test",
+    "kind": "youtube#video",
     "etag": "mCNMeajIUrp3zMK43605f7fAbFY",
     "id": "KKXFmzr0nKk",
     "snippet": {
@@ -1610,7 +1610,10 @@
         }
       },
       "channelTitle": "Yoelvis Mulen { code }",
-      "tags": ["programación", "tutorial"],
+      "tags": [
+        "programación",
+        "tutorial"
+      ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
       "localized": {
@@ -2377,7 +2380,11 @@
         }
       },
       "channelTitle": "Yoelvis Mulen { code }",
-      "tags": ["JavaScript", "programación", "tutorial"],
+      "tags": [
+        "JavaScript",
+        "programación",
+        "tutorial"
+      ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
       "localized": {
@@ -3444,7 +3451,12 @@
         }
       },
       "channelTitle": "Yoelvis Mulen { code }",
-      "tags": ["GraphQL", "JavaScript", "Apollo", "Nodejs"],
+      "tags": [
+        "GraphQL",
+        "JavaScript",
+        "Apollo",
+        "Nodejs"
+      ],
       "categoryId": "28",
       "liveBroadcastContent": "none",
       "localized": {
