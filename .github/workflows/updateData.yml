@@ -1,0 +1,22 @@
+name: update data of youtube videos
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.5.0
+        with:
+          node-version: 16.x
+
+      - name: Setup env variable
+        run: export YOUTUBE_TOKEN=${{ secrets.YOUTUBE_TOKEN }}
+
+      - name: Run update data script
+        run: npm run updateData
