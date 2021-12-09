@@ -30,10 +30,13 @@ function updateOutputFile(videoDetails) {
   const videoDetailsString = JSON.stringify(videoDetails, null, 2)
   const isDifferent = !file.equals(Buffer.from(videoDetailsString))
 
-  console.log('isDifferent:', isDifferent)
   if (isDifferent) {
     fs.writeFileSync(outputFile, JSON.stringify(videoDetails, null, 2))
+
+    return console.log(`${outputFile} updated`)
   }
+
+  console.log('No update needed')
 }
 
 async function getVideoDetails(playlistItems) {
@@ -47,7 +50,14 @@ async function getVideoDetails(playlistItems) {
     videoDetailsResult = await httpRequest(videoDetailsPath)
     videoDetails = videoDetails.concat(videoDetailsResult.items)
   }
-  return videoDetails
+
+  const videoDetailOmitEtag = videoDetails.map((videoDetail) => {
+    const { etag, ...videoDetailOmitETag } = videoDetail
+
+    return videoDetailOmitETag
+  })
+
+  return videoDetailOmitEtag
 }
 
 async function getPlaylistItems(playlistId) {
