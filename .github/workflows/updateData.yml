@@ -21,7 +21,5 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: Your Name
-          author_email: mail@example.com
           message: 'Update video details'
           add: 'src/data/videoDetails.json'
