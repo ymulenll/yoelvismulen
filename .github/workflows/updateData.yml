@@ -18,7 +18,7 @@ jobs:
           node-version: 16.x
 
       - name: Run update data script
-        run: YOUTUBE_TOKEN=${{ secrets.YOUTUBE_TOKEN }} && npm run updateData
+        run: export YOUTUBE_TOKEN=${{ secrets.YOUTUBE_TOKEN }} && npm run updateData
         
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
