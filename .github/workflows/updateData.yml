@@ -15,8 +15,3 @@ jobs:
         with:
           node-version: 16.x
 
-      - name: Setup env variable
-        run: export YOUTUBE_TOKEN=${{ secrets.YOUTUBE_TOKEN }}
-
-      - name: Run update data script
-        run: npm run updateData
