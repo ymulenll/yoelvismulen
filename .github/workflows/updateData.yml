@@ -20,5 +20,3 @@ jobs:
 
       - name: Run update data script
         run: npm run updateData
-
-      - name: Commit changes
