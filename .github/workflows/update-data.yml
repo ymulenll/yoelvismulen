@@ -23,5 +23,5 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
-          message: 'Update video details'
+          message: 'Update videos data [bot]'
           add: 'src/data/videoDetails.json'
