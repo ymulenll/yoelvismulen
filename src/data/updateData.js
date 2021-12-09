@@ -2,57 +2,62 @@ const http = require('https')
 const fs = require('fs')
 
 const key = process.env.YOUTUBE_TOKEN
-const channelId = 'UCp28AG2NaDuzyVaAT--2NGQ'
+const channelId = process.env.CHANNEL_ID || 'UCp28AG2NaDuzyVaAT--2NGQ'
 const outputFile = process.env.OUTPUT || 'src/data/videoDetails.json'
 
 ;(async () => {
   if (!key) throw new Error('YOUTUBE_TOKEN is not set')
 
-  // --- get channel details
-  const channelDetailsPath = `/youtube/v3/channels?part=contentDetails&id=${channelId}`
+  try {
+    // --- get channel details
+    const channelDetailsPath = `/youtube/v3/channels?part=contentDetails&id=${channelId}`
 
-  const channelDetails = await httpRequest(channelDetailsPath)
-  const playlistId =
-    channelDetails.items[0].contentDetails.relatedPlaylists.uploads
+    const channelDetails = await httpRequest(channelDetailsPath)
+    const playlistId =
+      channelDetails.items[0].contentDetails.relatedPlaylists.uploads
 
-  // --- get playlist items
-  const playlistItemsPath = `/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId=${playlistId}`
+    // --- get playlist items
+    const playlistItemsPath = `/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId=${playlistId}`
 
-  let playlistItemsResult = null
-  let playlistItems = []
+    let playlistItemsResult = null
+    let playlistItems = []
 
-  do {
-    playlistItemsResult = await httpRequest(
-      `${playlistItemsPath}&pageToken=${
-        playlistItemsResult?.nextPageToken ?? ''
-      }`
-    )
+    do {
+      playlistItemsResult = await httpRequest(
+        `${playlistItemsPath}&pageToken=${
+          playlistItemsResult?.nextPageToken ?? ''
+        }`
+      )
 
-    playlistItems = playlistItems.concat(playlistItemsResult.items)
-  } while (playlistItemsResult.nextPageToken)
+      playlistItems = playlistItems.concat(playlistItemsResult.items)
+    } while (playlistItemsResult.nextPageToken)
 
-  // --- get video details
-  const playlistItemChunks = chunks(playlistItems, 50)
+    // --- get video details
+    const playlistItemChunks = chunks(playlistItems, 50)
 
-  let videoDetails = []
-  for (const playlistItemsChunk of playlistItemChunks) {
-    const videoDetailsPath = `/youtube/v3/videos?part=contentDetails&part=snippet&part=player&maxResults=50&id=${playlistItemsChunk
-      .map((item) => item.contentDetails.videoId)
-      .join(',')}`
-    videoDetailsResult = await httpRequest(videoDetailsPath)
-    videoDetails = videoDetails.concat(videoDetailsResult.items)
-  }
+    let videoDetails = []
+    for (const playlistItemsChunk of playlistItemChunks) {
+      const videoDetailsPath = `/youtube/v3/videos?part=contentDetails&part=snippet&part=player&maxResults=50&id=${playlistItemsChunk
+        .map((item) => item.contentDetails.videoId)
+        .join(',')}`
+      videoDetailsResult = await httpRequest(videoDetailsPath)
+      videoDetails = videoDetails.concat(videoDetailsResult.items)
+    }
 
-  const file = fs.existsSync(outputFile)
-    ? fs.readFileSync(outputFile)
-    : Buffer.from('')
+    const file = fs.existsSync(outputFile)
+      ? fs.readFileSync(outputFile)
+      : Buffer.from('')
 
-  const videoDetailsString = JSON.stringify(videoDetails, null, 2)
-  const isDifferent = !file.equals(Buffer.from(videoDetailsString))
+    const videoDetailsString = JSON.stringify(videoDetails, null, 2)
+    const isDifferent = !file.equals(Buffer.from(videoDetailsString))
 
-  console.log('isDifferent:', isDifferent)
-  if (isDifferent) {
-    fs.writeFileSync(outputFile, JSON.stringify(videoDetails, null, 2))
+    console.log('isDifferent:', isDifferent)
+    if (isDifferent) {
+      fs.writeFileSync(outputFile, JSON.stringify(videoDetails, null, 2))
+    }
+  } catch (error) {
+    console.log(error)
+    throw error
   }
 })()
 
