@@ -1,4 +1,4 @@
-name: update data of youtube videos
+name: Update data of YouTube videos
 
 on:
   schedule: # Run workflow automatically
