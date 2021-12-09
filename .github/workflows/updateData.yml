@@ -16,4 +16,4 @@ jobs:
           node-version: 16.x
 
       - name: Run update data script
-        run: npm run YOUTUBE_TOKEN=${{ secrets.YOUTUBE_TOKEN }} updateData
+        run: YOUTUBE_TOKEN=${{ secrets.YOUTUBE_TOKEN }} node src/data/updateData.js 
