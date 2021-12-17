@@ -1,6 +1,86 @@
 [
   {
     "kind": "youtube#video",
+    "id": "1F_Q5NQBkyU",
+    "snippet": {
+      "publishedAt": "2021-12-16T17:00:13Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Posicionamiento CSS - Guía desde cero | CSS Position en la práctica",
+      "description": "Todo sobre position static, relative, absolute, fixed y sticky con ejemplos prácticos.\n\n✅ Contenido:\n0:00 Setup\n1:00 position static\n1:27 position relative\n3:41 position absolute\n6:28 position fixed\n10:10 position sticky\n15:51 z-index\n16:32 Resumen\n \n📺 Videos relacionados:\nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncodepen con el código inicial: \nhttps://codepen.io/ymulenll/pen/MWEJdoB\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1F_Q5NQBkyU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1F_Q5NQBkyU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1F_Q5NQBkyU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1F_Q5NQBkyU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1F_Q5NQBkyU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "static",
+        "relative",
+        "absolute",
+        "fixed",
+        "sticky",
+        "position",
+        "css",
+        "posicionamiento",
+        "estático",
+        "vs",
+        "css3",
+        "html",
+        "relativo",
+        "absoluto",
+        "z-index",
+        "top",
+        "left",
+        "bottom",
+        "right"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Posicionamiento CSS - Guía desde cero | CSS Position en la práctica",
+        "description": "Todo sobre position static, relative, absolute, fixed y sticky con ejemplos prácticos.\n\n✅ Contenido:\n0:00 Setup\n1:00 position static\n1:27 position relative\n3:41 position absolute\n6:28 position fixed\n10:10 position sticky\n15:51 z-index\n16:32 Resumen\n \n📺 Videos relacionados:\nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncodepen con el código inicial: \nhttps://codepen.io/ymulenll/pen/MWEJdoB\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT18M1S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/1F_Q5NQBkyU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "5_tJLt8ChYg",
     "snippet": {
       "publishedAt": "2021-12-13T14:06:51Z",
