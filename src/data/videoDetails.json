@@ -1,6 +1,95 @@
 [
   {
     "kind": "youtube#video",
+    "id": "lNkAJCoXg6I",
+    "snippet": {
+      "publishedAt": "2022-01-03T22:58:44Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "React Query Tutorial | Consultar APIs, caché y sincronización de forma simple y eficiente 🚀",
+      "description": "Curso de react-query desde cero. Parte 2: mutations.\n \nHace más de 1 año vengo usando la librería react-query y me ha simplificado y mejorado muchísimo la forma en la que manejo los datos del servidor desde React.\n\n📺 Videos relacionados:\nReact Query Tutorial - Parte 2: https://youtu.be/KWQ2LkFBj0Y\n\n✅ Contenido:\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo inicial: https://github.com/ymulenll/react-query-tutorial/tree/initial-project\ndocumentación: https://react-query.tanstack.com/\n\nNota: La clave de las queries actualmente puede ser un String o un Array, pero en la próxima versión de react-query, será obligatorio usar array, por eso estoy usando Arrays en este tutorial.\nreferencia: https://github.com/tannerlinsley/react-query/blob/alpha/docs/src/pages/guides/migrating-to-react-query-4.md#query-keys-and-mutation-keys-need-to-be-an-array\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#react",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lNkAJCoXg6I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lNkAJCoXg6I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lNkAJCoXg6I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lNkAJCoXg6I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lNkAJCoXg6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "react-query",
+        "queries",
+        "useQuery",
+        "json-server",
+        "mutations",
+        "key",
+        "axios",
+        "stale while revalidate",
+        "cache",
+        "slateTime",
+        "cacheTime",
+        "refetchInterval",
+        "refetch",
+        "refetchOnWindowFocus",
+        "refetchOnMount",
+        "refetchOnReconnect",
+        "enabled",
+        "queryClient",
+        "devtools",
+        "useEffect",
+        "isLoading",
+        "isFetching",
+        "isIdle",
+        "isSuccess",
+        "error",
+        "getQueryData",
+        "hooks",
+        "useQueryClient"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "upcoming",
+      "localized": {
+        "title": "React Query Tutorial | Consultar APIs, caché y sincronización de forma simple y eficiente 🚀",
+        "description": "Curso de react-query desde cero. Parte 2: mutations.\n \nHace más de 1 año vengo usando la librería react-query y me ha simplificado y mejorado muchísimo la forma en la que manejo los datos del servidor desde React.\n\n📺 Videos relacionados:\nReact Query Tutorial - Parte 2: https://youtu.be/KWQ2LkFBj0Y\n\n✅ Contenido:\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo inicial: https://github.com/ymulenll/react-query-tutorial/tree/initial-project\ndocumentación: https://react-query.tanstack.com/\n\nNota: La clave de las queries actualmente puede ser un String o un Array, pero en la próxima versión de react-query, será obligatorio usar array, por eso estoy usando Arrays en este tutorial.\nreferencia: https://github.com/tannerlinsley/react-query/blob/alpha/docs/src/pages/guides/migrating-to-react-query-4.md#query-keys-and-mutation-keys-need-to-be-an-array\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#react"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT28M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/lNkAJCoXg6I\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "1F_Q5NQBkyU",
     "snippet": {
       "publishedAt": "2021-12-16T17:00:13Z",
