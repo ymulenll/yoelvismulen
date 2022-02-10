@@ -1,6 +1,78 @@
 [
   {
     "kind": "youtube#video",
+    "id": "aCEn6_BHZyI",
+    "snippet": {
+      "publishedAt": "2022-02-09T12:51:29Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Cómo desplegar APP de React 💰GRATIS💰 con GitHub y Netlify 🚀 | Tutorial desde CERO",
+      "description": "Te muestro cómo desplegar aplicación de React usando GitHub y Netlify. Vamos a configurar variables de ambiente y veremos cómo funciona la integración continua. \n\n✅ Contenido:\n0:00 Inicializar repositorio\n2:17 Variables de ambiente\n6:23 .gitignore\n7:47 Publicar a GitHub\n9:30 Desplegar en Netlify\n12:26 Configuración adicional y CI\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\ngithub: https://github.com/\ngit: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git\ncreate-react-app: https://create-react-app.dev/docs/adding-custom-environment-variables/\nnetlify: https://www.netlify.com/\nproyecto react de ejemplo: https://github.com/ymulenll/movies-curso-react\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aCEn6_BHZyI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aCEn6_BHZyI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aCEn6_BHZyI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aCEn6_BHZyI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aCEn6_BHZyI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "react",
+        "github",
+        "netlify",
+        "deployment",
+        ".env",
+        "variables de ambiente",
+        "environment",
+        "api",
+        "token",
+        "secrets",
+        "create-react-app"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Cómo desplegar APP de React 💰GRATIS💰 con GitHub y Netlify 🚀 | Tutorial desde CERO",
+        "description": "Te muestro cómo desplegar aplicación de React usando GitHub y Netlify. Vamos a configurar variables de ambiente y veremos cómo funciona la integración continua. \n\n✅ Contenido:\n0:00 Inicializar repositorio\n2:17 Variables de ambiente\n6:23 .gitignore\n7:47 Publicar a GitHub\n9:30 Desplegar en Netlify\n12:26 Configuración adicional y CI\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\ngithub: https://github.com/\ngit: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git\ncreate-react-app: https://create-react-app.dev/docs/adding-custom-environment-variables/\nnetlify: https://www.netlify.com/\nproyecto react de ejemplo: https://github.com/ymulenll/movies-curso-react\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT16M9S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/aCEn6_BHZyI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "zhigY5FrWJs",
     "snippet": {
       "publishedAt": "2022-02-06T00:00:13Z",
