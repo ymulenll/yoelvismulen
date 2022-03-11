@@ -3,10 +3,10 @@
     "kind": "youtube#video",
     "id": "BTg1JbmE3x4",
     "snippet": {
-      "publishedAt": "2022-03-10T04:04:41Z",
+      "publishedAt": "2022-03-10T15:00:12Z",
       "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
       "title": "🔥 Amazon RDS - Tutorial | Bases de Datos Relacionales en AWS ☁️ | AWS desde cero - Parte 10",
-      "description": "Cómo usar el servicio Amazon RDS para configurar, operar y escalar bases de datos relacionales en Amazon Web Services.\n\n✅ Contenido:\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/rds\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
+      "description": "Cómo usar el servicio Amazon RDS para configurar, operar y escalar bases de datos relacionales en Amazon Web Services.\n\n✅ Contenido:\n0:00 Intro\n0:57 EC2 vs RDS\n2:47 Seleccionar región\n3:43 Motores de BD soportados vs Aurora\n5:36 Capa gratuita (Free-Tier)\n6:14 Despliegue en múltiples AZ\n8:43 Credenciales maestras\n9:05 Instance Class\n10:07 Almacenamiento\n11:33 Conectividad\n14:12 Autenticación\n14:44 BD inicial, grupo de parámetros y opciones\n15:56 Backups y mantenimiento\n17:46 Precios\n22:11 Security Groups\n22:25 Conectarse a la BD\n24:54 Monitoreo\n25:40 Modificar la BD\n26:52 Backups vs snapshots\n28:26 Réplicas de lectura\n32:37 Eliminar DB y snapshots\n33:40 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/rds\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/BTg1JbmE3x4/default.jpg",
@@ -64,10 +64,10 @@
         "performance"
       ],
       "categoryId": "27",
-      "liveBroadcastContent": "upcoming",
+      "liveBroadcastContent": "none",
       "localized": {
         "title": "🔥 Amazon RDS - Tutorial | Bases de Datos Relacionales en AWS ☁️ | AWS desde cero - Parte 10",
-        "description": "Cómo usar el servicio Amazon RDS para configurar, operar y escalar bases de datos relacionales en Amazon Web Services.\n\n✅ Contenido:\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/rds\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
+        "description": "Cómo usar el servicio Amazon RDS para configurar, operar y escalar bases de datos relacionales en Amazon Web Services.\n\n✅ Contenido:\n0:00 Intro\n0:57 EC2 vs RDS\n2:47 Seleccionar región\n3:43 Motores de BD soportados vs Aurora\n5:36 Capa gratuita (Free-Tier)\n6:14 Despliegue en múltiples AZ\n8:43 Credenciales maestras\n9:05 Instance Class\n10:07 Almacenamiento\n11:33 Conectividad\n14:12 Autenticación\n14:44 BD inicial, grupo de parámetros y opciones\n15:56 Backups y mantenimiento\n17:46 Precios\n22:11 Security Groups\n22:25 Conectarse a la BD\n24:54 Monitoreo\n25:40 Modificar la BD\n26:52 Backups vs snapshots\n28:26 Réplicas de lectura\n32:37 Eliminar DB y snapshots\n33:40 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/rds\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
       },
       "defaultAudioLanguage": "es-419"
     },
