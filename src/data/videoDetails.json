@@ -1,6 +1,72 @@
 [
   {
     "kind": "youtube#video",
+    "id": "_EOjiX6RmPE",
+    "snippet": {
+      "publishedAt": "2022-05-12T20:00:56Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Migrar de redux a Redux Toolkit (RTK) 🚀 | Tutorial paso a paso",
+      "description": "Les comparto mi experiencia de cómo migrar un proyecto de redux hacia redux toolkit. Hace unos días migré hacia redux toolkit un proyecto que estaba hecho con redux de la forma tradicional. En este video les muestro paso a paso cómo hacer ese tipo de migraciones y las ventajas que trae el uso de redux toolkit.\n\n✅ Contenido:\n0:00 Introducción\n0:28 Proyecto inicial\n3:31 Problemas con redux\n4:39 Instalar Redux-Toolkit\n5:40 Refactorizar Redux hacia Redux Toolkit\n11:55 Configurar store\n13:46 Añadir tipos a los reducers\n16:05 \"Mutar\" estado usando IMMER\n18:30 Tipos y hooks para TypeScript\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo inicial: https://github.com/ymulenll/todos-rtk\ndocumentación: https://redux-toolkit.js.org/introduction/getting-started\nredux dev-tools para google chrome: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_EOjiX6RmPE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_EOjiX6RmPE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_EOjiX6RmPE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "redux",
+        "redux-thunk",
+        "rtk",
+        "redux toolkit",
+        "configureStore",
+        "createSlice",
+        "reducers",
+        "actions",
+        "react",
+        "typescript",
+        "todo",
+        "hooks",
+        "useDispatch",
+        "useSelector",
+        "react-redux"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Migrar de redux a Redux Toolkit (RTK) 🚀 | Tutorial paso a paso",
+        "description": "Les comparto mi experiencia de cómo migrar un proyecto de redux hacia redux toolkit. Hace unos días migré hacia redux toolkit un proyecto que estaba hecho con redux de la forma tradicional. En este video les muestro paso a paso cómo hacer ese tipo de migraciones y las ventajas que trae el uso de redux toolkit.\n\n✅ Contenido:\n0:00 Introducción\n0:28 Proyecto inicial\n3:31 Problemas con redux\n4:39 Instalar Redux-Toolkit\n5:40 Refactorizar Redux hacia Redux Toolkit\n11:55 Configurar store\n13:46 Añadir tipos a los reducers\n16:05 \"Mutar\" estado usando IMMER\n18:30 Tipos y hooks para TypeScript\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo inicial: https://github.com/ymulenll/todos-rtk\ndocumentación: https://redux-toolkit.js.org/introduction/getting-started\nredux dev-tools para google chrome: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT24M3S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/_EOjiX6RmPE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "ssXbao4rGPA",
     "snippet": {
       "publishedAt": "2022-03-21T19:51:31Z",
