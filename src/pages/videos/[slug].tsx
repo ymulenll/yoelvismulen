@@ -5,10 +5,11 @@ import {
   getYouTubeVideoData,
   YTVideo,
 } from '../../lib/videos'
-import ReactPlayer from 'react-player'
 import cx from 'classnames'
 import VideoDescription from '../../components/videoDescription'
 import VideoMetadata from '../../components/videoMetadata'
+import dynamic from 'next/dynamic'
+const ReactPlayer = dynamic(() => import('react-player/lazy'), { ssr: false })
 
 type Props = {
   videoData?: YTVideo
