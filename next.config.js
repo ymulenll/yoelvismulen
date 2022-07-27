@@ -4,4 +4,13 @@ module.exports = {
     domains: ['i.ytimg.com'],
   },
   swcMinify: true,
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/videos',
+        permanent: true,
+      },
+    ]
+  },
 }

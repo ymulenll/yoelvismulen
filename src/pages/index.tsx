@@ -13,7 +13,9 @@ export default function Home() {
         </Head>
 
         <section className="flex flex-col items-center justify-center w-full flex-1 px-3 sm:px-20 pb-16 text-center">
-          <h1 className="text-4xl md:text-6xl font-bold">Bienvenido a mi web 👋</h1>
+          <h1 className="text-4xl md:text-6xl font-bold">
+            Bienvenido a mi web 👋
+          </h1>
 
           <div className="flex flex-wrap items-center justify-around mt-6 sm:w-full">
             <Link href="/videos">
