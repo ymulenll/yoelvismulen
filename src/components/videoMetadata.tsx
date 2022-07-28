@@ -8,7 +8,7 @@ type Props = {
 
 export default function VideoMetadata({ video }: Props): ReactElement {
   return (
-    <div className="text-blue-900 text-opacity-80 font-medium italic text-right mr-1 mt-1">
+    <div className="mr-1 mt-1 text-right font-medium italic text-blue-900 text-opacity-80 dark:text-blue-400">
       {formatDate(video.publishedAt)}
     </div>
   )

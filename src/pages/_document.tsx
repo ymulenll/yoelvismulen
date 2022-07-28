@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             rel="stylesheet"
           />
         </Head>
-        <body className="bg-gray-50">
+        <body>
           {/* Google Tag Manager (noscript) */}
           <noscript
             dangerouslySetInnerHTML={{
