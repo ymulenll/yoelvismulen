@@ -7,7 +7,6 @@ import {
   getYouTubeVideos,
   YTVideo,
 } from '../../lib/videos'
-import cx from 'classnames'
 import { VideoFilters } from '../../components/videoFilters'
 import { useRouter } from 'next/dist/client/router'
 
@@ -27,19 +26,26 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
   return (
     <div className="">
       <Head>
+        <meta
+          name="description"
+          content="Videos sobre programación web, AWS y mucho más."
+        />
         <title>Videos</title>
       </Head>
       <div>
-        <h1 className="text-2xl md:text-4xl text-center sm:text-left p-3 md:p-5 my-2 md:my-4 text-gray-700 font-semibold border-b-2 border-dashed">
+        <h1
+          className={`my-2 border-b-2 border-dashed p-3 text-center text-2xl font-semibold text-gray-700 dark:text-white
+          sm:text-left md:my-4 md:p-5 md:text-4xl`}
+        >
           Videos
         </h1>
         <VideoFilters tags={descriptionTagsMap} />
         {filteredVideos.length > 0 && (
           <div
-            className={cx(
-              'grid grid-cols-1 md:grid-cols-[repeat(auto-fill,minmax(300px,1fr))] lg:grid-cols-[repeat(auto-fill,minmax(400px,1fr))]',
-              'py-5 md:py-8 sm:px-5 gap-y-5 gap:5 md:gap-7 lg:gap-10 justify-items-center justify-evenly'
-            )}
+            className={`gap:5 grid grid-cols-1 justify-evenly justify-items-center gap-y-5 py-5
+            sm:px-5 
+            md:grid-cols-[repeat(auto-fill,minmax(300px,1fr))] md:gap-7 md:py-8
+            lg:grid-cols-[repeat(auto-fill,minmax(400px,1fr))] lg:gap-10`}
           >
             {filteredVideos.map((video) => (
               <VideoCard key={video.id} video={video} />
@@ -47,7 +53,7 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
           </div>
         )}
         {!filteredVideos.length && (
-          <div className="text-2xl p-4 text-center italic">
+          <div className="p-4 text-center text-2xl italic">
             No se encuentan resultados
           </div>
         )}

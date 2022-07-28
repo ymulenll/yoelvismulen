@@ -40,8 +40,8 @@ export default function Video({ videoData }: Props) {
         <meta name="description" content={videoData.title} />
         <meta name="keywords" content={videoData.descriptionTags.join(', ')} />
       </Head>
-      <article className="">
-        <div className="mx-auto md:max-w-5xl bg-gray-100 sm:p-2 shadow-2xl">
+      <article>
+        <div className="mx-auto bg-gray-100 shadow-2xl dark:bg-zinc-800 sm:p-2 md:max-w-5xl">
           <div className="aspect-w-16 aspect-h-9">
             <ReactPlayer
               url={`https://www.youtube.com/watch?v=${videoData.id}`}
@@ -59,14 +59,14 @@ export default function Video({ videoData }: Props) {
           <VideoMetadata video={videoData} />
           <h1
             className={cx(
-              'text-2xl sm:text-left p-5 text-gray-700 font-semibold border-b-2 border-dashed'
+              'border-b-2 border-dashed p-5 text-2xl font-semibold text-gray-700 dark:text-inherit sm:text-left'
             )}
           >
             {videoData.title}
           </h1>
           <VideoDescription
             handleSeekTo={handleSeekTo}
-            className="p-5 mt-2 md:p-8 text-xl"
+            className="mt-2 p-5 text-xl md:p-8"
           >
             {videoData.description}
           </VideoDescription>

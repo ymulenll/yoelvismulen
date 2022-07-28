@@ -1,9 +1,9 @@
 import React, { ReactElement } from 'react'
 import cx from 'classnames'
-import parse, { Element, domToReact, htmlToDOM, Text } from 'html-react-parser'
+import parse, { Element, domToReact } from 'html-react-parser'
 import { isText } from 'domhandler'
 
-import { timeStringToSeconds, formatDuration } from '../lib/dates'
+import { timeStringToSeconds } from '../lib/dates'
 import Tag from './tag'
 
 type Props = {
@@ -33,7 +33,7 @@ export default function VideoDescription({
               if (isNaN(seconds)) return
               return (
                 <button
-                  className="text-blue-900 cursor-pointer"
+                  className="cursor-pointer text-blue-900 dark:text-blue-400"
                   onClick={() => {
                     window.scrollTo({ top: 0, left: 0, behavior: 'smooth' })
                     handleSeekTo(seconds)
@@ -74,6 +74,6 @@ function tokenify(text: string) {
     .replace(
       urlRegex,
       (url) =>
-        `<a href="${url}" target="_blank" class="text-blue-900 max-w-full inline-block overflow-hidden whitespace-nowrap overflow-ellipsis align-middle">${url}</a>`
+        `<a href="${url}" target="_blank" class="text-blue-900 dark:text-blue-400 max-w-full inline-block overflow-hidden whitespace-nowrap overflow-ellipsis align-middle">${url}</a>`
     )
 }
