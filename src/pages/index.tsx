@@ -9,7 +9,10 @@ export default function Home() {
           <title>
             Yoelvis Mulen {'{'} code {'}'}
           </title>
-          <link rel="icon" href="/favicon.ico" />
+          <meta
+            name="description"
+            content="Comparto contenido sobre HTML, CSS, React.js, Node.js, AWS y mucho más."
+          />
         </Head>
 
         <section className="flex flex-col items-center justify-center w-full flex-1 px-3 sm:px-20 pb-16 text-center">
