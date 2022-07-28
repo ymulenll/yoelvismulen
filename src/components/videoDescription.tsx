@@ -1,7 +1,7 @@
 import React, { ReactElement } from 'react'
 import cx from 'classnames'
 import parse, { Element, domToReact, htmlToDOM, Text } from 'html-react-parser'
-import { isText, hasChildren } from 'domhandler'
+import { isText } from 'domhandler'
 
 import { timeStringToSeconds, formatDuration } from '../lib/dates'
 import Tag from './tag'
@@ -19,20 +19,20 @@ export default function VideoDescription({
 }: Props): ReactElement {
   return (
     <div className={cx('whitespace-pre-wrap', className)}>
-      {parse(linkify(description), {
+      {parse(tokenify(description), {
         replace: (domNode) => {
           if (
             domNode instanceof Element &&
-            domNode.attribs['data-time'] &&
-            hasChildren(domNode)
+            domNode.children[0] &&
+            isText(domNode.children[0])
           ) {
-            const text = domNode.children[0]
-            if (isText(text)) {
+            if (domNode.attribs['data-time']) {
+              const text = domNode.children[0]
               const timeString = text.data
               const seconds = timeStringToSeconds(timeString)
               if (isNaN(seconds)) return
               return (
-                <span
+                <button
                   className="text-blue-900 cursor-pointer"
                   onClick={() => {
                     window.scrollTo({ top: 0, left: 0, behavior: 'smooth' })
@@ -40,21 +40,16 @@ export default function VideoDescription({
                   }}
                 >
                   {domToReact([domNode])}
-                </span>
+                </button>
               )
             }
-          }
+            if (domNode.attribs['data-tag']) {
+              const text = domNode.children[0]
+              if (isText(text)) {
+                const tag = text.data
 
-          if (
-            domNode instanceof Element &&
-            domNode.attribs['data-tag'] &&
-            hasChildren(domNode)
-          ) {
-            const text = domNode.children[0]
-            if (isText(text)) {
-              const tag = text.data
-
-              return <Tag>{tag}</Tag>
+                return <Tag>{tag}</Tag>
+              }
             }
           }
         },
@@ -63,7 +58,7 @@ export default function VideoDescription({
   )
 }
 
-function linkify(text: string) {
+function tokenify(text: string) {
   const urlRegex =
     /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gi
   const newLineRegex = /\n/g
