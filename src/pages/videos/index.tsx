@@ -7,7 +7,6 @@ import {
   getYouTubeVideos,
   YTVideo,
 } from '../../lib/videos'
-import cx from 'classnames'
 import { VideoFilters } from '../../components/videoFilters'
 import { useRouter } from 'next/dist/client/router'
 
@@ -27,6 +26,10 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
   return (
     <div className="">
       <Head>
+        <meta
+          name="description"
+          content="Videos sobre programación web, AWS y mucho más."
+        />
         <title>Videos</title>
         <meta
           name="description"
@@ -34,16 +37,19 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
         />
       </Head>
       <div>
-        <h1 className="text-2xl md:text-4xl text-center sm:text-left p-3 md:p-5 my-2 md:my-4 text-gray-700 font-semibold border-b-2 border-dashed">
+        <h1
+          className={`mt-2 mb-4 border-b-2 border-dashed p-3 text-center text-2xl font-semibold text-gray-700 dark:text-inherit
+          md:my-4 md:p-5 md:text-left md:text-4xl`}
+        >
           Videos
         </h1>
         <VideoFilters tags={descriptionTagsMap} />
         {filteredVideos.length > 0 && (
           <div
-            className={cx(
-              'grid grid-cols-1 md:grid-cols-[repeat(auto-fill,minmax(300px,1fr))] lg:grid-cols-[repeat(auto-fill,minmax(400px,1fr))]',
-              'py-5 md:py-8 sm:px-5 gap-y-5 gap:5 md:gap-7 lg:gap-10 justify-items-center justify-evenly'
-            )}
+            className={`gap:5 grid grid-cols-1 justify-evenly justify-items-center gap-y-5 py-5
+            sm:px-5 
+            md:grid-cols-[repeat(auto-fill,minmax(300px,1fr))] md:gap-7 md:py-8
+            lg:grid-cols-[repeat(auto-fill,minmax(400px,1fr))] lg:gap-10`}
           >
             {filteredVideos.map((video) => (
               <VideoCard key={video.id} video={video} />
@@ -51,7 +57,7 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
           </div>
         )}
         {!filteredVideos.length && (
-          <div className="text-2xl p-4 text-center italic">
+          <div className="p-4 text-center text-2xl italic">
             No se encuentan resultados
           </div>
         )}
@@ -70,4 +76,3 @@ export const getStaticProps: GetStaticProps<Props> = () => {
     },
   }
 }
-;('HPXdwErNahk,HIcCKT-eTKM,df7soTJ9vW0,bZsMWorjtFI,e14LvRFfjTg,xXyvlgjpQJo,ZOC7BjMDfq0,qa4oWn3Zvpk,ADbxRybIpH0,3z-Y4kbLrTM,afxLq1UFEfQ,C_okl27ybcg,hdgUDN1sgtA,xQstBIPeOdU,ZSfzjavepzM,DqjuUA_SDQg,N6ZR4M1z6Yc,l9xx8sv4Y7Y,97Ajv8-NRVY,BIXgEpITld4,5AQb1AQ4mz8,IbdwohdPRe8,IciVhWQ8npw,usRIvdhRTS8,LnEimHQRfFQ,MoWcVSWgsdc,RRs8edPoZzU,iKdwZ91Q4L8,PU1T9DSnxmc,b2X3sYjRAXY,AmDw_8U9TF8,R7AMcD96mqY,Sgf4HEAW-gQ,T4t00Hd3qZc,f3902x_dqqQ,EU53Lg-DSVM,Aiz4k7YVwvQ,bZD8qcJIEIE,2UBKjshUwM8,frsw1WDCxXQ,4IIqbJ3NUXU,LxSijnCrlz0,Uu0X6sM3s7Q,fKfgj8V7J6U,0eSdS5sJ7Ss,kRGQZ1bZH2A,DLYcLuAELPY,Mn4TFBXa_2g')

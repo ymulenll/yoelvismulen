@@ -1,0 +1,27 @@
+name: Update data of YouTube videos
+
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 12 * * *' # Runs at 12:00 UTC every day.
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
+
+      - name: Run update data script
+        run: export YOUTUBE_TOKEN=${{ secrets.YOUTUBE_TOKEN }} && npm run updateData
+        
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: 'Update videos data [bot]'
+          add: 'src/data/videoDetails.json'

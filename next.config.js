@@ -6,6 +6,16 @@ module.exports = withPWA({
   images: {
     domains: ['i.ytimg.com'],
   },
+  swcMinify: true,
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/videos',
+        permanent: true,
+      },
+    ]
+  },
   pwa: {
     disable: process.env.NODE_ENV === 'development',
     dest: 'public',

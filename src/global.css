@@ -3,6 +3,13 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    height: 100%;
+  }
+  body,
+  #__next {
+    height: 100%;
+  }
   html ::-webkit-scrollbar {
     width: 16px;
   }

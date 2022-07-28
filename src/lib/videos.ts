@@ -30,7 +30,7 @@ export interface Thumbnail {
 }
 
 const mapYouTubeVideos = (): YTVideo[] => {
-  const snippets: YTVideo[] = videos.items.map(
+  const snippets: YTVideo[] = videos.map(
     ({
       id,
       snippet: { title, description, publishedAt, thumbnails, tags = [] },
