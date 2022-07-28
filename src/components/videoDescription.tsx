@@ -74,6 +74,6 @@ function tokenify(text: string) {
     .replace(
       urlRegex,
       (url) =>
-        `<a href="${url}" target="_blank" class="text-blue-900 dark:text-blue-400 max-w-full inline-block overflow-hidden whitespace-nowrap overflow-ellipsis align-middle">${url}</a>`
+        `<a href="${url}" target="_blank" rel="noopener" class="text-blue-900 dark:text-blue-400 max-w-full inline-block overflow-hidden whitespace-nowrap overflow-ellipsis align-middle">${url}</a>`
     )
 }
