@@ -31,10 +31,6 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
           content="Videos sobre programación web, AWS y mucho más."
         />
         <title>Videos</title>
-        <meta
-          name="description"
-          content="Videos sobre programación web, AWS y mucho más."
-        />
       </Head>
       <div>
         <h1
