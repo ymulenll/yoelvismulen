@@ -38,7 +38,11 @@ const mapYouTubeVideos = (): YTVideo[] => {
       player: { embedHtml },
     }) => {
       const descriptionTags = extractDescriptionTags(description)
-      const slug = slugify(title, { lower: true, locale: 'es' })
+      const slug = slugify(title, {
+        lower: true,
+        locale: 'es',
+        remove: /[*+~.,()'"!:@]/g,
+      })
 
       return {
         id,
