@@ -1,6 +1,4 @@
-import dayjs from 'dayjs'
 import { formatDuration } from '../lib/dates'
-
 
 type Props = {
   children: string
@@ -8,9 +6,5 @@ type Props = {
 }
 
 export const Duration = ({ children: duration, className }: Props) => {
-  return (
-    <div className={className}>
-      {formatDuration(duration)}
-    </div>
-  )
+  return <div className={className}>{formatDuration(duration)}</div>
 }
