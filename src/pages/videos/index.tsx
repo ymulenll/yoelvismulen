@@ -34,8 +34,8 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
       </Head>
       <div>
         <h1
-          className={`my-2 border-b-2 border-dashed p-3 text-center text-2xl font-semibold text-gray-700 dark:text-white
-          sm:text-left md:my-4 md:p-5 md:text-4xl`}
+          className={`mt-2 mb-4 border-b-2 border-dashed p-3 text-center text-2xl font-semibold text-gray-700 dark:text-inherit
+          md:my-4 md:p-5 md:text-left md:text-4xl`}
         >
           Videos
         </h1>
