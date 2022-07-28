@@ -17,7 +17,7 @@ const outputFile = process.env.OUTPUT || 'src/data/videoDetails.json'
 
     updateOutputFile(videoDetails)
   } catch (error) {
-    console.log(error)
+    console.error(error)
     throw error
   }
 })()
