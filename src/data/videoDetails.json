@@ -3,7 +3,7 @@
     "kind": "youtube#video",
     "id": "bMy-mnqBtPk",
     "snippet": {
-      "publishedAt": "2022-07-31T02:42:50Z",
+      "publishedAt": "2022-08-01T18:30:10Z",
       "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
       "title": "Crear Slider (Carrusel) con SwiperJS 👌🏻 | Tutorial desde CERO",
       "description": "Cómo crear un sliders como los de MercadoLibre, AIRBNB, Uber Eats... Usando la librería Swiper.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://swiperjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript",
@@ -37,10 +37,16 @@
       "channelTitle": "Yoelvis Mulen { code }",
       "tags": [
         "programación",
-        "tutorial"
+        "tutorial",
+        "javascript",
+        "swiper",
+        "carrusel",
+        "slider",
+        "html",
+        "css"
       ],
       "categoryId": "27",
-      "liveBroadcastContent": "upcoming",
+      "liveBroadcastContent": "none",
       "localized": {
         "title": "Crear Slider (Carrusel) con SwiperJS 👌🏻 | Tutorial desde CERO",
         "description": "Cómo crear un sliders como los de MercadoLibre, AIRBNB, Uber Eats... Usando la librería Swiper.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://swiperjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript"
