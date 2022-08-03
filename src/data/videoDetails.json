@@ -1,6 +1,81 @@
 [
   {
     "kind": "youtube#video",
+    "id": "HqE-lGznGac",
+    "snippet": {
+      "publishedAt": "2022-08-02T07:22:29Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Visual Studio Code desde CERO | Configuración, tips, atajos, extensiones",
+      "description": "Tutorial de Visual Studio Code enfocado en los principiantes. \n\nVSCode es el editor de código más usado a nivel mundial, es gratuito y trae un montón de herramientas. En este video les comparto las configuraciones, tips, atajos, extensiones y mucho más que uso en el día a día. Todo desde cero enfocado en los que están comenzando en el mundo de la programación.\n\n✅ Contenido:\n0:00 Intro\n0:28 Instalar vscode\n1:50 Cambiar íconos y tema\n5:51 Abreviaciones Emmet\n10:54 Live Server\n12:22 Formatear código - Prettier\n15:52 Atajos de teclado\n18:16 Manejo de pestañas\n20:08 Paleta de comandos\n21:50 Programación JavaScript\n25:50 Completamiento de clases CSS\n27:11 Múltiples cursores\n29:11 Búsqueda y reemplazo\n30:43 Otras configuraciones\n33:20 Configuraciones para React.js\n37:00 Usar la terminal\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nEnlace descarga vscode: https://code.visualstudio.com/\nAtajos Emmet: https://docs.emmet.io/cheat-sheet/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HqE-lGznGac/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HqE-lGznGac/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HqE-lGznGac/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HqE-lGznGac/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HqE-lGznGac/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "vscode",
+        "visual studio code",
+        "code",
+        "live server",
+        "atajos",
+        "snippets",
+        "emmet",
+        "tema",
+        "theme",
+        "material icon",
+        "html",
+        "css",
+        "javascript",
+        "react"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "upcoming",
+      "localized": {
+        "title": "Visual Studio Code desde CERO | Configuración, tips, atajos, extensiones",
+        "description": "Tutorial de Visual Studio Code enfocado en los principiantes. \n\nVSCode es el editor de código más usado a nivel mundial, es gratuito y trae un montón de herramientas. En este video les comparto las configuraciones, tips, atajos, extensiones y mucho más que uso en el día a día. Todo desde cero enfocado en los que están comenzando en el mundo de la programación.\n\n✅ Contenido:\n0:00 Intro\n0:28 Instalar vscode\n1:50 Cambiar íconos y tema\n5:51 Abreviaciones Emmet\n10:54 Live Server\n12:22 Formatear código - Prettier\n15:52 Atajos de teclado\n18:16 Manejo de pestañas\n20:08 Paleta de comandos\n21:50 Programación JavaScript\n25:50 Completamiento de clases CSS\n27:11 Múltiples cursores\n29:11 Búsqueda y reemplazo\n30:43 Otras configuraciones\n33:20 Configuraciones para React.js\n37:00 Usar la terminal\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nEnlace descarga vscode: https://code.visualstudio.com/\nAtajos Emmet: https://docs.emmet.io/cheat-sheet/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT38M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/HqE-lGznGac\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "bMy-mnqBtPk",
     "snippet": {
       "publishedAt": "2022-08-01T18:30:10Z",
