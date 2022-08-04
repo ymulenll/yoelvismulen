@@ -3,7 +3,7 @@
     "kind": "youtube#video",
     "id": "HqE-lGznGac",
     "snippet": {
-      "publishedAt": "2022-08-02T07:22:29Z",
+      "publishedAt": "2022-08-03T16:00:12Z",
       "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
       "title": "Visual Studio Code desde CERO | Configuración, tips, atajos, extensiones",
       "description": "Tutorial de Visual Studio Code enfocado en los principiantes. \n\nVSCode es el editor de código más usado a nivel mundial, es gratuito y trae un montón de herramientas. En este video les comparto las configuraciones, tips, atajos, extensiones y mucho más que uso en el día a día. Todo desde cero enfocado en los que están comenzando en el mundo de la programación.\n\n✅ Contenido:\n0:00 Intro\n0:28 Instalar vscode\n1:50 Cambiar íconos y tema\n5:51 Abreviaciones Emmet\n10:54 Live Server\n12:22 Formatear código - Prettier\n15:52 Atajos de teclado\n18:16 Manejo de pestañas\n20:08 Paleta de comandos\n21:50 Programación JavaScript\n25:50 Completamiento de clases CSS\n27:11 Múltiples cursores\n29:11 Búsqueda y reemplazo\n30:43 Otras configuraciones\n33:20 Configuraciones para React.js\n37:00 Usar la terminal\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nEnlace descarga vscode: https://code.visualstudio.com/\nAtajos Emmet: https://docs.emmet.io/cheat-sheet/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode",
@@ -54,7 +54,7 @@
         "react"
       ],
       "categoryId": "27",
-      "liveBroadcastContent": "upcoming",
+      "liveBroadcastContent": "none",
       "localized": {
         "title": "Visual Studio Code desde CERO | Configuración, tips, atajos, extensiones",
         "description": "Tutorial de Visual Studio Code enfocado en los principiantes. \n\nVSCode es el editor de código más usado a nivel mundial, es gratuito y trae un montón de herramientas. En este video les comparto las configuraciones, tips, atajos, extensiones y mucho más que uso en el día a día. Todo desde cero enfocado en los que están comenzando en el mundo de la programación.\n\n✅ Contenido:\n0:00 Intro\n0:28 Instalar vscode\n1:50 Cambiar íconos y tema\n5:51 Abreviaciones Emmet\n10:54 Live Server\n12:22 Formatear código - Prettier\n15:52 Atajos de teclado\n18:16 Manejo de pestañas\n20:08 Paleta de comandos\n21:50 Programación JavaScript\n25:50 Completamiento de clases CSS\n27:11 Múltiples cursores\n29:11 Búsqueda y reemplazo\n30:43 Otras configuraciones\n33:20 Configuraciones para React.js\n37:00 Usar la terminal\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nEnlace descarga vscode: https://code.visualstudio.com/\nAtajos Emmet: https://docs.emmet.io/cheat-sheet/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
@@ -81,7 +81,7 @@
       "publishedAt": "2022-08-01T18:30:10Z",
       "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
       "title": "Crear Slider (Carrusel) con SwiperJS 👌🏻 | Tutorial desde CERO",
-      "description": "Cómo crear un sliders como los de MercadoLibre, AIRBNB, Uber Eats... Usando la librería Swiper.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://swiperjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript",
+      "description": "Cómo crear un sliders como los de MercadoLibre, AIRBNB, Uber Eats... Usando la librería Swiper.\n\n✅ Contenido:\n0:00 Intro\n1:29 Setup y Layout\n4:14 Configuraciones de Swiper\n15:52 Personalizar con CSS\n27:09 Otras configuraciones\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo final del ejemplo: https://github.com/ymulenll/swiper-demo\nhttps://swiperjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/bMy-mnqBtPk/default.jpg",
@@ -124,7 +124,7 @@
       "liveBroadcastContent": "none",
       "localized": {
         "title": "Crear Slider (Carrusel) con SwiperJS 👌🏻 | Tutorial desde CERO",
-        "description": "Cómo crear un sliders como los de MercadoLibre, AIRBNB, Uber Eats... Usando la librería Swiper.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://swiperjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript"
+        "description": "Cómo crear un sliders como los de MercadoLibre, AIRBNB, Uber Eats... Usando la librería Swiper.\n\n✅ Contenido:\n0:00 Intro\n1:29 Setup y Layout\n4:14 Configuraciones de Swiper\n15:52 Personalizar con CSS\n27:09 Otras configuraciones\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo final del ejemplo: https://github.com/ymulenll/swiper-demo\nhttps://swiperjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript"
       },
       "defaultAudioLanguage": "es-419"
     },
