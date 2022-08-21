@@ -164,6 +164,16 @@
           "url": "https://i.ytimg.com/vi/_EOjiX6RmPE/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_EOjiX6RmPE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_EOjiX6RmPE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yoelvis Mulen { code }",
@@ -523,6 +533,16 @@
           "url": "https://i.ytimg.com/vi/zhigY5FrWJs/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zhigY5FrWJs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zhigY5FrWJs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yoelvis Mulen { code }",
@@ -590,6 +610,16 @@
           "url": "https://i.ytimg.com/vi/X1qo8qEaWLg/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X1qo8qEaWLg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X1qo8qEaWLg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yoelvis Mulen { code }",
