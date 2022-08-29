@@ -1,6 +1,256 @@
 [
   {
     "kind": "youtube#video",
+    "id": "i3CerEkkAmU",
+    "snippet": {
+      "publishedAt": "2022-08-28T23:52:41Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "RTK-Query - Tutorial | Parte 3: Mutations 👾",
+      "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 3 (final): Mutaciones.\n\n📺 Videos relacionados:\nParte 1 - Consultas: https://youtu.be/an2hyrNwCNE\nParte 2 - Configuraciones: https://youtu.be/kC_6YSi6XdE\n\n✅ Contenido:\n0:00 Setup\n1:33 Configurar Mutation\n2:52 Usar mutation hook\n4:46 Invalidations\n7:06 Usar mutation como promise\n7:53 Manejo de errores\n10:22 RTK-Query vs Redux\n \n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nCódigo final: https://github.com/ymulenll/rtk-query-tutorial/tree/final-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i3CerEkkAmU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i3CerEkkAmU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i3CerEkkAmU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i3CerEkkAmU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i3CerEkkAmU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "redux",
+        "rtk",
+        "rtk-query",
+        "react-query",
+        "react",
+        "redux toolkit",
+        "useQuery",
+        "store",
+        "api",
+        "createApi",
+        "reducerPath",
+        "fetch",
+        "baseQuery",
+        "json-server",
+        "pollingInterval",
+        "retry",
+        "isUninitialized",
+        "skip",
+        "useLazyQuery",
+        "useSelector",
+        "isSuccess",
+        "endpoints",
+        "tagTypes",
+        "providesTags",
+        "invalidatesTags",
+        "reset"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "RTK-Query - Tutorial | Parte 3: Mutations 👾",
+        "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 3 (final): Mutaciones.\n\n📺 Videos relacionados:\nParte 1 - Consultas: https://youtu.be/an2hyrNwCNE\nParte 2 - Configuraciones: https://youtu.be/kC_6YSi6XdE\n\n✅ Contenido:\n0:00 Setup\n1:33 Configurar Mutation\n2:52 Usar mutation hook\n4:46 Invalidations\n7:06 Usar mutation como promise\n7:53 Manejo de errores\n10:22 RTK-Query vs Redux\n \n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nCódigo final: https://github.com/ymulenll/rtk-query-tutorial/tree/final-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT12M32S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/i3CerEkkAmU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "id": "kC_6YSi6XdE",
+    "snippet": {
+      "publishedAt": "2022-08-28T23:52:36Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "RTK-Query - Tutorial | Parte 2: Configuraciones ⚙️",
+      "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 2: Configuraciones.\n\n📺 Videos relacionados:\nParte 1 - Consultas: https://youtu.be/an2hyrNwCNE\nParte 3 - Mutaciones: https://youtu.be/i3CerEkkAmU\n\n✅ Contenido: \n0:00 Redux DevTools\n1:33 Configurar caché\n3:24 Revalidaciones\n8:21 Polling\n9:16 Reintentos\n11:14 Omitir consultas\n11:58 Consultas lazy\n14:49 Selectores\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kC_6YSi6XdE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kC_6YSi6XdE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kC_6YSi6XdE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kC_6YSi6XdE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kC_6YSi6XdE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "redux",
+        "rtk",
+        "rtk-query",
+        "react-query",
+        "react",
+        "redux toolkit",
+        "useQuery",
+        "store",
+        "api",
+        "createApi",
+        "reducerPath",
+        "fetch",
+        "baseQuery",
+        "json-server",
+        "keepUnusedDataFor",
+        "refetchOnMountOrArgChange",
+        "refetchOnFocus",
+        "refetchOnReconnect",
+        "pollingInterval",
+        "retry",
+        "isUninitialized",
+        "skip",
+        "useLazyQuery",
+        "useSelector",
+        "isSuccess",
+        "endpoints"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "RTK-Query - Tutorial | Parte 2: Configuraciones ⚙️",
+        "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 2: Configuraciones.\n\n📺 Videos relacionados:\nParte 1 - Consultas: https://youtu.be/an2hyrNwCNE\nParte 3 - Mutaciones: https://youtu.be/i3CerEkkAmU\n\n✅ Contenido: \n0:00 Redux DevTools\n1:33 Configurar caché\n3:24 Revalidaciones\n8:21 Polling\n9:16 Reintentos\n11:14 Omitir consultas\n11:58 Consultas lazy\n14:49 Selectores\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT17M30S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/kC_6YSi6XdE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "id": "an2hyrNwCNE",
+    "snippet": {
+      "publishedAt": "2022-08-28T23:21:09Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "RTK-Query - Tutorial | Redux Toolkit Query desde cero",
+      "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 1: Consultas.\n\n📺 Videos relacionados:\nParte 2 - Configuraciones: https://youtu.be/kC_6YSi6XdE\nParte 3 - Mutaciones: https://youtu.be/i3CerEkkAmU\n\n✅ Contenido:\n0:00 Intro\n0:36 Setup\n4:23 Configurar APIs\n9:39 Configurar redux store\n12:18 Usar query hook\n \n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/an2hyrNwCNE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/an2hyrNwCNE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/an2hyrNwCNE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/an2hyrNwCNE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/an2hyrNwCNE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "redux",
+        "rtk",
+        "rtk-query",
+        "react-query",
+        "react",
+        "redux toolkit",
+        "useQuery",
+        "store",
+        "api",
+        "createApi",
+        "reducerPath",
+        "fetch",
+        "baseQuery",
+        "json-server",
+        "useEffect"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "RTK-Query - Tutorial | Redux Toolkit Query desde cero",
+        "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 1: Consultas.\n\n📺 Videos relacionados:\nParte 2 - Configuraciones: https://youtu.be/kC_6YSi6XdE\nParte 3 - Mutaciones: https://youtu.be/i3CerEkkAmU\n\n✅ Contenido:\n0:00 Intro\n0:36 Setup\n4:23 Configurar APIs\n9:39 Configurar redux store\n12:18 Usar query hook\n \n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT16M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/an2hyrNwCNE\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "HqE-lGznGac",
     "snippet": {
       "publishedAt": "2022-08-03T16:00:12Z",
