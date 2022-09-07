@@ -1,6 +1,83 @@
 [
   {
     "kind": "youtube#video",
+    "id": "BPWpialFWvM",
+    "snippet": {
+      "publishedAt": "2022-09-07T03:05:24Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Cómo depurar (debug) código con vscode 🐞 | Debug Node.js, React, JavaScript",
+      "description": "Cómo depurar código usando Visual Studio Code, tutorial desde CERO. \n\nDepurar el código es una de las habilidades más importantes que debe tener todo programador. En este video les muestro paso a paso cómo depurar proyectos de JavaScript, Node.js y React, pero estos principios los pueden aplicar en casi cualquier lenguaje de programación y editor de código.\n\n✅ Contenido:\n0:00 Intro\n0:34 Setup\n1:31 Ejecutar código\n2:00 Añadir breakpoints\n2:27 Inspeccionar variables\n4:03 Observar expresiones\n4:48 Continuar ejecución\n5:37 Step Over\n6:26 Step Into\n7:07 Step Out\n7:27 Reiniciar ejecución\n8:10 Detener ejecución\n8:40 Run to Line\n9:23 Call Stack\n10:06 Breakpoints\n11:50 Breakpoints condicionales\n12:56 Logpoints\n14:24 Hit Count\n15:39 Debug Console\n16:59 Depurar Node.js\n21:19 Depurar React.js\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BPWpialFWvM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BPWpialFWvM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BPWpialFWvM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BPWpialFWvM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BPWpialFWvM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "vscode",
+        "visual studio code",
+        "code",
+        "nodejs",
+        "step over",
+        "step into",
+        "step out",
+        "restart",
+        "run to cursor",
+        "breakpoints",
+        "conditional breakpoint",
+        "hit count",
+        "debug",
+        "depurar",
+        "react",
+        "launch.json"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "upcoming",
+      "localized": {
+        "title": "Cómo depurar (debug) código con vscode 🐞 | Debug Node.js, React, JavaScript",
+        "description": "Cómo depurar código usando Visual Studio Code, tutorial desde CERO. \n\nDepurar el código es una de las habilidades más importantes que debe tener todo programador. En este video les muestro paso a paso cómo depurar proyectos de JavaScript, Node.js y React, pero estos principios los pueden aplicar en casi cualquier lenguaje de programación y editor de código.\n\n✅ Contenido:\n0:00 Intro\n0:34 Setup\n1:31 Ejecutar código\n2:00 Añadir breakpoints\n2:27 Inspeccionar variables\n4:03 Observar expresiones\n4:48 Continuar ejecución\n5:37 Step Over\n6:26 Step Into\n7:07 Step Out\n7:27 Reiniciar ejecución\n8:10 Detener ejecución\n8:40 Run to Line\n9:23 Call Stack\n10:06 Breakpoints\n11:50 Breakpoints condicionales\n12:56 Logpoints\n14:24 Hit Count\n15:39 Debug Console\n16:59 Depurar Node.js\n21:19 Depurar React.js\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT25M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/BPWpialFWvM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "i3CerEkkAmU",
     "snippet": {
       "publishedAt": "2022-08-28T23:52:41Z",
