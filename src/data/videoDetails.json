@@ -1,6 +1,79 @@
 [
   {
     "kind": "youtube#video",
+    "id": "95IG9wyiyhQ",
+    "snippet": {
+      "publishedAt": "2022-09-25T19:00:11Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 5",
+      "description": "Con CSS Grid podemos tener control total sobre nuestros diseños, en este video muestro cómo maquetar una sección de contacto usando CSS Grid. Además de compartir varios tips.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\nPágina web responsive parte 1: Barra de navegación:  \nhttps://youtu.be/ADbxRybIpH0\n\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte5-contact-inicial\nÍconos: https://1drv.ms/u/s!AntCq49ipgERrNNGTCM0UHlOv1yBxQ?e=5DMeWy\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/95IG9wyiyhQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/95IG9wyiyhQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/95IG9wyiyhQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/95IG9wyiyhQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/95IG9wyiyhQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "tutorial",
+        "html",
+        "css",
+        "contacto",
+        "seccion",
+        "css grid",
+        "grid",
+        "flex",
+        "flexbox",
+        "box-sizing",
+        "border-box",
+        "layout",
+        "grid-template",
+        "grid-area"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 5",
+        "description": "Con CSS Grid podemos tener control total sobre nuestros diseños, en este video muestro cómo maquetar una sección de contacto usando CSS Grid. Además de compartir varios tips.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\nPágina web responsive parte 1: Barra de navegación:  \nhttps://youtu.be/ADbxRybIpH0\n\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte5-contact-inicial\nÍconos: https://1drv.ms/u/s!AntCq49ipgERrNNGTCM0UHlOv1yBxQ?e=5DMeWy\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT34M18S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/95IG9wyiyhQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "BPWpialFWvM",
     "snippet": {
       "publishedAt": "2022-09-07T20:00:12Z",
