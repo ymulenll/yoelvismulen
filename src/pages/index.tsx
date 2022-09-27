@@ -9,17 +9,17 @@ export default function Home() {
           <title>
             Yoelvis Mulen {'{'} code {'}'}
           </title>
-          <link rel="icon" href="/favicon.ico" />
+          <meta name="robots" content="noindex" />
         </Head>
 
-        <section className="flex flex-col items-center justify-center w-full flex-1 px-3 sm:px-20 pb-16 text-center">
-          <h1 className="text-4xl md:text-6xl font-bold">
+        <section className="flex w-full flex-1 flex-col items-center justify-center px-3 pb-16 text-center sm:px-20">
+          <h1 className="text-4xl font-bold md:text-6xl">
             Bienvenido a mi web 👋
           </h1>
 
-          <div className="flex flex-wrap items-center justify-around mt-6 sm:w-full">
+          <div className="mt-6 flex flex-wrap items-center justify-around sm:w-full">
             <Link href="/videos">
-              <a className="p-6 mt-6 text-left border w-full max-w-lg rounded-xl hover:text-blue-600 focus:text-blue-600">
+              <a className="mt-6 w-full max-w-lg rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600">
                 <h2 className="text-2xl font-bold">Videos 📺</h2>
                 <p className="mt-4 text-xl">
                   Videos sobre programación web, AWS y mucho más.
@@ -28,7 +28,7 @@ export default function Home() {
             </Link>
 
             <Link href="/playlists">
-              <a className="p-6 mt-6 text-left border w-full max-w-lg rounded-xl hover:text-blue-600 focus:text-blue-600">
+              <a className="mt-6 w-full max-w-lg rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600">
                 <h2 className="text-2xl font-bold">Series 🍿</h2>
                 <p className="mt-4 text-xl">Series de diferentes tecnologías</p>
               </a>

@@ -1,6 +1,0 @@
-user-agent: *
-Allow: /
-Allow: /videos
-Disallow: /home
-Disallow: /playlists
-Disallow: /about
