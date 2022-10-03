@@ -1,6 +1,88 @@
 [
   {
     "kind": "youtube#video",
+    "id": "QJPQ3XdG11s",
+    "snippet": {
+      "publishedAt": "2022-10-02T13:35:17Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "🚀 Cómo desplegar página web GRATIS | Tutorial usando Netlify y GitHub",
+      "description": "Cómo desplegar gratis una página web hacia internet y configurar formularios, favicon y enlaces de descarga. Para que el proceso sea gratuito y automático, vamos a usar @GitHub y @Netlify.\n\n✅ Contenido:\n0:00 Contexto\n0:45 Publicar en GitHub\n2:15 Desplegar con Netlify\n4:46 Botón de descarga\n6:11 favicon\n8:12 Formulario\n \n📺 Videos relacionados:\nPágina web desde cero: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nGitHub: https://github.com/\nGit: https://git-scm.com/downloads\nNetlify: https://www.netlify.com/\nFavicon: https://favicon.io/favicon-converter/\n\nCódigo fuente de la página web: https://github.com/ymulenll/curriculum-web/tree/parte5-contact-final\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QJPQ3XdG11s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QJPQ3XdG11s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QJPQ3XdG11s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QJPQ3XdG11s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QJPQ3XdG11s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "programación",
+        "tutorial",
+        "netlify",
+        "github",
+        "favicon",
+        "form",
+        "formularios",
+        "free",
+        "gratis",
+        "despliegue",
+        "deployment",
+        "website",
+        "web",
+        "html",
+        "css",
+        "ci",
+        "download",
+        "links",
+        "enlace descarga",
+        "currículum",
+        "cv",
+        "resume"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "es-419",
+      "localized": {
+        "title": "🚀 Cómo desplegar página web GRATIS | Tutorial usando Netlify y GitHub",
+        "description": "Cómo desplegar gratis una página web hacia internet y configurar formularios, favicon y enlaces de descarga. Para que el proceso sea gratuito y automático, vamos a usar @GitHub y @Netlify.\n\n✅ Contenido:\n0:00 Contexto\n0:45 Publicar en GitHub\n2:15 Desplegar con Netlify\n4:46 Botón de descarga\n6:11 favicon\n8:12 Formulario\n \n📺 Videos relacionados:\nPágina web desde cero: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nGitHub: https://github.com/\nGit: https://git-scm.com/downloads\nNetlify: https://www.netlify.com/\nFavicon: https://favicon.io/favicon-converter/\n\nCódigo fuente de la página web: https://github.com/ymulenll/curriculum-web/tree/parte5-contact-final\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT11M58S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/QJPQ3XdG11s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "95IG9wyiyhQ",
     "snippet": {
       "publishedAt": "2022-09-25T19:00:11Z",
