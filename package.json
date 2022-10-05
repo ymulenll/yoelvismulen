@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "updateData": "node src/data/updateData.js"
+    "updateData": "node src/data/updateData.js",
+    "updateDataLocally": "nodenv --env .env.local src/data/updateData.js"
   },
   "dependencies": {
     "@n8tb1t/use-scroll-position": "^2.0.3",
@@ -32,6 +33,7 @@
     "eslint": "^8.20.0",
     "eslint-config-next": "^12.2.3",
     "eslint-config-prettier": "^8.5.0",
+    "node-env-run": "^4.0.2",
     "postcss": "^8.4.14",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",

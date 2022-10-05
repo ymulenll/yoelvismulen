@@ -42,22 +42,34 @@ function updateOutputFile(videoDetails) {
 async function getVideoDetails(playlistItems) {
   const playlistItemChunks = chunks(playlistItems, 50)
 
-  let videoDetails = []
-  for (const playlistItemsChunk of playlistItemChunks) {
-    const videoDetailsPath = `/youtube/v3/videos?part=contentDetails&part=snippet&part=player&maxResults=50&id=${playlistItemsChunk
-      .map((item) => item.contentDetails.videoId)
-      .join(',')}`
-    videoDetailsResult = await httpRequest(videoDetailsPath)
-    videoDetails = videoDetails.concat(videoDetailsResult.items)
-  }
+  const videoDetails = (
+    await Promise.all(playlistItemChunks.map(getVideoChunkDetails))
+  ).flat()
 
-  const videoDetailOmitEtag = videoDetails.map((videoDetail) => {
-    const { etag, ...videoDetailOmitETag } = videoDetail
+  const VideoDetailsFiltered = videoDetails
+    .map(removeETag)
+    .filter(filterOutShorts)
 
-    return videoDetailOmitETag
-  })
+  return VideoDetailsFiltered
+}
 
-  return videoDetailOmitEtag
+function filterOutShorts(videoDetail) {
+  return !videoDetail.snippet?.title.includes('#shorts')
+}
+
+function removeETag(videoDetail) {
+  const { etag, ...videoDetailOmitETag } = videoDetail
+  return videoDetailOmitETag
+}
+
+async function getVideoChunkDetails(playlistItemsChunk) {
+  const videoIds = playlistItemsChunk
+    .map((item) => item.contentDetails.videoId)
+    .join(',')
+  const videoDetailsPath = `/youtube/v3/videos?part=contentDetails&part=snippet&part=player&maxResults=50&id=${videoIds}`
+
+  const videoDetailsResult = await httpRequest(videoDetailsPath)
+  return videoDetailsResult.items
 }
 
 async function getPlaylistItems(playlistId) {
