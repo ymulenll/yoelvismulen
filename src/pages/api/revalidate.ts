@@ -9,6 +9,24 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<any>
 ) {
-  console.dir(req)
-  res.json(req)
+  const { rawHeaders, httpVersion, method, socket, url } = req
+  const { remoteAddress, remoteFamily } = socket
+
+  const print = JSON.stringify(
+    {
+      timestamp: Date.now(),
+      rawHeaders,
+      httpVersion,
+      method,
+      remoteAddress,
+      remoteFamily,
+      url,
+    },
+    null,
+    2
+  )
+
+  console.log(print)
+
+  res.json(print)
 }
