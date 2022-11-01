@@ -1,6 +1,85 @@
 [
   {
     "kind": "youtube#video",
+    "id": "yVrb-V9AnM4",
+    "snippet": {
+      "publishedAt": "2022-10-31T19:15:49Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Cómo hacer Tema Oscuro usando Variables CSS 🌙 | Tutorial",
+      "description": "Cómo hacer un tema oscuro profesional a su página web usando variables css.\n\n✅ Contenido:\n0:00 Intro\n0:42 Usar variables CSS\n3:17 Añadir variantes\n5:42 Ajustar imágenes\n9:44 Ajustar sombras\n12:00 Usar tema del sistema\n13:32 Transiciones\n14:59 Esquema de colores\n15:55 Botones para cambiar tema\n22:00 Seleccionar tema inicial\n24:35 Guardar tema seleccionado\n28:18 Ajustes finales y tips\n\n📺 Videos relacionados:\nPágina web desde cero: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://material.io/design/color/dark-theme.html\nhttps://tailwindcss.com/docs/customizing-colors\n\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte6-deployment\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yVrb-V9AnM4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yVrb-V9AnM4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yVrb-V9AnM4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yVrb-V9AnM4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yVrb-V9AnM4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "tutotial",
+        "var",
+        "css",
+        "html",
+        ":root",
+        "svg",
+        "png",
+        "box-shadow",
+        "javascript",
+        "transition",
+        "color-scheme",
+        "theme",
+        "dark",
+        "light",
+        "localStorage",
+        "nextjs",
+        "dark theme",
+        "tema",
+        "oscuro"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "upcoming",
+      "defaultLanguage": "es",
+      "localized": {
+        "title": "Cómo hacer Tema Oscuro usando Variables CSS 🌙 | Tutorial",
+        "description": "Cómo hacer un tema oscuro profesional a su página web usando variables css.\n\n✅ Contenido:\n0:00 Intro\n0:42 Usar variables CSS\n3:17 Añadir variantes\n5:42 Ajustar imágenes\n9:44 Ajustar sombras\n12:00 Usar tema del sistema\n13:32 Transiciones\n14:59 Esquema de colores\n15:55 Botones para cambiar tema\n22:00 Seleccionar tema inicial\n24:35 Guardar tema seleccionado\n28:18 Ajustes finales y tips\n\n📺 Videos relacionados:\nPágina web desde cero: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://material.io/design/color/dark-theme.html\nhttps://tailwindcss.com/docs/customizing-colors\n\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte6-deployment\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT31M35S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/yVrb-V9AnM4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "QJPQ3XdG11s",
     "snippet": {
       "publishedAt": "2022-10-02T13:35:17Z",
