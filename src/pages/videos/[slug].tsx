@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react'
+import { Suspense, useRef, useState } from 'react'
 import Head from 'next/head'
 import { GetStaticProps, GetStaticPaths } from 'next'
 import {
@@ -43,18 +43,20 @@ export default function Video({ videoData }: Props) {
       <article>
         <div className="mx-auto bg-gray-100 shadow-2xl dark:bg-zinc-800 sm:p-2 md:max-w-5xl">
           <div className="aspect-w-16 aspect-h-9">
-            <ReactPlayer
-              url={`https://www.youtube.com/watch?v=${videoData.id}`}
-              width="100%"
-              height="100%"
-              controls
-              onReady={(player) => {
-                videoPlayerRef.current = player
-              }}
-              playing={playing}
-              onPlay={() => setPlaying(true)}
-              onPause={() => setPlaying(false)}
-            />
+            <Suspense>
+              <ReactPlayer
+                url={`https://www.youtube.com/watch?v=${videoData.id}`}
+                width="100%"
+                height="100%"
+                controls
+                onReady={(player) => {
+                  videoPlayerRef.current = player
+                }}
+                playing={playing}
+                onPlay={() => setPlaying(true)}
+                onPause={() => setPlaying(false)}
+              />
+            </Suspense>
           </div>
           <VideoMetadata video={videoData} />
           <h1

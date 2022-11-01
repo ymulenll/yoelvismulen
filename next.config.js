@@ -11,11 +11,6 @@ module.exports = {
         destination: '/videos',
         permanent: true,
       },
-      {
-        source: '/home',
-        destination: '/videos',
-        permanent: true,
-      },
     ]
   },
   experimental: {
