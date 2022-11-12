@@ -9,7 +9,7 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<any>
 ) {
-  const { rawHeaders, httpVersion, method, socket, url } = req
+  const { rawHeaders, httpVersion, method, socket, url, body, query } = req
   const { remoteAddress, remoteFamily } = socket
 
   const print = JSON.stringify(
@@ -21,6 +21,7 @@ export default function handler(
       remoteAddress,
       remoteFamily,
       url,
+      body
     },
     null,
     2
