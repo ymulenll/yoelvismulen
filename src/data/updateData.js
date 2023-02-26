@@ -1,4 +1,4 @@
-const http = require('https')
+const https = require('https')
 const fs = require('fs')
 
 const key = process.env.YOUTUBE_TOKEN
@@ -18,7 +18,7 @@ const outputFile = process.env.OUTPUT || 'src/data/videoDetails.json'
     updateOutputFile(videoDetails)
   } catch (error) {
     console.error(error)
-    throw error
+    process.exit(1)
   }
 })()
 
@@ -31,7 +31,7 @@ function updateOutputFile(videoDetails) {
   const isDifferent = !file.equals(Buffer.from(videoDetailsString))
 
   if (isDifferent) {
-    fs.writeFileSync(outputFile, JSON.stringify(videoDetails, null, 2))
+    fs.writeFileSync(outputFile, videoDetailsString)
 
     return console.log(`${outputFile} updated`)
   }
@@ -75,20 +75,23 @@ async function getVideoChunkDetails(playlistItemsChunk) {
 async function getPlaylistItems(playlistId) {
   const playlistItemsPath = `/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId=${playlistId}`
 
-  let playlistItemsResult = null
-  let playlistItems = []
+  return getAllPlaylistItems([])
 
-  do {
-    playlistItemsResult = await httpRequest(
-      `${playlistItemsPath}&pageToken=${
-        playlistItemsResult?.nextPageToken ?? ''
-      }`
+  async function getAllPlaylistItems(playlistItems, nextPageToken) {
+    const playlistItemsResult = await httpRequest(
+      `${playlistItemsPath}&pageToken=${nextPageToken ?? ''}`
     )
 
-    playlistItems = playlistItems.concat(playlistItemsResult.items)
-  } while (playlistItemsResult.nextPageToken)
-  return playlistItems
+    return playlistItemsResult.nextPageToken
+      ? getAllPlaylistItems(
+          playlistItemsResult.items,
+          playlistItemsResult.nextPageToken
+        )
+      : playlistItems.concat(playlistItemsResult.items)
+  }
 }
+
+
 
 async function getPlaylistId() {
   const channelDetailsPath = `/youtube/v3/channels?part=contentDetails&id=${channelId}`
@@ -100,10 +103,10 @@ async function getPlaylistId() {
 }
 
 // return chunks from array
-const chunks = (array, size) => {
+const chunks = (array, chunkSize) => {
   const chunkedArray = []
-  for (let index = 0; index < array.length; index += size) {
-    chunkedArray.push(array.slice(index, size + index))
+  for (let index = 0; index < array.length; index += chunkSize) {
+    chunkedArray.push(array.slice(index, chunkSize + index))
   }
   return chunkedArray
 }
@@ -112,33 +115,28 @@ const chunks = (array, size) => {
  * @param {string} path
  */
 function httpRequest(path) {
-  /** @type http.RequestOptions */
-  const options = {
-    method: 'GET',
-    hostname: 'www.googleapis.com',
-    port: 443,
-    path: `${path}&key=${key}`,
-  }
+  const url = `https://www.googleapis.com:443/${path}&key=${key}`
 
   return new Promise((resolve, reject) => {
-    const req = http.request(options, function (res) {
-      const chunks = []
+    https
+      .get(url, async (res) => {
+        if (res.statusCode !== 200) {
+          res.resume()
+          reject(
+            `Failed to fetch the resource ${path}, Status Code: ${res.statusCode}, Status Message: ${res.statusMessage}`
+          )
+          return
+        }
 
-      res.on('data', function (chunk) {
-        chunks.push(chunk)
+        res.setEncoding('utf-8')
+        let data = ''
+        for await (const chunk of res) {
+          data += chunk
+        }
+        resolve(JSON.parse(data))
       })
-
-      res.on('end', function () {
-        const body = Buffer.concat(chunks)
-
-        resolve(JSON.parse(body.toString()))
+      .on('error', (error) => {
+        reject(error)
       })
-    })
-
-    req.on('error', (error) => {
-      reject(error)
-    })
-
-    req.end()
   })
 }
