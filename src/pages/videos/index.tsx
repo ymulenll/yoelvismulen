@@ -31,6 +31,7 @@ export default function Videos({ videosData, descriptionTagsMap }: Props) {
           content="Videos sobre programación web, AWS y mucho más."
         />
         <title>Videos</title>
+        <link rel="canonical" href="https://yoelvismulen.com/videos" />
       </Head>
       <div>
         <h1
