@@ -3,7 +3,7 @@
     "kind": "youtube#video",
     "id": "MxSF2GPz4HE",
     "snippet": {
-      "publishedAt": "2023-04-22T01:40:49Z",
+      "publishedAt": "2023-04-22T15:00:09Z",
       "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
       "title": "AWS Serverless desde Cero | Lambda, API Gateway, DynamoDB | Tutorial",
       "description": "Aprende a crear APIs en AWS usando los servicios Lambda, API Gateway, DynamoDB y otros. Te enseño desde cero, para principiantes.\n\n✅ Contenido:\n0:00 Intro\n1:44 Lambda\n6:52 API Gateway\n11:43 DynamoDB\n17:50 CloudWatch\n18:40 IAM Roles\n22:48 Cómo funciona Lambda\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo de la lambda para crear book: https://gist.github.com/ymulenll/67d7ae1ffb768d5d3deda1747dc4d4c8\nAWS SDK para JavaScript: https://github.com/aws/aws-sdk-js-v3\nPutItem referencia: \nLambda: https://docs.aws.amazon.com/lambda/latest/dg/lambda-nodejs.html\nhttps://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html\n\nMuchas gracias por ver este video, espero le haya sido útil.",
@@ -57,7 +57,7 @@
         "restful"
       ],
       "categoryId": "27",
-      "liveBroadcastContent": "upcoming",
+      "liveBroadcastContent": "none",
       "localized": {
         "title": "AWS Serverless desde Cero | Lambda, API Gateway, DynamoDB | Tutorial",
         "description": "Aprende a crear APIs en AWS usando los servicios Lambda, API Gateway, DynamoDB y otros. Te enseño desde cero, para principiantes.\n\n✅ Contenido:\n0:00 Intro\n1:44 Lambda\n6:52 API Gateway\n11:43 DynamoDB\n17:50 CloudWatch\n18:40 IAM Roles\n22:48 Cómo funciona Lambda\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo de la lambda para crear book: https://gist.github.com/ymulenll/67d7ae1ffb768d5d3deda1747dc4d4c8\nAWS SDK para JavaScript: https://github.com/aws/aws-sdk-js-v3\nPutItem referencia: \nLambda: https://docs.aws.amazon.com/lambda/latest/dg/lambda-nodejs.html\nhttps://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html\n\nMuchas gracias por ver este video, espero le haya sido útil."
