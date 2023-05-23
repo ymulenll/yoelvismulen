@@ -5,8 +5,8 @@
     "snippet": {
       "publishedAt": "2023-05-21T18:00:09Z",
       "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
-      "title": "AWS Lambda desde cero | Cómo funciona Lambda - Ventajas - Límites - Casos de uso",
-      "description": "Muestro en la práctica qué es Lambda, cómo funciona, cómo usarlo, sus limitaciones, casos de uso y mucho más.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nAWS SDK Documentación sobre Amazon Translate: https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/preview/client/translate/command/TranslateTextCommand/\n\nMuchas gracias por ver este video, espero le haya sido útil.",
+      "title": "AWS Lambda desde cero | Cómo funciona - Características - Límites - Casos de uso",
+      "description": "Muestro en la práctica qué es Lambda, cómo funciona, cómo usarlo, sus limitaciones, casos de uso y mucho más.\n\n✅ Contenido:\n0:00 Intro\n0:29 Qué es Lambda\n3:10 Cómo escribir el código\n4:39 Event Triggers\n6:07 Tests\n7:44 Cómo funciona Lambda\n14:24 Configuraciones (RAM, Storage)\n17:48 Ejemplo usando AWS-SDK\n23:00 CloudWatch Logs\n24:11 Roles y Permisos\n26:33 Modificar payload\n28:26 Variables de ambiente\n29:29 Function URLs\n31:26 Límites\n35:05 Casos de uso\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nAWS SDK Documentación sobre Amazon Translate: https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/preview/client/translate/command/TranslateTextCommand/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/2tZgke7QCYU/default.jpg",
@@ -56,13 +56,14 @@
         "timeout",
         "límites",
         "events",
-        "payload"
+        "payload",
+        "tutorial"
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
       "localized": {
-        "title": "AWS Lambda desde cero | Cómo funciona Lambda - Ventajas - Límites - Casos de uso",
-        "description": "Muestro en la práctica qué es Lambda, cómo funciona, cómo usarlo, sus limitaciones, casos de uso y mucho más.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nAWS SDK Documentación sobre Amazon Translate: https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/preview/client/translate/command/TranslateTextCommand/\n\nMuchas gracias por ver este video, espero le haya sido útil."
+        "title": "AWS Lambda desde cero | Cómo funciona - Características - Límites - Casos de uso",
+        "description": "Muestro en la práctica qué es Lambda, cómo funciona, cómo usarlo, sus limitaciones, casos de uso y mucho más.\n\n✅ Contenido:\n0:00 Intro\n0:29 Qué es Lambda\n3:10 Cómo escribir el código\n4:39 Event Triggers\n6:07 Tests\n7:44 Cómo funciona Lambda\n14:24 Configuraciones (RAM, Storage)\n17:48 Ejemplo usando AWS-SDK\n23:00 CloudWatch Logs\n24:11 Roles y Permisos\n26:33 Modificar payload\n28:26 Variables de ambiente\n29:29 Function URLs\n31:26 Límites\n35:05 Casos de uso\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nAWS SDK Documentación sobre Amazon Translate: https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/preview/client/translate/command/TranslateTextCommand/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
       },
       "defaultAudioLanguage": "es-419"
     },
