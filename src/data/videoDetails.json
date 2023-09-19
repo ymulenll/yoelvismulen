@@ -1,6 +1,79 @@
 [
   {
     "kind": "youtube#video",
+    "id": "OEnSQcN5Nz4",
+    "snippet": {
+      "publishedAt": "2023-09-08T23:00:07Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Introducción a React para principiantes | Fundamentos",
+      "description": "Aprende React desde cero, en la práctica, qué es, cómo funciona, ejemplos y mucho más.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n👉 Sígueme en 𝕏:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\nreact: https://react.dev/\nvite: https://vitejs.dev/guide/\nnodejs: https://nodejs.org/\nHTML to JSX: https://transform.tools/html-to-jsx\nbabel: https://babeljs.io/repl\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OEnSQcN5Nz4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OEnSQcN5Nz4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OEnSQcN5Nz4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OEnSQcN5Nz4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OEnSQcN5Nz4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "tutotial",
+        "react",
+        "reactjs",
+        "vite",
+        "component",
+        "style",
+        "jsx",
+        "npm",
+        "nodejs",
+        "javascript",
+        "dom",
+        "css",
+        "children",
+        "español"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Introducción a React para principiantes | Fundamentos",
+        "description": "Aprende React desde cero, en la práctica, qué es, cómo funciona, ejemplos y mucho más.\n\n✅ Contenido:\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n👉 Sígueme en 𝕏:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\nreact: https://react.dev/\nvite: https://vitejs.dev/guide/\nnodejs: https://nodejs.org/\nHTML to JSX: https://transform.tools/html-to-jsx\nbabel: https://babeljs.io/repl\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT38M48S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/OEnSQcN5Nz4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "2tZgke7QCYU",
     "snippet": {
       "publishedAt": "2023-05-21T18:00:09Z",
@@ -2915,7 +2988,7 @@
       "defaultAudioLanguage": "es-419"
     },
     "contentDetails": {
-      "duration": "PT1H11M15S",
+      "duration": "PT1H11M14S",
       "dimension": "2d",
       "definition": "hd",
       "caption": "false",
