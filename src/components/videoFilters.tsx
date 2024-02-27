@@ -32,7 +32,7 @@ export const VideoFilters = ({ tags }: Props) => {
     (tagEntry, index) => !filterSelectedEntryIfNotVisible(tagEntry, index)
   )
 
-  const entriesDisplay = [...selectedTagEntry, ...restOfEntries].slice(
+  const entriesDisplay = [...restOfEntries, ...selectedTagEntry].slice(
     0,
     tagDisplayNumber
   )
