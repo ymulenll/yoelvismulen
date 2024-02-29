@@ -15,7 +15,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v4
         with:
-          node-version: 18.x
+          node-version: 20.x
 
       - name: Run update data script
         run: export YOUTUBE_TOKEN=${{ secrets.YOUTUBE_TOKEN }} && npm run updateData
