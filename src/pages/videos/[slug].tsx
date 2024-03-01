@@ -6,7 +6,6 @@ import {
   getYouTubeVideoData,
   YTVideo,
 } from '../../lib/videos'
-import cx from 'classnames'
 import VideoDescription from '../../components/videoDescription'
 import VideoMetadata from '../../components/videoMetadata'
 import dynamic from 'next/dynamic'
@@ -60,9 +59,9 @@ export default function Video({ videoData }: Props) {
           </div>
           <VideoMetadata video={videoData} />
           <h1
-            className={cx(
+            className={
               'border-b-2 border-dashed p-5 text-2xl font-semibold text-gray-700 dark:text-inherit sm:text-left'
-            )}
+            }
           >
             {videoData.title}
           </h1>
