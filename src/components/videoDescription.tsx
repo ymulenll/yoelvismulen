@@ -16,7 +16,7 @@ export default function VideoDescription({
   children: description,
   handleSeekTo,
   className,
-}: Props): ReactElement {
+}: Props) {
   return (
     <div className={cx('whitespace-pre-wrap', className)}>
       {parse(tokenify(description), {

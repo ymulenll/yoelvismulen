@@ -33,7 +33,7 @@ export function Navbar() {
     <nav>
       <animated.ul
         className={
-          'fixed border-t sm:border-t-0 sm:border-r flex w-screen bottom-0 justify-around sm:justify-start items-stretch sm:items-start sm:flex-col sm:w-auto sm:h-full shadow-2xl bg-white overflow-visible z-10'
+          'fixed bottom-0 z-10 flex w-screen items-stretch justify-around overflow-visible border-t bg-white shadow-2xl sm:h-full sm:w-auto sm:flex-col sm:items-start sm:justify-start sm:border-r sm:border-t-0'
         }
         style={props}
       >
@@ -85,10 +85,10 @@ const Icon = ({
           <a
             aria-label={title}
             className={cx(
-              'group transition flex items-center px-6 py-3 sm:px-4 sm:py-6 cursor-pointer hover-hover:hover:bg-gray-100 flex-shrink-0',
+              'group flex flex-shrink-0 cursor-pointer items-center px-6 py-3 transition sm:px-4 sm:py-6 hover-hover:hover:bg-gray-100',
               { 'text-orange-500': isActive, 'text-gray-400': !isActive },
               {
-                'relative before:absolute before:block before:h-[1.5px] before:w-full sm:before:w-[3px] sm:before:h-full before:bg-orange-400 before:bg-opacity-80 before:left-0 before:top-0':
+                'relative before:absolute before:left-0 before:top-0 before:block before:h-[1.5px] before:w-full before:bg-orange-400 before:bg-opacity-80 sm:before:h-full sm:before:w-[3px]':
                   isActive,
               }
             )}
@@ -100,8 +100,8 @@ const Icon = ({
       <div
         role="tooltip"
         className={cx(
-          'absolute sm:top-[50%] sm:-translate-y-1/2 sm:ml-1 w-max sm:left-full z-20',
-          'text-white bg-gray-500 font-mono text-opacity-80 px-4 py-1 rounded transition duration-300 opacity-0 hover-hover:peer-hover:opacity-100'
+          'absolute z-20 w-max sm:left-full sm:top-[50%] sm:ml-1 sm:-translate-y-1/2',
+          'rounded bg-gray-500 px-4 py-1 font-mono text-white text-opacity-80 opacity-0 transition duration-300 hover-hover:peer-hover:opacity-100'
         )}
       >
         {title}
@@ -122,7 +122,7 @@ const LogoImage = ({ href }: { href: string }) => {
         width={32}
         height={32}
         layout="fixed"
-        className={cx('rounded-full filter grayscale', {
+        className={cx('rounded-full grayscale filter', {
           'filter-none': isActive,
         })}
       />
