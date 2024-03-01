@@ -1,6 +1,66 @@
 [
   {
     "kind": "youtube#video",
+    "id": "dWcl_EQvbIM",
+    "snippet": {
+      "publishedAt": "2024-03-01T02:20:30Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Extensión fundamental para Git #vscode #git",
+      "description": "Cómo usar GitLens en Visual Studio Code.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "tutotial"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Extensión fundamental para Git #vscode #git",
+        "description": "Cómo usar GitLens en Visual Studio Code."
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT1M",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/dWcl_EQvbIM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "UBh_xb9JgSI",
     "snippet": {
       "publishedAt": "2024-02-28T16:30:20Z",
