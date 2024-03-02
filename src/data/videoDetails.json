@@ -1,53 +1,59 @@
 [
   {
     "kind": "youtube#video",
-    "id": "dWcl_EQvbIM",
+    "id": "ALUQUAwYSP4",
     "snippet": {
-      "publishedAt": "2024-03-01T02:20:30Z",
+      "publishedAt": "2024-03-01T15:53:00Z",
       "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
-      "title": "Extensión fundamental para Git #vscode #git",
-      "description": "Cómo usar GitLens en Visual Studio Code.",
+      "title": "🚀 Configuraciones PRO para Visual Studio Code (2024)",
+      "description": "Hola amigos, llevo muchos años usando Visual Studio Code de manera profesional, y después de probar decenas de configuraciones, hoy les quiero mostrar las que uso actualmente en mis proyectos y les voy a explicar para que sirve cada una, además de muchos tips sobre vscode que de seguro les servirán.\n\n✅ Contenido:\n0:00 Intro\n0:11 Paneles\n2:40 Guardar y formatear\n5:11 Brackets\n6:50 Sticky\n8:56 Pin tabs\n9:44 Zen mode\n11:04 File nesting\n12:11 Terminal\n13:57 Spell Checker\n14:41 Git\n16:21 Inlay Hints\n17:54 Perfiles\n \n📺 Videos relacionados:\nhttps://youtu.be/UBh_xb9JgSI\nhttps://youtu.be/HqE-lGznGac\nhttps://youtu.be/BPWpialFWvM\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nMi configuración de vscode: \nhttps://gist.github.com/ymulenll/ba7e350a3b9b707320afbbdfd785c511\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/default.jpg",
+          "url": "https://i.ytimg.com/vi/ALUQUAwYSP4/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ALUQUAwYSP4/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ALUQUAwYSP4/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/ALUQUAwYSP4/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/dWcl_EQvbIM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ALUQUAwYSP4/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
       },
       "channelTitle": "Yoelvis Mulen { code }",
       "tags": [
-        "tutotial"
+        "tutotial",
+        "vscode",
+        "configuraciones",
+        "git",
+        "sticky",
+        "bracket",
+        "settings"
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
       "localized": {
-        "title": "Extensión fundamental para Git #vscode #git",
-        "description": "Cómo usar GitLens en Visual Studio Code."
+        "title": "🚀 Configuraciones PRO para Visual Studio Code (2024)",
+        "description": "Hola amigos, llevo muchos años usando Visual Studio Code de manera profesional, y después de probar decenas de configuraciones, hoy les quiero mostrar las que uso actualmente en mis proyectos y les voy a explicar para que sirve cada una, además de muchos tips sobre vscode que de seguro les servirán.\n\n✅ Contenido:\n0:00 Intro\n0:11 Paneles\n2:40 Guardar y formatear\n5:11 Brackets\n6:50 Sticky\n8:56 Pin tabs\n9:44 Zen mode\n11:04 File nesting\n12:11 Terminal\n13:57 Spell Checker\n14:41 Git\n16:21 Inlay Hints\n17:54 Perfiles\n \n📺 Videos relacionados:\nhttps://youtu.be/UBh_xb9JgSI\nhttps://youtu.be/HqE-lGznGac\nhttps://youtu.be/BPWpialFWvM\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nMi configuración de vscode: \nhttps://gist.github.com/ymulenll/ba7e350a3b9b707320afbbdfd785c511\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
       },
       "defaultAudioLanguage": "es-419"
     },
     "contentDetails": {
-      "duration": "PT1M",
+      "duration": "PT19M11S",
       "dimension": "2d",
       "definition": "hd",
       "caption": "false",
@@ -56,7 +62,7 @@
       "projection": "rectangular"
     },
     "player": {
-      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/dWcl_EQvbIM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ALUQUAwYSP4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
     }
   },
   {
@@ -66,7 +72,7 @@
       "publishedAt": "2024-02-28T16:30:20Z",
       "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
       "title": "🔥 Mejores Extensiones de Visual Studio Code (2024)",
-      "description": "Hola amigos, llevo muchos años usando Visual Studio Code de manera profesional, y después de probar decenas de extensiones y configuraciones, hoy les quiero mostrar las que uso actualmente en mis proyectos y les voy a explicar para que sirve cada una, además de muchos tips sobre vscode que de seguro les servirán.\n\n✅ Contenido:\n0:00 Intro\n0:31 AWS Toolkit\n1:31 Cobalt2 Theme Tweaked\n2:00 Code Spell Checker\n3:30 Dotenv Official\n4:27 Error Lens\n4:58 ESLint\n5:53 Fig\n6:20 GitHub Copilot\n8:29 GitHub Pull Requests\n10:30 GitLens\n11:31 Image preview\n11:58 IntelliCode\n12:48 Live Share\n13:45 Material Icon Theme\n14:00 Paste JSON as Code\n15:05 Prettier\n16:03 React 17+/Redux/React-Query Snippets\n16:35 SonarLint\n17:55 Tailwind CSS IntelliSense\n18:23 Template String Converter\n18:56 Version Lens\n20:09 Expo Tools y React Native Tools\n20:28 Jest\n \n📺 Videos relacionados:\nVisual Studio Code desde CERO: https://youtu.be/HqE-lGznGac\nCómo depurar (debug) código con vscode: https://youtu.be/BPWpialFWvM\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode",
+      "description": "Hola amigos, llevo muchos años usando Visual Studio Code de manera profesional, y después de probar decenas de extensiones y configuraciones, hoy les quiero mostrar las que uso actualmente en mis proyectos y les voy a explicar para que sirve cada una, además de muchos tips sobre vscode que de seguro les servirán.\n\n✅ Contenido:\n0:00 Intro\n0:31 AWS Toolkit\n1:31 Cobalt2 Theme Tweaked\n2:00 Code Spell Checker\n3:30 DotEnv Official\n4:27 Error Lens\n4:58 ESLint\n5:53 Fig\n6:20 GitHub Copilot\n8:29 GitHub Pull Requests\n10:30 GitLens\n11:31 Image preview\n11:58 IntelliCode\n12:48 Live Share\n13:45 Material Icon Theme\n14:00 Paste JSON as Code\n15:05 Prettier\n16:03 React 17+/Redux/React-Query Snippets\n16:35 SonarLint\n17:55 Tailwind CSS IntelliSense\n18:23 Template String Converter\n18:56 Version Lens\n20:09 Expo Tools y React Native Tools\n20:28 Jest\n \n📺 Videos relacionados:\nhttps://youtu.be/ALUQUAwYSP4\nhttps://youtu.be/HqE-lGznGac\nhttps://youtu.be/BPWpialFWvM\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/UBh_xb9JgSI/default.jpg",
@@ -107,7 +113,7 @@
       "liveBroadcastContent": "none",
       "localized": {
         "title": "🔥 Mejores Extensiones de Visual Studio Code (2024)",
-        "description": "Hola amigos, llevo muchos años usando Visual Studio Code de manera profesional, y después de probar decenas de extensiones y configuraciones, hoy les quiero mostrar las que uso actualmente en mis proyectos y les voy a explicar para que sirve cada una, además de muchos tips sobre vscode que de seguro les servirán.\n\n✅ Contenido:\n0:00 Intro\n0:31 AWS Toolkit\n1:31 Cobalt2 Theme Tweaked\n2:00 Code Spell Checker\n3:30 Dotenv Official\n4:27 Error Lens\n4:58 ESLint\n5:53 Fig\n6:20 GitHub Copilot\n8:29 GitHub Pull Requests\n10:30 GitLens\n11:31 Image preview\n11:58 IntelliCode\n12:48 Live Share\n13:45 Material Icon Theme\n14:00 Paste JSON as Code\n15:05 Prettier\n16:03 React 17+/Redux/React-Query Snippets\n16:35 SonarLint\n17:55 Tailwind CSS IntelliSense\n18:23 Template String Converter\n18:56 Version Lens\n20:09 Expo Tools y React Native Tools\n20:28 Jest\n \n📺 Videos relacionados:\nVisual Studio Code desde CERO: https://youtu.be/HqE-lGznGac\nCómo depurar (debug) código con vscode: https://youtu.be/BPWpialFWvM\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
+        "description": "Hola amigos, llevo muchos años usando Visual Studio Code de manera profesional, y después de probar decenas de extensiones y configuraciones, hoy les quiero mostrar las que uso actualmente en mis proyectos y les voy a explicar para que sirve cada una, además de muchos tips sobre vscode que de seguro les servirán.\n\n✅ Contenido:\n0:00 Intro\n0:31 AWS Toolkit\n1:31 Cobalt2 Theme Tweaked\n2:00 Code Spell Checker\n3:30 DotEnv Official\n4:27 Error Lens\n4:58 ESLint\n5:53 Fig\n6:20 GitHub Copilot\n8:29 GitHub Pull Requests\n10:30 GitLens\n11:31 Image preview\n11:58 IntelliCode\n12:48 Live Share\n13:45 Material Icon Theme\n14:00 Paste JSON as Code\n15:05 Prettier\n16:03 React 17+/Redux/React-Query Snippets\n16:35 SonarLint\n17:55 Tailwind CSS IntelliSense\n18:23 Template String Converter\n18:56 Version Lens\n20:09 Expo Tools y React Native Tools\n20:28 Jest\n \n📺 Videos relacionados:\nhttps://youtu.be/ALUQUAwYSP4\nhttps://youtu.be/HqE-lGznGac\nhttps://youtu.be/BPWpialFWvM\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
       },
       "defaultAudioLanguage": "es-419"
     },
