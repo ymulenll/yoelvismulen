@@ -1,6 +1,73 @@
 [
   {
     "kind": "youtube#video",
+    "id": "2819CPaYC0Y",
+    "snippet": {
+      "publishedAt": "2024-03-06T13:28:31Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "Crea una API Serverless en menos de 5 minutos ☁️",
+      "description": "Les muestro cómo crear una API Serverless  y desplegarla hacia AWS usando Application Composer. Todo desde Visual Studio Code con la ayuda de la extensión AWS Toolkit.\n\n✅ Contenido:\n0:00 Requisitos\n0:50 Template con Application Composer\n2:51 Función Lambda\n3:25 Desplegar Stack\n4:06 Probando API\n \n📺 Videos relacionados:\nCómo configurar la AWS CLI: https://youtu.be/5Ek9TxluVd8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\nSígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌 Enlaces:\nCódigo de la función lambda: \nhttps://gist.github.com/ymulenll/31a79a0e694bf2e42c42f668b83a4244\n\nDocumentación:\nAWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html\nAWS SAM CLI: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html\nApplication Composer: https://aws.amazon.com/application-composer/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2819CPaYC0Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2819CPaYC0Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2819CPaYC0Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2819CPaYC0Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2819CPaYC0Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "tutotial",
+        "aws",
+        "application",
+        "composer",
+        "aws toolkit",
+        "vscode",
+        "visual studio code",
+        "cloud"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Crea una API Serverless en menos de 5 minutos ☁️",
+        "description": "Les muestro cómo crear una API Serverless  y desplegarla hacia AWS usando Application Composer. Todo desde Visual Studio Code con la ayuda de la extensión AWS Toolkit.\n\n✅ Contenido:\n0:00 Requisitos\n0:50 Template con Application Composer\n2:51 Función Lambda\n3:25 Desplegar Stack\n4:06 Probando API\n \n📺 Videos relacionados:\nCómo configurar la AWS CLI: https://youtu.be/5Ek9TxluVd8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\nSígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌 Enlaces:\nCódigo de la función lambda: \nhttps://gist.github.com/ymulenll/31a79a0e694bf2e42c42f668b83a4244\n\nDocumentación:\nAWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html\nAWS SAM CLI: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html\nApplication Composer: https://aws.amazon.com/application-composer/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT7M28S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/2819CPaYC0Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "5Ek9TxluVd8",
     "snippet": {
       "publishedAt": "2024-03-06T01:05:14Z",
