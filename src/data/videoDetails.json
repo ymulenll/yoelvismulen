@@ -1,6 +1,66 @@
 [
   {
     "kind": "youtube#video",
+    "id": "0N0DgRdYHew",
+    "snippet": {
+      "publishedAt": "2024-05-01T12:40:34Z",
+      "channelId": "UCp28AG2NaDuzyVaAT--2NGQ",
+      "title": "👉 Lleva tu infraestructura a CÓDIGO | AWS CloudFormation - Tutorial",
+      "description": "Usar la Consola de AWS está muy bien cuando estamos aprendiendo los conceptos de la nube, pero una vez quieres dedicarte profesionalmente o crear proyectos reales, debes llevar todo ese conocimiento a código. \nLlevar la infraestructura a código te ofrece un montón de ventajas, y permiten que lo que estás haciendo sea eficiente, se pueda replicar y escalar.\nEn este video te muestro cómo usar CloudFormation que es el servicio de AWS para manejar la infraestructura mediante código.\n\n✅ Contenido:\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo de ejemplo: https://github.com/ymulenll/cloudformation-tutorial\n\nSnippets: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html\nReferencia: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html\nFunciones intrínsecas: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html\n\nSAM: https://aws.amazon.com/serverless/sam/\nServerless: https://www.serverless.com/framework/docs\nCDK: https://aws.amazon.com/cdk/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0N0DgRdYHew/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0N0DgRdYHew/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0N0DgRdYHew/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0N0DgRdYHew/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0N0DgRdYHew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yoelvis Mulen { code }",
+      "tags": [
+        "tutotial"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "👉 Lleva tu infraestructura a CÓDIGO | AWS CloudFormation - Tutorial",
+        "description": "Usar la Consola de AWS está muy bien cuando estamos aprendiendo los conceptos de la nube, pero una vez quieres dedicarte profesionalmente o crear proyectos reales, debes llevar todo ese conocimiento a código. \nLlevar la infraestructura a código te ofrece un montón de ventajas, y permiten que lo que estás haciendo sea eficiente, se pueda replicar y escalar.\nEn este video te muestro cómo usar CloudFormation que es el servicio de AWS para manejar la infraestructura mediante código.\n\n✅ Contenido:\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo de ejemplo: https://github.com/ymulenll/cloudformation-tutorial\n\nSnippets: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html\nReferencia: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html\nFunciones intrínsecas: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html\n\nSAM: https://aws.amazon.com/serverless/sam/\nServerless: https://www.serverless.com/framework/docs\nCDK: https://aws.amazon.com/cdk/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT15M34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "player": {
+      "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/0N0DgRdYHew\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "id": "2819CPaYC0Y",
     "snippet": {
       "publishedAt": "2024-03-06T13:28:31Z",
