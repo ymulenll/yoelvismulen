@@ -8,7 +8,7 @@ type Props = {
 
 export default function Tag({ children: tag, quantity }: Props) {
   const { query, push } = useRouter()
-  const tagFilter = query?.tags as string
+  const tagFilter = query?.tags
   const isInQuery = tagFilter === tag
 
   const { color, background } =
@@ -20,17 +20,16 @@ export default function Tag({ children: tag, quantity }: Props) {
         e.preventDefault()
         return push(isInQuery ? '/videos' : `/videos?tags=${tag}`)
       }}
-      className={cx('mb-2 mr-2 hover:filter hover:brightness-125', {
+      className={cx('mb-2 mr-2 hover:brightness-125 hover:filter', {
         'ring-2 ring-orange-500 ring-offset-1': isInQuery,
       })}
       role="tab"
       aria-selected={isInQuery}
     >
       <div
-        className={cx(
-          'px-2 py-1 italic text-lg sm:text-xl inline-block',
-          'hover:shadow-md'
-        )}
+        className={
+          'inline-block px-2 py-1 text-lg italic hover:shadow-md sm:text-xl'
+        }
         style={{ color, background }}
       >
         #{tag}
