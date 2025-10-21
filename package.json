@@ -26,7 +26,7 @@
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/line-clamp": "^0.4.2",
-    "@types/node": "^18.8.2",
+    "@types/node": "^22.x",
     "@types/react": "^18.0.21",
     "autoprefixer": "^10.4.12",
     "cross-env": "^7.0.3",
