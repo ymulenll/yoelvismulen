@@ -26,13 +26,6 @@ export default function Home() {
                 </p>
               </a>
             </Link>
-
-            <Link href="/playlists">
-              <a className="mt-6 w-full max-w-lg rounded-xl border p-6 text-left hover:text-blue-600 focus:text-blue-600">
-                <h2 className="text-2xl font-bold">Series 🍿</h2>
-                <p className="mt-4 text-xl">Series de diferentes tecnologías</p>
-              </a>
-            </Link>
           </div>
         </section>
       </div>
