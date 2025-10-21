@@ -40,6 +40,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "👉 Lleva tu infraestructura a CÓDIGO | AWS CloudFormation - Tutorial",
         "description": "Usar la Consola de AWS está muy bien cuando estamos aprendiendo los conceptos de la nube, pero una vez quieres dedicarte profesionalmente o crear proyectos reales, debes llevar todo ese conocimiento a código. \nLlevar la infraestructura a código te ofrece un montón de ventajas, y permiten que lo que estás haciendo sea eficiente, se pueda replicar y escalar.\nEn este video te muestro cómo usar CloudFormation que es el servicio de AWS para manejar la infraestructura mediante código.\n\n✅ Contenido:\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo de ejemplo: https://github.com/ymulenll/cloudformation-tutorial\n\nSnippets: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html\nReferencia: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html\nFunciones intrínsecas: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html\n\nSAM: https://aws.amazon.com/serverless/sam/\nServerless: https://www.serverless.com/framework/docs\nCDK: https://aws.amazon.com/cdk/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -107,6 +108,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Crea una API Serverless en menos de 5 minutos ☁️",
         "description": "Les muestro cómo crear una API Serverless  y desplegarla hacia AWS usando Application Composer. Todo desde Visual Studio Code con la ayuda de la extensión AWS Toolkit.\n\n✅ Contenido:\n0:00 Requisitos\n0:50 Template con Application Composer\n2:51 Función Lambda\n3:25 Desplegar Stack\n4:06 Probando API\n \n📺 Videos relacionados:\nCómo configurar la AWS CLI: https://youtu.be/5Ek9TxluVd8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\nSígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌 Enlaces:\nCódigo de la función lambda: \nhttps://gist.github.com/ymulenll/31a79a0e694bf2e42c42f668b83a4244\n\nDocumentación:\nAWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html\nAWS SAM CLI: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html\nApplication Composer: https://aws.amazon.com/application-composer/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -167,6 +169,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo configurar la AWS CLI | Configuración de perfiles AWS | Acceso programático",
         "description": "Les muestro cómo configurar perfiles de AWS en su ordenador, para que puedan usar los servicios de AWS desde la CLI o SDKs de AWS, muy útil cuando están desarrollando scripts o código.\n\n✅ Contenido:\n0:00 Intro\n0:29 Instalar AWS CLI\n1:10 Crear Usuario IAM\n2:33 Crear Access Key\n3:30 Configurando perfil por defecto\n4:38 Configurando otros perfiles\n5:41 Archivos de configuración\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\nSígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌 Enlaces:\nAWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -233,6 +236,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "🚀 Configuraciones PRO para Visual Studio Code (2024)",
         "description": "Hola amigos, llevo muchos años usando Visual Studio Code de manera profesional, y después de probar decenas de configuraciones, hoy les quiero mostrar las que uso actualmente en mis proyectos y les voy a explicar para que sirve cada una, además de muchos tips sobre vscode que de seguro les servirán.\n\n✅ Contenido:\n0:00 Intro\n0:11 Paneles\n2:40 Guardar y formatear\n5:11 Brackets\n6:50 Sticky\n8:56 Pin tabs\n9:44 Zen mode\n11:04 File nesting\n12:11 Terminal\n13:57 Spell Checker\n14:41 Git\n16:21 Inlay Hints\n17:54 Perfiles\n \n📺 Videos relacionados:\nhttps://youtu.be/UBh_xb9JgSI\nhttps://youtu.be/HqE-lGznGac\nhttps://youtu.be/BPWpialFWvM\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nMi configuración de vscode: \nhttps://gist.github.com/ymulenll/ba7e350a3b9b707320afbbdfd785c511\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
@@ -298,6 +302,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "🔥 Mejores Extensiones de Visual Studio Code (2024)",
         "description": "Hola amigos, llevo muchos años usando Visual Studio Code de manera profesional, y después de probar decenas de extensiones y configuraciones, hoy les quiero mostrar las que uso actualmente en mis proyectos y les voy a explicar para que sirve cada una, además de muchos tips sobre vscode que de seguro les servirán.\n\n✅ Contenido:\n0:00 Intro\n0:31 AWS Toolkit\n1:31 Cobalt2 Theme Tweaked\n2:00 Code Spell Checker\n3:30 DotEnv Official\n4:27 Error Lens\n4:58 ESLint\n5:53 Fig\n6:20 GitHub Copilot\n8:29 GitHub Pull Requests\n10:30 GitLens\n11:31 Image preview\n11:58 IntelliCode\n12:48 Live Share\n13:45 Material Icon Theme\n14:00 Paste JSON as Code\n15:05 Prettier\n16:03 React 17+/Redux/React-Query Snippets\n16:35 SonarLint\n17:55 Tailwind CSS IntelliSense\n18:23 Template String Converter\n18:56 Version Lens\n20:09 Expo Tools y React Native Tools\n20:28 Jest\n \n📺 Videos relacionados:\nhttps://youtu.be/ALUQUAwYSP4\nhttps://youtu.be/HqE-lGznGac\nhttps://youtu.be/BPWpialFWvM\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en 𝕏:\nhttps://x.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
@@ -371,6 +376,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Introducción a React para principiantes | Fundamentos",
         "description": "Aprende React desde cero, en la práctica, qué es, cómo funciona, ejemplos y mucho más.\n\n✅ Contenido:\n0:00 Intro\n1:13 Vite\n10:01 Elementos JSX\n20:40 Componentes\n34:46 Exportar e importar\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n👉 Sígueme en 𝕏:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\nreact: https://react.dev/\nvite: https://vitejs.dev/guide/\nnodejs: https://nodejs.org/\nHTML to JSX: https://transform.tools/html-to-jsx\nbabel: https://babeljs.io/repl\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -452,6 +458,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "AWS Lambda desde cero | Cómo funciona - Características - Límites - Casos de uso",
         "description": "Muestro en la práctica qué es Lambda, cómo funciona, cómo usarlo, sus limitaciones, casos de uso y mucho más.\n\n✅ Contenido:\n0:00 Intro\n0:29 Qué es Lambda\n3:10 Cómo escribir el código\n4:39 Event Triggers\n6:07 Tests\n7:44 Cómo funciona Lambda\n14:24 Configuraciones (RAM, Storage)\n17:48 Ejemplo usando AWS-SDK\n23:00 CloudWatch Logs\n24:11 Roles y Permisos\n26:33 Modificar payload\n28:26 Variables de ambiente\n29:29 Function URLs\n31:26 Límites\n35:05 Casos de uso\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nAWS SDK Documentación sobre Amazon Translate: https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/preview/client/translate/command/TranslateTextCommand/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -530,6 +537,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "DNS - Cómo funciona💡| Registrar dominios, alojar páginas web.",
         "description": "Qué es y cómo funciona el Sistema de Nombres de Dominio (DNS), cómo registrar dominios, configurar DNS Records y mucho más.\n\n✅ Contenido:\n0:00 Servidores Web\n2:11 DNS\n3:24 Cómo funciona\n8:15 TTL\n10:48 Registrar Dominios\n15:45 Demo\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nRoot Servers: https://www.iana.org/domains/root/servers\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#internet"
@@ -608,6 +616,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "AWS Serverless desde Cero | Lambda, API Gateway, DynamoDB | Tutorial",
         "description": "Aprende a crear APIs en AWS usando los servicios Lambda, API Gateway, DynamoDB y otros. Te enseño desde cero, para principiantes.\n\n✅ Contenido:\n0:00 Intro\n1:44 Lambda\n6:52 API Gateway\n11:43 DynamoDB\n17:50 CloudWatch\n18:40 IAM Roles\n22:48 Cómo funciona Lambda\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo de la lambda para crear book: https://gist.github.com/ymulenll/67d7ae1ffb768d5d3deda1747dc4d4c8\nAWS SDK para JavaScript: https://github.com/aws/aws-sdk-js-v3\nPutItem referencia: \nLambda: https://docs.aws.amazon.com/lambda/latest/dg/lambda-nodejs.html\nhttps://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_PutItem.html\n\nMuchas gracias por ver este video, espero le haya sido útil.\n\n#aws"
@@ -842,6 +851,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Sección de contacto con CSS Grid 🔥 | Página web desde cero - parte 6",
         "description": "Con CSS Grid podemos tener control total sobre nuestros diseños, en este video muestro cómo maquetar una sección de contacto usando CSS Grid. Además de compartir varios tips.\n\n✅ Contenido:\n0:00 Intro\n1:00 HTML\n9:30 CSS Mobile\n23:03 CSS Desktop\n \n📺 Videos relacionados:\nTodos los videos de la serie: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte5-contact-inicial\nÍconos: https://1drv.ms/u/s!AntCq49ipgERrNNGTCM0UHlOv1yBxQ?e=5DMeWy\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css"
@@ -919,6 +929,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo depurar (debug) código con vscode 🐞 | Debug Node.js, React, JavaScript",
         "description": "Cómo depurar código usando Visual Studio Code, tutorial desde CERO. \n\nDepurar el código es una de las habilidades más importantes que debe tener todo programador. En este video les muestro paso a paso cómo depurar proyectos de JavaScript, Node.js y React, pero estos principios los pueden aplicar en casi cualquier lenguaje de programación y editor de código.\n\n✅ Contenido:\n0:00 Intro\n0:34 Setup\n1:31 Ejecutar código\n2:00 Añadir breakpoints\n2:27 Inspeccionar variables\n4:03 Observar expresiones (WATCH)\n4:48 Continuar ejecución\n5:37 Step Over\n6:26 Step Into\n7:07 Step Out\n7:27 Reiniciar ejecución\n8:10 Detener ejecución\n8:40 Run to Line\n9:23 CALL STACK\n10:06 BREAKPOINTS\n11:50 Breakpoints condicionales\n12:56 Logpoints\n14:24 Hit Count\n15:39 Debug Console\n16:59 Depurar Node.js\n21:19 Depurar React.js\n \n📺 Videos relacionados:\nConfigura vscode desde CERO: https://youtu.be/HqE-lGznGac\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo de ejemplo: https://gist.github.com/ymulenll/8d6eb64eac34c446980b70e7cc7c509f\nServidor Node.js - express: https://github.com/ymulenll/nodejs-express-simple-server\nProyecto React: https://github.com/ymulenll/movies-curso-react\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
@@ -1006,6 +1017,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "RTK-Query - Tutorial | Parte 3: Mutations 👾",
         "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 3 (final): Mutaciones.\n\n📺 Videos relacionados:\nParte 1 - Consultas: https://youtu.be/an2hyrNwCNE\nParte 2 - Configuraciones: https://youtu.be/kC_6YSi6XdE\n\n✅ Contenido:\n0:00 Setup\n1:33 Configurar Mutation\n2:52 Usar mutation hook\n4:46 Invalidations\n7:06 Usar mutation como promise\n7:53 Manejo de errores\n10:22 RTK-Query vs Redux\n \n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nCódigo final: https://github.com/ymulenll/rtk-query-tutorial/tree/final-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -1093,6 +1105,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "RTK-Query - Tutorial | Parte 2: Configuraciones ⚙️",
         "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 2: Configuraciones.\n\n📺 Videos relacionados:\nParte 1 - Consultas: https://youtu.be/an2hyrNwCNE\nParte 3 - Mutaciones: https://youtu.be/i3CerEkkAmU\n\n✅ Contenido: \n0:00 Redux DevTools\n1:33 Configurar caché\n3:24 Revalidaciones\n8:21 Polling\n9:16 Reintentos\n11:14 Omitir consultas\n11:58 Consultas lazy\n14:49 Selectores\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -1169,6 +1182,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "RTK-Query - Tutorial | Redux Toolkit Query desde cero",
         "description": "Tutorial de Redux Toolkit Query (RTK-Query) desde cero. Parte 1: Consultas.\n\n📺 Videos relacionados:\nParte 2 - Configuraciones: https://youtu.be/kC_6YSi6XdE\nParte 3 - Mutaciones: https://youtu.be/i3CerEkkAmU\n\n✅ Contenido:\n0:00 Intro\n0:36 Setup\n4:23 Configurar APIs\n9:39 Configurar redux store\n12:18 Usar query hook\n \n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/rtk-query-tutorial/tree/initial-code\nDocumentación de RTK-Query: https://redux-toolkit.js.org/tutorials/overview\nRedux DevTools: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -1244,6 +1258,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Visual Studio Code desde CERO | Configuración, tips, atajos, extensiones",
         "description": "Tutorial de Visual Studio Code enfocado en los principiantes. \n\nVSCode es el editor de código más usado a nivel mundial, es gratuito y trae un montón de herramientas. En este video les comparto las configuraciones, tips, atajos, extensiones y mucho más que uso en el día a día. Todo desde cero enfocado en los que están comenzando en el mundo de la programación.\n\n✅ Contenido:\n0:00 Intro\n0:28 Instalar vscode\n1:50 Cambiar íconos y tema\n5:51 Abreviaciones Emmet\n10:54 Live Server\n12:22 Formatear código - Prettier\n15:52 Atajos de teclado\n18:16 Manejo de pestañas\n20:08 Paleta de comandos\n21:50 Programación JavaScript\n25:50 Completamiento de clases CSS\n27:11 Múltiples cursores\n29:11 Búsqueda y reemplazo\n30:43 Otras configuraciones\n33:20 Configuraciones para React.js\n36:23 Usar la terminal\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nEnlace descarga vscode: https://code.visualstudio.com/\nAtajos Emmet: https://docs.emmet.io/cheat-sheet/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#vscode"
@@ -1311,6 +1326,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Crear Slider (Carrusel) con SwiperJS 👌🏻 | Tutorial desde CERO",
         "description": "Cómo crear un sliders como los de MercadoLibre, AIRBNB, Uber Eats... Usando la librería Swiper.\n\n✅ Contenido:\n0:00 Intro\n1:29 Setup y Layout\n4:14 Configuraciones de Swiper\n15:52 Personalizar con CSS\n27:09 Otras configuraciones\n \n📺 Videos relacionados:\n\n👀 Les sugiero pongan el video en 1080p o más para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo final del ejemplo: https://github.com/ymulenll/swiper-demo\nhttps://swiperjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript"
@@ -1387,6 +1403,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Migrar de redux a Redux Toolkit (RTK) 🚀 | Tutorial paso a paso",
         "description": "Les comparto mi experiencia de cómo migrar un proyecto de redux hacia redux toolkit. Hace unos días migré hacia redux toolkit un proyecto que estaba hecho con redux de la forma tradicional. En este video les muestro paso a paso cómo hacer ese tipo de migraciones y las ventajas que trae el uso de redux toolkit.\n\n✅ Contenido:\n0:00 Introducción\n0:28 Proyecto inicial\n3:31 Problemas con redux\n4:39 Instalar Redux-Toolkit\n5:40 Refactorizar Redux hacia Redux Toolkit\n11:55 Configurar store\n13:46 Añadir tipos a los reducers\n16:05 \"Mutar\" estado usando IMMER\n18:30 Tipos y hooks para TypeScript\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo inicial: https://github.com/ymulenll/todos-rtk\ncódigo final: https://github.com/ymulenll/todos-rtk/tree/redux-toolkit-migration\ndocumentación: https://redux-toolkit.js.org/introduction/getting-started\nredux dev-tools para google chrome: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -1462,6 +1479,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "✅ Configura una VPN 💰GRATIS💰 en la nube (AWS)",
         "description": "Te muestro cómo configurar y usar un servidor VPN gratis en Amazon Web Services\n \n📺 Videos relacionados:\nCómo crear una cuenta 💲GRATIS💲 en AWS 🚀 y alerta de facturación 🔔 \nhttps://youtu.be/5AQb1AQ4mz8\n\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -1547,6 +1565,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "🔥 Amazon RDS - Tutorial | Bases de Datos Relacionales en AWS ☁️ | AWS desde cero - Parte 10",
         "description": "Cómo usar el servicio Amazon RDS para configurar, operar y escalar bases de datos relacionales en Amazon Web Services.\n\n✅ Contenido:\n0:00 Intro\n0:57 EC2 vs RDS\n2:47 Seleccionar región\n3:43 Motores de BD soportados vs Aurora\n5:36 Capa gratuita (Free-Tier)\n6:14 Despliegue en múltiples AZ\n8:43 Credenciales maestras\n9:05 Instance Class\n10:07 Almacenamiento\n11:33 Conectividad\n14:12 Autenticación\n14:44 BD inicial, grupo de parámetros y opciones\n15:56 Backups y mantenimiento\n17:46 Precios\n22:11 Security Groups\n22:25 Conectarse a la BD\n24:54 Monitoreo\n25:40 Modificar la BD\n26:52 Backups vs snapshots\n28:26 Réplicas de lectura\n32:37 Eliminar DB y snapshots\n33:40 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/rds\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -1608,6 +1627,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo cerrar cuenta de AWS y abrir otra con el mismo email",
         "description": "Qué hacer cuando se vence la capa gratuita de AWS y queremos seguir probando los servicios. Les muestro cómo podemos abrir una nueva cuenta sin tener que usar un correo electrónico diferente.\n\n✅ Contenido:\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -1680,6 +1700,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo desplegar APP de React 💰GRATIS💰 con GitHub y Netlify 🚀 | Tutorial desde CERO",
         "description": "Te muestro cómo desplegar aplicación de React usando GitHub y Netlify. Vamos a configurar variables de ambiente y veremos cómo funciona la integración continua. \n\n✅ Contenido:\n0:00 Inicializar repositorio\n2:17 Variables de ambiente\n6:23 .gitignore\n7:47 Publicar a GitHub\n9:30 Desplegar en Netlify\n12:26 Configuración adicional y CI\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\ngithub: https://github.com/\ngit: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git\ncreate-react-app: https://create-react-app.dev/docs/adding-custom-environment-variables/\nnetlify: https://www.netlify.com/\nproyecto react de ejemplo: https://github.com/ymulenll/movies-curso-react\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -1757,6 +1778,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "✅ Scroll Infinito con React-Query - useInfiniteQuery | Migrando web de películas a react-query",
         "description": "Cómo usar scroll infinito usando el hook useInfiniteQuery de react-query.\n\n✅ Contenido:\n \n📺 Videos relacionados:\nReact Query Tutorial - Parte 1: https://youtu.be/lNkAJCoXg6I\nReact Query Tutorial - Parte 2: https://youtu.be/X1qo8qEaWLg\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/movies-curso-react/tree/react-router-v6-update\nCódigo final: https://github.com/ymulenll/movies-curso-react/tree/migrate-to-react-query\nDocumentación: https://react-query.tanstack.com/guides/infinite-queries\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -1851,6 +1873,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "React-Query Mutations Tutorial | Actualizar datos del servidor de forma simple y eficiente 🚀",
         "description": "Curso de react-query desde cero. Parte 2: mutations.\n \nHace más de 1 año vengo usando la librería react-query y me ha simplificado y mejorado muchísimo la forma en la que manejo los datos del servidor desde React.\n\n📺 Videos relacionados:\nReact Query Tutorial - Parte 1: https://youtu.be/lNkAJCoXg6I\n\n✅ Contenido:\n0:00 Setup \n1:00 useMutation hook\n3:10 invalidar caché\n4:23 isSuccess y reset\n5:48 onSuccess de la mutation\n7:18 modificar caché con setQueryData\n9:26 Refactorizar a custom hooks\n13:15 Extras\n13:58 react-query vs redux\n15:00 React-Query vs SWR, Apollo y RTK Query\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo inicial: https://github.com/ymulenll/react-query-tutorial/tree/initial-project\ncódigo final: https://github.com/ymulenll/react-query-tutorial/tree/final-queries\ndocumentación: https://react-query.tanstack.com/\n\nNota: La clave de las queries actualmente puede ser un String o un Array, pero en la próxima versión de react-query, será obligatorio usar array, por eso estoy usando Arrays en este tutorial.\nreferencia: https://github.com/tannerlinsley/react-query/blob/alpha/docs/src/pages/guides/migrating-to-react-query-4.md#query-keys-and-mutation-keys-need-to-be-an-array\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -1940,6 +1963,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "React-Query Tutorial | Consultar APIs, caché y sincronización de forma simple y eficiente 🚀",
         "description": "Curso de react-query desde cero. Parte 2: mutations.\n \nHace más de 1 año vengo usando la librería react-query y me ha simplificado y mejorado muchísimo la forma en la que manejo los datos del servidor desde React.\n\n📺 Videos relacionados:\nReact Query Tutorial - Parte 2: https://youtu.be/X1qo8qEaWLg\n\n✅ Contenido:\n0:00 Setup\n6:27 Instalar react-query\n7:50 useQuery hook\n12:51 dev tools\n13:49 patrón stale-while-revalidate\n16:46 Refetch en background\n18:25 staleTime y cacheTime\n21:19 configuración global\n22:17 consultas deshabilitadas \n25:59 useQueryClient hook\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo inicial: https://github.com/ymulenll/react-query-tutorial/tree/initial-project\ndocumentación: https://react-query.tanstack.com/\n\nNota: La clave de las queries actualmente puede ser un String o un Array, pero en la próxima versión de react-query, será obligatorio usar array, por eso estoy usando Arrays en este tutorial.\nreferencia: https://github.com/tannerlinsley/react-query/blob/alpha/docs/src/pages/guides/migrating-to-react-query-4.md#query-keys-and-mutation-keys-need-to-be-an-array\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -2020,6 +2044,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Posicionamiento CSS - Guía desde cero | CSS Position en la práctica",
         "description": "Todo sobre position static, relative, absolute, fixed y sticky con ejemplos prácticos.\n\n✅ Contenido:\n0:00 Setup\n1:00 position static\n1:27 position relative\n3:41 position absolute\n6:28 position fixed\n10:10 position sticky\n15:51 z-index\n16:32 Resumen\n \n📺 Videos relacionados:\nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncodepen con el código inicial: \nhttps://codepen.io/ymulenll/pen/MWEJdoB\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css"
@@ -2093,6 +2118,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo hacer las certificaciones de AWS en ESPAÑOL | Paso a paso + tips",
         "description": "La mayoría de las certificaciones de Amazon Web Services ya se pueden hacer en español, te muestro paso a paso cómo agendarte. Además, que si la quieres hacer en inglés, te muestro como obtener 30 minutos extra para hacer el examen.\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\nhttps://aws.amazon.com/certification/\nhttps://www.aws.training/Certification\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -2167,6 +2193,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "React Router v6 - Guía práctica desde CERO | Tutorial",
         "description": "Cómo usar react-router-dom v6 y migrar desde react-router-dom v5.\n\n✅ Contenido:\n0:00 Intro y Setup\n2:33 Enrutamiento con BrowserRouter, Routes y Route\n6:29 Redireccionar usando Navigate\n9:54 Barra de navegación usando Link\n11:31 Layout usando Outlet\n14:58 Crear listado de usuarios\n16:51 Parámetros de ruta con useParams\n22:25 Movernos programáticamente con useNavigate\n25:44 Parámetros de consulta con useSearchParams\n32:10 Rutas anidadas\n37:29 Resaltar enlace activo con NavLink\n39:35 El hook useLocation\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦 Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\nUsuarios con datos para el ejemplo: \nhttps://gist.github.com/ymulenll/76e124759ed0ff40791a1173cd4580bf\nCódigo final:\nhttps://github.com/ymulenll/react-router-v6-demo\n\nDocumentación:\nhttps://reactrouter.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -2244,6 +2271,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Migrando a React Router v6 | React.js desde CERO | Creando web de películas - Tutorial",
         "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo migrar a la última versión de la libraría react-router-dom. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/react-router-v6-update\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
@@ -2330,6 +2358,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Amazon CloudFront - Tutorial 🚀 | Distribuye archivos globalmente 🌏 | AWS desde cero - Parte 9",
         "description": "Cómo usar el CDN de Amazon para distribuir archivos y páginas web estáticas a nivel global. Aprende a manejar una caché compartida del lado del servidor para acelerar x 10+ la entrega de contenidos 🚀\n\n✅ Contenido:\n0:00 Resumen del video sobre S3\n1:25 Funcionamiento de CloudFront\n4:14 Precios\n6:30 Crear Distribución\n13:11 Problemas de caché\n16:21 Invalidations\n19:13 Configurar Cache-Control\n24:39 Invalidar caché vs versionar archivos\n27:14 Páginas de errores\n28:55 Restringir acceso desde S3\n31:23 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/cloudfront\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -2403,6 +2432,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Scroll Infinito, debounce y tips | React.js desde CERO | Creando web de películas - Parte 4",
         "description": "Cómo implementar scroll infinito en React.js. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\nReact es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\n👨‍💻 Código fuente del ejemplo:\ninitial: https://github.com/ymulenll/movies-curso-react/tree/parte3\nfinal: https://github.com/ymulenll/movies-curso-react/tree/parte4\n\n✅ Contenido:\n0:00 Código inicial\n9:22 Scroll Infinito\n33:33 Búsqueda con debounce\n43:15 Otras mejoras\n\n🧾Docs:\nAPI de películas: https://developers.themoviedb.org/3\nObtener token para usar la API: https://www.themoviedb.org/settings/api\nReact Infinite Scroll: https://www.npmjs.com/package/react-infinite-scroll-component\nuseDebounce Hook: https://usehooks.com/useDebounce/\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
@@ -2484,6 +2514,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo Alojar Archivos y Páginas Web Estáticas en Amazon S3 | AWS desde cero - Parte 8",
         "description": "Cómo guardar archivos en AWS usando AWS S3, además de hostear una página web estática. Precios y clases de almacenamiento.\n\n✅ Contenido:\n0:00 Qué es S3\n1:51 Crear Buckets y Objetos\n6:49 Listas de Control de Acceso\n8:29 Precios y Free-Tier\n10:53 AWS Pricing Calculator\n12:15 Clases de almacenamiento\n19:58 Configuración del ciclo de vida\n22:26 Alojar sitio web estático\n25:44 Políticas de bucket\n28:25 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/s3/pricing/\nhttps://calculator.aws/#/createCalculator/S3\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -2573,6 +2604,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Balanceo de Carga ⚖ y Auto Scaling en AWS 🚀 | AWS desde cero - Parte 7",
         "description": "Elastic Load Balancer y Auto Scaling Group en la práctica. \nCómo crear servidores Node.js en AWS y replicarlos según la demanda, así como distribuir y balancear el tráfico entrante entre ellos.\n\n✅ Contenido:\n0:00 Creación de servidor Node.js\n6:47 Vertical Scaling vs Horizontal Scaling\n9:32 Balanceadores de carga\n15:55 Auto Scaling\n30:37 Preguntas de examen \n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del servidor Node.js: https://github.com/ymulenll/hello-nodejs\nDistribuciones Node.js: https://github.com/nodesource/distributions\nDocumentación: https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-dg.pdf\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -2666,6 +2698,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo manejar redes virtuales en la nube 🌐 - Servicio VPC | AWS desde cero - Parte 6",
         "description": "Aprende a crear redes virtuales privadas en AWS usando el servicio VPC.\n\n✅ Contenido:\n0:00 Regiones y Zonas de Disponibilidad\n1:46 VPC\n3:06 CIDR Blocks\n6:56 Creación de VPC y Subredes\n11:12 Seguridad: Security Groups vs NACL\n15:04 Conectividad: IP Públicas, Internet Gateway y Route Tables\n23:29 NAT Gateway para subredes privadas\n26:53 Conexión VPN, AWS Direct Connect y Peering Connection\n29:56 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/vpc/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -2757,6 +2790,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Servicio EC2 de AWS desde CERO | Hostear un servidor Node.js en AWS | AWS desde cero - Parte 5",
         "description": "Les muestro paso a paso cómo alojar un servidor web en Amazon Web Services, así como los conceptos fundamentales y opciones de compra para reducir gastos en proyectos reales. Todo con un enfoque práctico y con lo necesario para aprobar las certificaciones.\n\n✅ Contenido:\n0:00 Introducción\n2:42 Lanzar instancias EC2\n3:56 Amazon Machine Images (AMI)\n5:25 Tipos de instancias\n8:44 Almacenamiento\n11:02 Security Groups y Clave privada\n15:16 Elastic IP\n18:10 Conexión a la instancia\n20:12 Configuración de servidor web Node.js\n25:50 Creación de custom AMI\n27:41 Terminar servicios\n29:36 Opciones de compra\n37:41 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/ec2/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -2830,6 +2864,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo añadir DRAG and DROP en React usando react-beautiful-dnd | Tutorial",
         "description": "Añade dinamismo a los listados permitiendo arrastrar y soltar sus elementos, con hermosas animaciones y accesibilidad. Te muestro cómo lograrlo usando la librería gratuita de Atlassian \"react-beautiful-dnd\".\n\n✅ Contenido:\n0:00 Maquetado\n5:06 Uso de react-beautiful-dnd\n \n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\ncódigo: https://github.com/ymulenll/react-beautiful-dnd-demo\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#reactjs"
@@ -2905,6 +2940,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Conecta enlaces del menú con secciones de la página | Página web desde cero - parte 5",
         "description": "Les muestro cómo ir a una sección dentro de una página web al hacer click en un enlace, además de activar elementos del menú al hacer scroll por las diferentes secciones. \nVamos a hacer uso del IntersectionObserver de JavaScript para lograr la conexión entre las secciones y los enlaces.\n\n✅ Contenido:\n \n📺 Videos relacionados:\nTodos los videos de la serie: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\nSiguiente video: \nhttps://youtu.be/95IG9wyiyhQ\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte3-experiences\nCódigo final: https://github.com/ymulenll/curriculum-web/tree/parte5-contact-inicial\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript"
@@ -2987,6 +3023,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Maquetado responsive en ZIG-ZAG con 🔥 CSS GRID 🔥 | Página web parte 4 - Experiencias",
         "description": "Vamos a usar CSS Grid para hacer un diseño en zig-zag y varias técnicas como posicionamiento y pseudo elementos para conseguir  el maquetado web responsive y mobile first de la sección de experiencias de una página web.\n\n✅ Contenido:\n0:00 Introducción\n00:59 HTML\n06:33 CSS para móviles\n12:18 CSS zig-zag para escritorio\n \n📺 Videos relacionados:\nTodos los videos de la serie: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\nSiguiente video: \nhttps://youtu.be/e14LvRFfjTg\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte2-profile-and-skills\nCódigo final: https://github.com/ymulenll/curriculum-web/tree/parte3-experiences\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css"
@@ -3065,6 +3102,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Maquetado responsive y mobile first 📱➡💻 usando Flexbox 🚀 | Página web parte 3 - Perfil y Habilidades",
         "description": "Vamos a maquetar diferentes partes de una página web moderna y responsive, usando la práctica mobile first dónde nos centramos en hacer primero la web para dispositivos móviles y después lo adaptamos a dispositivos de escritorio. Vamos a usar sobre todo CSS flexbox y les dejaré varios tips que espero les sean útiles.\n\n✅ Contenido:\n0:00 Introducción\n1:52 HTML de sección perfil\n6:38 CSS de sección perfil para móviles\n21:35 CSS de sección perfil para escritorio\n32:05 HTML de la sección habilidades\n33:59 CSS de sección habilidades\n \n📺 Videos relacionados:\nTodos los videos de la serie: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\nSiguiente video: \nhttps://youtu.be/xXyvlgjpQJo\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte1.1-menu-effects\nCódigo final: https://github.com/ymulenll/curriculum-web/tree/parte2-profile-and-skills\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css"
@@ -3150,6 +3188,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Pseudo elementos ::before y ::after en la práctica | Página web parte 2 - efectos de menú",
         "description": "Les muestro cómo sacarle provecho a los pseudo elementos de CSS ::before y ::after con un ejemplo práctico, usando como base la página web que venimos construyendo desde cero.\n \n📺 Videos relacionados:\nTodos los videos de la serie: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\nSiguiente video: \nhttps://youtu.be/ZOC7BjMDfq0\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente del ejemplo:\nCódigo inicial: https://github.com/ymulenll/curriculum-web/tree/parte1-header\nCódigo final: https://github.com/ymulenll/curriculum-web/tree/parte1.1-menu-effects\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css"
@@ -3229,6 +3268,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Página web responsive desde CERO 🚀 | parte 1: Barra de navegación usando flexbox",
         "description": "Les muestro cómo crear una página web responsive desde cero, vamos a comenzar por la barra de navegación donde usaremos mucho flexbox y posicionamiento en CSS 3.\n\n✅ Contenido:\n0:00 Introducción\n1:20 Estructura HTML\n7:39 normalize.css y fuentes\n10:14 Estilos globales y variables css\n14:00 CSS para dispositivos de escritorio\n26:40 CSS para dispositivos móviles\n \n📺 Videos relacionados\nTodos los videos de la serie: \nhttps://youtube.com/playlist?list=PL9T-KKyKXNClKYVq2vwjIXzn9wyNs3XtC\n\nSiguiente video: \nhttps://youtu.be/qa4oWn3Zvpk\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente del ejemplo:\nhttps://github.com/ymulenll/curriculum-web/tree/parte1-header\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css"
@@ -3299,6 +3339,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Formularios y custom hooks | React.js desde CERO | Creando web de películas - Parte 3",
         "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo hacer manejo de formularios en React. Seguiremos a partir del ejemplo de las directas pasadas que pueden encontrar acá:\nhttps://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte3\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
@@ -3369,6 +3410,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Routing y Hooks | Aprende React.js desde CERO | Creando web de películas - Parte 2",
         "description": "React es la librería más usada para construir interfases de usuario y cuenta con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\nEn este video aprenderemos cómo usar el Routing, Hooks y manejo de formularios en React. Seguiremos a partir del ejemplo de la directa pasada que pueden encontrar acá:\nhttps://youtu.be/hdgUDN1sgtA\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte2\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
@@ -3446,6 +3488,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "AWS IAM | Primeros pasos con AWS - Manejo de identidad | AWS desde cero Parte 4",
         "description": "Les muestro cómo usar el servicio para la gestión de acceso e identidad en AWS (IAM), cómo crear y manejar usuarios, grupos, roles, policies, configurar MFA, BUENAS PRÁCTICAS y mucho más.\n\n✅ Contenido:\n0:00 Introducción\n2:12 Iniciar sesión con usuario root\n3:47 Polies\n5:28 Usuarios IAM\n8:30 Grupos de usuarios\n11:54 Password policy\n13:25 Roles\n16:25 Proveedores de Identidad\n17:51 Buenas prácticas y Multi Factor Authentication\n21:06 Iniciar sesión con el usuario IAM\n23:30 Preguntas de examen\n \n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -3511,6 +3554,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Aprende React.js desde CERO | Creando web de películas",
         "description": "React es una tecnología con muchísima demanda laboral, en este directo quiero introducirte al mundo de React construyendo una web de películas. Curso de React desde CERO.\n\n👨‍💻 Código fuente del ejemplo:\nhttps://github.com/ymulenll/movies-curso-react/tree/parte1\n\nGist con el json de las películas:\nhttps://gist.github.com/ymulenll/e9bcdee18151d17ba745b0d93d447359\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n#reactjs"
@@ -3582,6 +3626,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Barra de navegación responsive y accesible con HTML, CSS y JS | Diseño adaptativo - flexbox",
         "description": "Les comparto cómo crear una navbar responsive y 100% accesible usando flexbox. Además de muchos tips y buenas prácticas.\n\n✔ Contenido:\n0:00 Introducción\n0:44 Estructura HTML\n5:08 CSS para escritorio\n16:12 CSS para móviles\n34:10 Mejoras de accesibilidad\n \n📺 Videos relacionados\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/responsive-navbar-yt/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#html #css #javascript"
@@ -3643,10 +3688,12 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Webpack 5 | Code Splitting y optimizaciones para producción",
         "description": "Veremos cómo optimizar un proyecto para producción usando code splitting para extraer los scripts de terceros y los css hacia archivos fuera de nuestro empaquetado principal, para sacarle provecho a la cache de los navegadores.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
-      }
+      },
+      "defaultAudioLanguage": "es"
     },
     "contentDetails": {
       "duration": "PT5M36S",
@@ -3709,10 +3756,12 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Webpack 5 | Configuración de webpack-dev-server y React fast refresh",
         "description": "Veremos cómo configurar webpack-dev-server y solucionar los problemas que tiene con webpack 5. Además configurar react fast refresh y los source map.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
-      }
+      },
+      "defaultAudioLanguage": "es"
     },
     "contentDetails": {
       "duration": "PT15M29S",
@@ -3775,10 +3824,12 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Webpack 5 | Configuración de Sass, CSS e Imágenes",
         "description": "Cómo configurar Sass, Css e imágenes con webpack 5.\n\nVeremos cómo usar el sass-loader, style-loader y css-loader, y cómo configurar las imágenes que con webpack 5 es mucho más fácil.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
-      }
+      },
+      "defaultAudioLanguage": "es"
     },
     "contentDetails": {
       "duration": "PT5M58S",
@@ -3846,10 +3897,12 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Webpack 5 | Configuración y Polyfill con Babel.js",
         "description": "Aprende a usar Webpack 5 configurando un proyecto de React, vamos a crear las 5 configuraciones básicas de webpack (input, output, mode, loaders y plugins), además que usaremos Babel.js para compilar el código jsx a javascript y añadir polyfill con core-js.\n\n* Este video es un clip, pueden encontrar el video completo entrando al siguiente enlace:\nhttps://youtu.be/97Ajv8-NRVY\n\n#webpack"
-      }
+      },
+      "defaultAudioLanguage": "es"
     },
     "contentDetails": {
       "duration": "PT23M40S",
@@ -3916,6 +3969,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "React.js | Configuración con Webpack 5 y Babel 7 - Tutorial Actualizado",
         "description": "Aprende a usar la última versión de Webpack configurando un proyecto de React desde cero. \nMuestro cómo crear un empaquetado óptimo para producción y las herramientas que podemos usar en tiempo de desarrollo como webpack-dev-server y fast refresh.\n\n✔ Contenido:\n0:00 Configuración inicial\n1:51 Iniciar proyecto npm e instalar webpack\n5:06 Configuración básica de webpack\n9:56 Configuración de babel y core-js\n20:31 html-clean-plugin y html-webpack-plugin\n23:33 Configuración de css, sass e imágenes\n29:24 webpack-dev-server\n37:35 react fast refresh\n41:02 source maps\n44:50 Code splitting y optimizaciones\n \n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐦Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n👨‍💻 Código fuente:\nhttps://github.com/ymulenll/react-webpack5-boilerplate\n\n📌Enlaces:\nhttps://nodejs.org/en/\nhttps://webpack.js.org/concepts/\nhttps://babeljs.io/\nhttps://webpack.js.org/configuration/resolve/#resolveextensions\nhttps://www.npmjs.com/package/sass-loader\nhttps://webpack.js.org/configuration/dev-server/\nhttps://github.com/pmmmwh/react-refresh-webpack-plugin\nhttps://webpack.js.org/configuration/devtool/\nhttps://webpack.js.org/guides/code-splitting/#entry-points\nhttps://webpack.js.org/plugins/mini-css-extract-plugin/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#webpack #babel #reactjs"
@@ -3994,6 +4048,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "CSS Flexbox | Guía completa DESDE CERO",
         "description": "Guía completa de CSS Flexbox desde cero. CSS Flexbox es uno de los pilares del desarrollo web moderno y es importante que sepamos usarlo. \n\n✅ Contenido:\n0:00 Introducción\n0:25 Estructura inicial\n1:45 display flex vs inline-flex\n3:31 flex-direction\n5:26 flex-wrap\n6:35 justify-content\n8:12 align-items\n10:35 align-content\n13:15 flex-flow\n13:40 order\n14:35 align-self\n15:26 margin auto\n16:21 flex-basis\n19:27 flex-grow\n21:40 flex-shrink\n22:37 la propiedad flex\n9:22 la propiedad flex\n27:04 Despedida\n\n📺 Serie sobre diseño adaptativo:\nhttps://www.youtube.com/playlist?list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/flexbox-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #flexbox"
@@ -4067,6 +4122,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo crear una cuenta 💲GRATIS💲 en AWS 🚀 y alerta de facturación 🔔 | AWS desde cero  - Parte 3",
         "description": "Hoy vamos a crear una cuenta gratuita (free-tier) en Amazon Web Services y configurar una alarma de facturación para evitar sorpresas y que tengamos que pagar por algún servicio. La idea es que no paguemos nada mientras estemos aprendiendo. \n\nContenido:\n0:00 Introducción\n0:48 Entendiendo el free tier\n2:22 Creación de cuenta\n5:36 Inicio de sesión y manejo de la consola\n8:19 Crear alarma de facturación\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -4138,6 +4194,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Conoce la infraestructura global de AWS | AWS desde cero - Parte 2: Infraestructura",
         "description": "Conoce la manera que AWS distribuye sus centros de datos a través del mundo mediante Regiones, Zonas de Disponibilidad y Edge Locations y cómo podemos sacarle el máximo provecho. \n\nContenido:\n0:00 Introducción\n0:53 Regiones\n1:47 Zonas de Disponibilidad (Availability Zones)\n5:03 Edge Locations\n7:54 Preguntas de examen\n\n📺 Videos relacionados:\nSerie sobre computación en la nube con Amazon Web Services\nhttps://youtube.com/playlist?list=PL9T-KKyKXNCmOnsFmS_aWCmvMvd3HCB7b\n\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀  Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -4207,6 +4264,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "¿Qué es la Computación en la Nube? | AWS desde cero - Parte 1: Introducción",
         "description": "Introducción a AWS. Qué es AWS, ventajas y modelos de ejecución.\n\nCurso de computación en la nube usando Amazon Web Services desde cero.\n\nBienvenidos al primer capítulo de esta serie que estoy comenzando sobre computación en la nube. La nube es un tema recurrente en la industria del software y que cada vez existen más ofertas de trabajo y muchísimas empresas la están usando, por lo que es de vital importancia que conozcamos al menos los fundamentos de la computación en la nube, por eso he preparado esta serie, que está dirigida a todos aquellos que quieran aprender sobre estos temas de la nube, no tienes que ser programador ni ingeniero ni administrador de redes, cualquiera con conocimientos generales de computación puede aprender estos temas. Los temas que vamos a ver aplican para cualquier nube, pero en esta serie nos enfocaremos en la nube de Amazon, conocida como Amazon Web Services que es la más usada a nivel mundial, además que les va a servir como preparación para hacer la certificación AWS Certified Cloud Practitioner. Quiero hacer un curso bien práctico donde usaremos todos los servicios esenciales que tiene AWS.\n\nContenido:\n0:00 Introducción\n1:26 Arquitectura Cliente-Servidor\n3:21 Centro de datos tradicional\n6:54 ¿Qué es la Computación en la Nube?\n8:17 Ventajas de la Computación en la Nube\n11:41 Modelos de ejecución: Cloud vs On-Premises vs Hybrid\n14:03 Preguntas\n\n📺 Videos relacionados\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)\nhttps://youtu.be/frsw1WDCxXQ\n\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n👀 Les sugiero pongan el video en 1080p para que vean el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://aws.amazon.com/es/what-is-cloud-computing/?nc1=h_ls\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -4272,6 +4330,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Instalar Ubuntu junto a Windows 10 (Tutorial) | Dual Boot",
         "description": "Les muestro cómo instalar Linux (Ubuntu) cuando ya tienen instalado Windows 10, lo que se le conoce como Dual Boot. \n\nHace unos días instalé Ubuntu (no lo usaba hacía años) por temas de trabajo que me facilita mucho el desarrollo en varios proyectos en los que estoy inmerso últimamente. Les muestro el proceso por si les interesa hacer lo mismo.\n\n✅ Contenido:\n0:00 Introducción y requisito\n0:26 Descargar ISO de Ubuntu\n0:58 Descargar y usar Universal USB installer\n2:01 Crear partición para Linux\n2:32 Desactivar inicio rápido de Windows\n2:59 Desactivar Secure Boot en UEFI Firmware\n3:45 Reiniciar seleccionando el dispositivo USB\n4:25 Configurar instalación\n5:09 Crear particiones root, swap y home\n7:12 Finalizar instalación\n8:35 Menú de Dual Boot\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el contenido con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nUbuntu: https://ubuntu.com/download/desktop\nUniversal USB Installer: https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#linux"
@@ -4341,6 +4400,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Galería de imágenes tipo Pinterest con HTML, CSS y JS | Masonry Layout - Tutorial",
         "description": "Cómo hacer una galería de imágenes tipo Pinterest (Masonry) donde tenemos imágenes de diferentes dimensiones. Les muestro cómo hacerlo con CSS Grid y las limitaciones que éste tiene de momento. Luego lo resolvemos usando una librería de JavaScript. \n\n✅ Contenido:\n0:00 Introducción y primeros pasos\n2:09 CSS Grid\n5:53 CSS Grid Masonry Layout\n8:02 Masonry JS\n13:48 Retoques finales\n\n📺 Videos relacionados:\n\nSerie sobre diseño adaptativo: \nhttps://www.youtube.com/watch?v=f3902x_dqqQ&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&ab_channel=YoelvisMulen%7Bcode%7D\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/masonry-layout\nBorrador CSS Grid v3: https://drafts.csswg.org/css-grid-3/\nDocumentación Masonry Layout: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Masonry_Layout\nLibrería masonry: https://masonry.desandro.com/\nLibrería imagesLoaded: https://imagesloaded.desandro.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid"
@@ -4403,6 +4463,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Especial mil suscriptores 🎉 + 10 cosas sobre mí",
         "description": "Hola amigos, estoy muy feliz de alcanzar los mil suscriptores en YouTube, y sobre todo de poder aportar un poco en el desarrollo profesional de miles de personas lo cual me hace aún más feliz. \n\nEs increíble la buena recepción que han tenido los videos por todos ustedes, todos los videos tienen buenos comentarios y likes, y casi ningun dislike o comentario negativo. Les agradezco una vez más a todos ustedes que me siguen, que ven mis videos y dejan comentarios que me animan a seguir adelante.\n\nMuchísimas gracias.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\nMuchas gracias por ver este video y por seguir el canal.\n\n#10CosasSobreMi"
@@ -4470,6 +4531,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "AWS Cloud Practitioner | Respondo sus preguntas frecuentes + anuncio",
         "description": "Hace un tiempo hice un video contando mi experiencia al hacer la certificación AWS Certified Cloud Practitioner, pero vi que dejaron varias preguntas y por eso seleccioné las 10 que me resultaron más interesantes y les doy respuesta en este video. Espero les sea útil.\n\n📺 Videos relacionados:\nCómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia): https://youtu.be/frsw1WDCxXQ\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#aws"
@@ -4562,6 +4624,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "CSS GRID | Guía completa DESDE CERO",
         "description": "Curso práctico de CSS Grid desde cero.\n\nEl CSS Grid es una herramienta súper útil que si logramos dominar podemos conseguir resultados increíbles con pocas líneas de css. En este video les traigo una guía con todo (o una gran parte) de lo que tiene el CSS Grid. Todo explicado con ejemplos prácticos.\n\n✅ Contenido:\n00:00 Introducción y configuración\n01:25 display grid vs inline-grid\n02:43 grid-template-columns con length y %\n03:42 min-content vs max-content vs fit-content\n06:21 auto vs fr\n07:45 minmax\n08:52 repeat\n10:04 auto-fit vs auto-fill\n14:01 grid-template-rows\n14:38 grid-auto-rows\n15:32 grid-auto-flow\n16:44 grid-auto-columns\n18:07 row-gap vs column-gap vs gap\n19:29 align-items vs justify-items vs place-items\n21:54 align-content vs justify-content vs place-content\n26:21 align-self vs justify-self vs place-self\n29:18 grid-column-start vs grid-column-end vs grid-column\n31:11 grid-row-start vs grid-row-end vs grid-row\n31:50 líneas con números negativos\n32:39 span\n33:55 grid-auto-rows: row dense\n34:35 nombrar las líneas\n37:08 solapar elementos y z-index\n38:10 grid-area\n39:27 layout con grid-template-areas\n43:06 el atajo grid-template\n45:10 el atajo grid\n\n📺 Videos relacionados\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://drafts.csswg.org/css-grid/\n\nproyecto en su estado inicial: https://github.com/ymulenll/css-grid-guide\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid"
@@ -4635,6 +4698,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "CSS Flexbox | Guía completa DESDE CERO | Parte 2 de 2",
         "description": "Guía completa de CSS Flexbox desde cero. CSS Flexbox es uno de los pilares del desarrollo web moderno y es importante que sepamos usarlo. \n\nEn esta guía les muestro las propiedades que podemos usar en los elementos hijos del elemento contenedor.\n\nParte 1 sobre el elemento contenedor (flexbox container):\nhttps://youtu.be/b2X3sYjRAXY\n\n✅ Contenido:\n00:00 Introducción\n00:19 order\n01:14 align-self\n02:05 margin auto\n03:00 flex-basis\n06:06 flex-grow\n08:19 flex-shrink\n09:22 la propiedad flex\n13:46 Despedida\n\n📺 Serie sobre diseño adaptativo: \nhttps://www.youtube.com/playlist?list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/flexbox-guide\n\nMuchas gracias por ver este video, espero le haya sido útil."
@@ -4707,10 +4771,12 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "CSS Flexbox | Guía completa DESDE CERO | Parte 1 de 2",
         "description": "Guía completa de CSS Flexbox desde cero. CSS Flexbox es uno de los pilares del desarrollo web moderno y es importante que sepamos usarlo. \n\nEn esta guía les muestro las propiedades que podemos usar en el elemento contenedor.\n\nParte 2 sobre los elementos hijos (flexbox items):\nhttps://youtu.be/PU1T9DSnxmc\n\n✅ Contenido:\n00:00 Introducción\n00:25 Estructura inicial\n01:45 display flex vs inline-flex\n03:31 flex-direction\n05:26 flex-wrap\n06:35 justify-content\n08:12 align-items\n10:35 align-content\n13:15 flex-flow\n13:45 Despedida\n\n📺 Serie sobre diseño adaptativo:\nhttps://www.youtube.com/playlist?list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/flexbox-guide\n\nMuchas gracias por ver este video, espero le haya sido útil."
-      }
+      },
+      "defaultAudioLanguage": "es"
     },
     "contentDetails": {
       "duration": "PT14M27S",
@@ -4785,6 +4851,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "NPM tutorial | Comandos, versionado, cómo publicar paquetes, npm vs npx, tips",
         "description": "Les muestro qué es npm, los principales comandos, manejo de versiones, cómo publicar paquetes al registro público, ejecutar binarios en scripts vs usando npx. Todo mediante ejemplos.\n\n✅ Contenido:\n00:00 Introducción\n00:23 Qué es npm\n04:32 Instalar npm\n05:30 Inicializar proyecto npm\n06:27 Instalar paquetes locales y globales\n10:16 Desinstalar paquetes locales y globales\n 11:50 Versionado con semantic versioning (SemVer)\n13:11 Actualizar paquetes\n15:56 Recrear node_modules\n16:40 Utilizar paquetes\n17:30 Publicar, actualizar y retirar paquetes\n20:39 Ejecutar binarios, scripts vs npx\n22:49 Resumen\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nhttps://www.npmjs.com/\nhttps://docs.npmjs.com/\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#nodejs #npm"
@@ -4862,6 +4929,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "React.js | Configuración con Webpack y Babel | desde Cero sin usar create-react-app",
         "description": "Muestro cómo configurar un proyecto React.js desde cero usando Webpack y Babel, sin usar generadores como create-react-app. \n\n✅ Contenido:\n00:00 Introducción\n00:29 Iniciar el proyecto React.js con npm\n04:39 Instalar y configurar Webpack\n09:13 Instalar y configurar Babel\n14:18 Instalar y configurar los plugins CleanWebpackPlugin y HtmlWebpackPlugin\n17:08 Instalar y configurar los polyfill usando core-js\n18:40 Configurar browserslist\n19:37 Instalar y configurar webpack-dev-server y los source-map\n21:25 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/react-boilerplate\n\nNotas:\nCreo que es útil saber hacer la configuración por nosotros mismos por si estamos en un proyecto donde necesitamos hacerlo desde cero y además para saber cómo funciona React.js internamente y las herramientas que hacen posible y facilitan su uso. No obstante, no recomiendo esta configuración para un proyecto real ya que existen todavía varias optimizaciones que se pueden hacer, las cuales pienso compartir en otro video.\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#webpack #reactjs"
@@ -4930,6 +4998,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Deja de usar píxeles y usa REM y EM | Ejemplos prácticos #css3 #responsive",
         "description": "✔ Diferencias entre px vs rem vs em y cuándo usarlos.\n✔ Cómo puedes sacarle provecho en la práctica a rem y em para hacer diseños escalables y adapativos. \n✔ Análisis de págians web como YouTube y LinkedIn para ver cómo utilizan los rem.\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nMaquetado responsive con CSS Grid: https://youtu.be/T4t00Hd3qZc\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo del ejemplo: https://github.com/ymulenll/px-vs-rem-vs-em\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css"
@@ -5000,6 +5069,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Maquetado responsive con CSS Grid | Diseño adaptativo #css3 #responsive #tutorial",
         "description": "✅ Contenido:\n  ✔ Maquetación de una página web responsive usando CSS Grid.\n  ✔ Uso de grid-template-columns, grid-template-rows y grid-template-areas.\n  ✔ Uso de la propiedad grid-template y media queries para crear maquetados específicos para cada dispositivo.\n\nA diferencia del CSS flexbox que está diseñado manejar una sola dimensión ya sea horizontal como vertical, CSS Grid nos posibilita diseñar grillas donde podemos manejar tanto las filas como las columnas (2 dimensiones).\n\n📺 Videos relacionados:\nGalería de imágenes responsive usando CSS GRID: https://youtu.be/f3902x_dqqQ\nCSS GRID | Guía completa DESDE CERO: https://youtu.be/iKdwZ91Q4L8\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\nCódigo fuente:\nhttps://github.com/ymulenll/css-grid-template\n\nMuchas gracias por ver este video, espero le haya sido útil.\n#css #grid"
@@ -5138,6 +5208,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Babel desde cero + Webpack | tutorial práctico",
         "description": "¿Quieres hacer tu JavaScript compatible con todos los navegadores?\n\n✅ Contenido:\n00:00 Introducción\n00:17 ECMAScript 2015+ y necesidad de un compilador\n03:16 Babel 7 y su configuración con ejemplos\n06:32 Transformar sintaxis a ES5 con @babel/preset-env\n08:26 Configurar los polyfill con core-js\n13:26 Configurar navegadores a soportar (target)\n15:45 Configuración de Webpack usando babel-loader.\n18:10 Resumen\n\n📺 Videos de la serie sobre webpack: \nhttps://www.youtube.com/watch?v=2UBKjshUwM8&list=PL9T-KKyKXNCl7XuLL-U7i1TFg78HKCB8C\n\n👀 Les sugiero pongan el video en 1080p para que puedan ver el código con nitidez.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌Enlaces:\n\nRepositorio con el ejemplo:\nhttps://github.com/ymulenll/babel-demo\n\nDocumentación sobre babel:\nhttps://babeljs.io/\n\nProposals completados de ECMAScript (stage 4):\nhttps://github.com/tc39/proposals/blob/master/finished-proposals.md\n\nMuchas gracias por ver, espero el video le haya sido útil, hasta el próximo 🙂👍.\n#webpack #babel"
@@ -5203,6 +5274,7 @@
       ],
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Usa tu navegador como un entorno de desarrollo - #devTips 💡",
         "description": "💡 En este video les muestro cómo modificar los archivos de nuestros proyectos directamente desde las herramientas de desarrollador.\n\nMuchas gracias espero te sea de utilidad este tip.\n\n👍 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n#devTips"
@@ -5397,6 +5469,7 @@
       ],
       "categoryId": "28",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Cómo hacer la certificación AWS Certified Cloud Practitioner (mi experiencia)",
         "description": "Hace unos meses pasé con éxito mi primera certificación en la nube de Amazon (AWS Certified Cloud Practitioner) y en este video les voy a compartir mi experiencia y los materiales gratuitos que les van a servir para estudiar para esa certificación. Espero tengan éxito al hacer el examen y les sea de utilidad este video.\n\n📺 Videos relacionados:\nAWS Cloud Practitioner | Respondo sus preguntas frecuentes\nhttps://youtu.be/RRs8edPoZzU\n\n🔔 Suscríbete al canal y activa la campanita para que no te pierdas ningún video:\nhttps://www.youtube.com/yoelvism?sub_confirmation=1\n\n🐤Sígueme en twitter:\nhttps://twitter.com/ymulenll\n\n📌 Enlaces:\n\nSitio web para entrar a la consola de AWS:\nhttps://aws.amazon.com/\n\nDetalles de la certificación:\nhttps://aws.amazon.com/certification/certified-cloud-practitioner/\n\nCurso AWS Cloud Practitioner Essentials (Second Edition) (Spanish):\nhttps://www.aws.training/Details/Curriculum?id=46152\n\nAWS Cloud Practitioner Essentials (Inglés):\nhttps://www.aws.training/Details/eLearning?id=60697\n\nTests gratuitos para practicar:\nhttps://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/1/\n\n#aws"
@@ -5460,6 +5533,7 @@
       ],
       "categoryId": "28",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Conoce GraphQL, es hora de jubilar las API REST - vOpen Uruguay",
         "description": "Charla dada en la Torre de las Comunicaciones en el marco de la conferencia vOpen"
@@ -5514,6 +5588,7 @@
       ],
       "categoryId": "28",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Conoce GraphQL, es tiempo de jubilar las API REST",
         "description": "En este video veremos las deficiencias de API REST y cómo GraphQL viene a resolverlas, además entraremos en detalles sobre qué es GraphQL, de donde surge, características y beneficios. Todo esto con ejemplos y una demo de código.\n\nEjemplo de código de la demo:\nhttps://github.com/ymulenll/graphql-example\n\n#graphQL"
@@ -5571,6 +5646,7 @@
       "channelTitle": "Yoelvis Mulen { code }",
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Principios SOLID parte 5, Liskov Substitution Principle",
         "description": ""
@@ -5628,6 +5704,7 @@
       "channelTitle": "Yoelvis Mulen { code }",
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Principios SOLID parte 4, Interface Segregation Principle",
         "description": ""
@@ -5685,6 +5762,7 @@
       "channelTitle": "Yoelvis Mulen { code }",
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Principios SOLID parte 3, Open Closed Principle",
         "description": ""
@@ -5732,6 +5810,7 @@
       "channelTitle": "Yoelvis Mulen { code }",
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Principios SOLID parte 2, Dependency Inversion Principle",
         "description": "Pueden acceder al código fuente en la siguiente dirección: \nhttps://github.com/ymulenll/SOLID_Git_Repo"
@@ -5789,6 +5868,7 @@
       "channelTitle": "Yoelvis Mulen { code }",
       "categoryId": "27",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Principios SOLID parte 1, Single Responsibility Principle",
         "description": "Pueden acceder al código fuente en la siguiente dirección: \nhttps://github.com/ymulenll/SOLID_Git_Repo"
@@ -5853,6 +5933,7 @@
       ],
       "categoryId": "28",
       "liveBroadcastContent": "none",
+      "defaultLanguage": "es",
       "localized": {
         "title": "Domain Driven Design (DDD) - Diseño guiado por el dominio - Evento de Endava",
         "description": "Charla sobre Diseño guiado por el dominio impartida en Montevideo.\n\n¿Qué es Diseño guiado por el dominio?\n¿Cómo crear un modelo aislado y reutilizable que realmente represente el negocio?\n¿Cómo manejar la complejidad y los cambios en los requerimientos?\n\nEstas y otras preguntas estuvimos intentando resolver mediante el enfoque que nos brinda DDD.\n\nPuedes encontrar los ejemplos de código utilizados en esta charla accediendo al siguiente enlace:\nhttps://github.com/ymulenll/OnlineStore\n\n#ddd"
